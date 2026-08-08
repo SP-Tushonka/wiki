@@ -1,8 +1,8 @@
 ---
-title: Known Mod Issues
+title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T11:42:55.847Z
+date: 2026-08-08T12:21:09.713Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
