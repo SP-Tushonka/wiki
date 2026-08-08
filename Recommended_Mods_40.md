@@ -1,8 +1,8 @@
 ---
-title: Recommended Mods
+title: Recommended Mods for SPT 4.0
 description: A selection of recommended mods to improve your SPT experience.
 published: true
-date: 2026-08-08T11:43:09.530Z
+date: 2026-08-08T12:23:58.857Z
 tags: mods
 editor: markdown
 dateCreated: 2026-08-08T11:23:29.292Z
