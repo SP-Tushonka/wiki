@@ -1,8 +1,8 @@
 ---
-title: Bleeding Edge Install Instructions
+title: Bleeding Edge Install Instructions [for potential deletion]
 description: SPT Bleeding Edge installation instructions for project testing.
 published: false
-date: 2026-08-08T12:30:40.944Z
+date: 2026-08-08T14:52:07.952Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:55.251Z
