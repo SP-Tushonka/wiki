@@ -2,7 +2,7 @@
 title: Installation Guide [Discord inv link]
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-08T14:22:42.067Z
+date: 2026-08-08T16:02:06.091Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
@@ -44,7 +44,7 @@ This is particularly important if you have just installed the game so all necess
 Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://sp-mod.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
 
 ## Common Installation and Start-up Issues
-Below you can find some common issues that users encounter when installing or first starting SPT, along with the solution to fixing it. If your issue is not listed then join our [Discord Server](TODO) and ask in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
+Below you can find some common issues that users encounter when installing or first starting SPT, along with the solution to fixing it. If your issue is not listed then join our [Discord Server](https://discord.sp-tushonka.com/) and ask in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
 
 <details>
 <summary>Could not find a downgrade patcher for the version of the game you have installed.</summary>
@@ -57,8 +57,16 @@ Below you can find some common issues that users encounter when installing or fi
 
 <details>
 <summary>SPT Server crashing instantly or not opening up at all?</summary>
-  
-See the solution [here](https://wiki.sp-tarkov.com/Known_SPT_Issues_40#server-doesnt-launch-or-closes-immediately).
+
+For SPT 4.0 see [here](/SPT_40/Known_SPT_Issues_40#server-doesnt-launch-or-closes-immediately)  
+For SPT 4.1 see [here](/SPT_41/Known_SPT_Issues_41#server-doesnt-launch-or-closes-immediately)
+
+If it tells you that you already have them installed, then use the repair option. Restart your PC after.
+
+<div style="margin-top: 20px;"></div>
+<img src="/runtimes.png" alt=".NET runtimes" width=400 style="display: block; margin: 0 auto;">
+
+If that didn't help, verify that your SPT install path doesn't have any special characters (`;,[]{}` etc.).
 
 </details>
 
@@ -69,7 +77,7 @@ See the solution [here](https://wiki.sp-tarkov.com/Known_SPT_Issues_40#server-do
 <img src="/failedshortcuts.png" style="border: 2px solid grey;" alt="Watermark Error">
 
 This happens because you have moved the `SPT.Server` and/or the `SPT.Launcher`, out of your `[game folder]\SPT` folder. 
-You will need to move these back into your `[game folder]\SPT` folder and create desktop shortcuts of these. You can do this by right-clicking the executables and then Send To > Desktop (Shortcut). The shortcuts to the two are made by the installer automatically, which you can find in the root folder of your SPT install.
+You will need to move these back into your `\SPT_Runtime` folder for SPT 4.1 or `\SPT` for SPT 4.0 and create desktop shortcuts of these. You can do this by right-clicking the executables and then Send To > Desktop (Shortcut). The shortcuts to the two are made by the installer automatically, which you can find in the root folder of your SPT install.
 </details>
 
 ## Old mods and profiles
