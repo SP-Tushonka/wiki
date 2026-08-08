@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0 [EOR]
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T12:46:15.953Z
+date: 2026-08-08T13:53:31.310Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -23,47 +23,47 @@ Read the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) Wiki page to see how to 
 If you verified all your mods to be compatible with your version of SPT and you still have infinite loading, then join our [Discord server](http://discord.sp-tarkov.com/) and follow the [`#support-guidelines`](https://discord.com/channels/875684761291599922/1172733248317694022) on opening a new support thread.
 
 ## BTR Driver chat instantly closes
-Update [Fika](https://forge.sp-tarkov.com/mod/2326/project-fika).
+Update [Project Fika](https://sp-mod.com/mod/2326/project-fika).
 
 ## Raid doesn't get saved after extracting/dying
-If enabled, turn off `Practice Mode` in [SVM](<https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm>)'s `Raid Settings > Raid startup settings`.
+If enabled, turn off `Practice Mode` in [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm)'s `Raid Settings > Raid startup settings`.
 Don't use old presets in newer versions of SVM, and make sure you have the latest version of SVM.
 
-## With [SAIN](<https://forge.sp-tarkov.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement>) bots don't move nor react unless shot at or grenaded 
+## With [SAIN](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) bots don't move nor react unless shot at or grenaded 
 If you're using the any custom preset from the Forge, try using one of the default presets instead.
 
 ## `Error handling request: /client/repeatalbeQuests/activityPeriods`, unable to launch profile
-Update [Quest Tweaks](<https://forge.sp-tarkov.com/mod/1537/sgtlaggys-quest-tweaks>), and restore a backup of your profile per the [Backups](<https://wiki.sp-tarkov.com/Profiles#backups>) section.
+Update [Quest Tweaks](https://sp-mod.com/mod/1537/sgtlaggys-quest-tweaks), and restore a backup of your profile per the [Backups](/SPT_4x/Profiles#backups>) section.
 
 ## ``Error adding locale `ID` to en, duplicate key``
 [Update your SPT.](/SPT_4x/Updating_SPT)
 
-## `An item with the same key has already been added` when using [Expanded Task Text](<https://forge.sp-tarkov.com/mod/2389/expanded-task-text>) and [Gilded Key Storage](<https://forge.sp-tarkov.com/mod/865/gilded-key-storage>)
-Update [Gilded Key Storage](<https://forge.sp-tarkov.com/mod/865/gilded-key-storage>).
+## `An item with the same key has already been added` when using Expanded Task Text and [Gilded Key Storage](https://sp-mod.com/mod/865/gilded-key-storage)
+Update [Gilded Key Storage](https://sp-mod.com/mod/865/gilded-key-storage).
 
-## [Task Automation](<https://forge.sp-tarkov.com/mod/2238/task-automation>) stops working
-Update it and [Expanded Task Text](<https://forge.sp-tarkov.com/mod/2389/expanded-task-text>).
+## [Task Automation](https://sp-mod.com/mod/2238/task-automation) stops working
+Update it and Expanded Task Text.
 
-## `ReflectionTypeLoadException` error while [UnityToolkit](<https://forge.sp-tarkov.com/mod/1426/unitytoolkit>) is installed
+## `ReflectionTypeLoadException` error while [UnityToolkit](https://sp-mod.com/mod/1426/unitytoolkit) is installed
 Delete `[game folder]\BepInEx\patchers\FixPluginTypeSerialization` folder.
 
-## No Hideout crafts when using [Skills Extended](<https://forge.sp-tarkov.com/mod/2383/skills-extended>) and [UI Fixes](<https://forge.sp-tarkov.com/mod/1342/ui-fixes>) when not using English locale
-Update [Skills Extended](<https://forge.sp-tarkov.com/mod/2383/skills-extended>).
+## No Hideout crafts when using Skills Extended and [UI Fixes](https://sp-mod.com/mod/1342/ui-fixes) when not using English locale
+Update Skills Extended.
 
 ## `Critical exception, stopping server... at raidrecord_v0._5.`
-Update [Raid Record](<https://forge.sp-tarkov.com/mod/2341/raidrecord>).
+Update [Raid Record](https://sp-mod.com/mod/2341/raid-record).
 
 ## After dying you're frozen, gun detaches from your hands
-Update [MoreBotsAPI](<https://forge.sp-tarkov.com/mod/2426/morebotsapi>).
+Update [MoreBotsAPI](https://sp-mod.com/mod/2426/morebotsapi).
 
-## Empty Ragman inventory with [Pack 'n' Strap](<https://forge.sp-tarkov.com/mod/1278/wtt-pack-n-strap>) and [Peltor TEP-300 backport](<https://forge.sp-tarkov.com/mod/2420/peltor-tep-300-earplugs-backport-and-fixes>) installed
-Update [Pack 'n' Strap](<https://forge.sp-tarkov.com/mod/1278/wtt-pack-n-strap>) and [Peltor TEP-300 backport](<https://forge.sp-tarkov.com/mod/2420/peltor-tep-300-earplugs-backport-and-fixes>).
+## Empty Ragman inventory with [Pack 'n' Strap](https://sp-mod.com/mod/1278/wtt-pack-n-strap) and [Peltor TEP-300 backport](https://sp-mod.com/mod/2420/peltor-tep-300-earplugs-backport-and-fixes) installed
+Update both mods.
 
 ## `Item "PGU-13/B HEI High Explosive Incendiary" traderPrice is null`
-Update [Item Info](<https://forge.sp-tarkov.com/mod/2430/odts-item-info-spt-40>).
+Update [ODT's Item Info](https://sp-mod.com/mod/2430/odts-item-info-spt-40).
 
 ## Freezing on raid start
-Update [Pack n Strap](<https://forge.sp-tarkov.com/mod/1278/wtt-pack-n-strap>).
+Update [Pack 'n' Strap](https://sp-mod.com/mod/1278/wtt-pack-n-strap).
 
 ## `Shared bot type file ruafRifleman not found...` warning in server console
 Harmless warning you can ignore.
@@ -72,12 +72,12 @@ Harmless warning you can ignore.
 Harmless warning you can ignore.
 
 ## `No C# type for taxonomy node with id... Node name: CustomContainerTemplate`
-Install [WTT - CommonLib](<https://forge.sp-tarkov.com/mod/2310/wtt-commonlib>) and [Use Items Anywhere](<https://forge.sp-tarkov.com/mod/2386/use-items-anywhere>).
+Install [WTT - CommonLib](https://sp-mod.com/mod/2310/wtt-commonlib).
 
 ## Error converting value `#xxxxxx` to type `JsonType.TaxonomyColor`
-Install [Color Converter API](<https://forge.sp-tarkov.com/mod/1090/color-converter-api>).
+Install [Color Converter API](https://sp-mod.com/mod/1090/color-converter-api).
 
-## My flea prices are extreme when using [Live Flea Prices](<https://forge.sp-tarkov.com/mod/1131/live-flea-prices>)
+## My flea prices are extreme when using [Live Flea Prices](https://sp-mod.com/mod/1131/live-flea-prices)
 Those are the prices of items on the Live flea right now. You can check the Live flea on a website [here](https://tarkov.dev/).
 By default, SPT uses the base handbook price of items +/- some variance when simulating the flea.
 To get "normal" flea prices:
@@ -86,62 +86,62 @@ To get "normal" flea prices:
 - [Uninstall](/SPT_4x/Uninstalling_Mods) Live Flea Prices.
 
 ## Handbook gun descriptions are broken with `So descriptive`
-[Uninstall](/SPT_4x/Uninstalling_Mods) [Preview Sizer](<https://forge.sp-tarkov.com/mod/2339/preview-sizer>).
+[Uninstall](/SPT_4x/Uninstalling_Mods) [Preview Sizer](https://sp-mod.com/mod/2339/preview-sizer).
 
 ## You are "invisible" to bots
-If installed, tweak [Ombarella](<https://forge.sp-tarkov.com/mod/2315/ombarella>). If you can't tweak it to your liking, [uninstall it](/SPT_4x/Uninstalling_Mods).
+If installed, tweak [Ombarella](https://sp-mod.com/mod/2315/ombarella). If you can't tweak it to your liking, [uninstall it](/SPT_4x/Uninstalling_Mods).
 
 ## `The given key '67c5412bb032bbdb530201ba Name' was not present in the dictionary`
-[Marlin MXLR](<https://forge.sp-tarkov.com/mod/2484/marlin-mxlr-308-me-lever-action-rifle>) is incompatible with many mods, including [Item Info](<https://forge.sp-tarkov.com/mod/2430/odts-item-info-spt-40>). You will need to either [uninstall it](/SPT_4x/Uninstalling_Mods) or any mod that conflicts with it.
+[Marlin MXLR](https://sp-mod.com/mod/2484/marlin-mxlr-308-me-lever-action-rifle) is incompatible with many mods, including [ODT's Item Info](https://sp-mod.com/mod/2430/odts-item-info-spt-40). You will need to either [uninstall it](/SPT_4x/Uninstalling_Mods) or any mod that conflicts with it.
 
 ## `Method not found:... ArmorDurability ...` error in server console
-Update [APBS](<https://forge.sp-tarkov.com/mod/1594/apbs-acids-progressive-bot-system>).
+Update [APBS](https://sp-mod.com/mod/1594/apbs-acids-progressive-bot-system).
 
-## Bots aren't hostile while using [SAIN](<https://forge.sp-tarkov.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement>) after uninstalling a custom bot mod
+## Bots aren't hostile while using [SAIN](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) after uninstalling a custom bot mod
 Delete your `[game folder]\BepInEx\plugins\SAIN\Default Bot Config Values` folder. SAIN will regenerate it on game launch.
 
-## Trying to reach Prestige 6 from [Content Backport - Prestiges](<https://forge.sp-tarkov.com/mod/2540/content-backport-prestiges>) shows a blank screen
-Update [Content Backport - Prestiges](<https://forge.sp-tarkov.com/mod/2540/content-backport-prestiges>).
+## Trying to reach Prestige 6 from [Content Backport - Prestiges](https://sp-mod.com/mod/2540/content-backport-prestiges) shows a blank screen
+Update it..
 
 ## `ObjectId must be a 24-character hex string. (Parameter '..._BOOBS...')` when using the Cultist Circle
-Update [AES](<https://forge.sp-tarkov.com/mod/874/aes>).
+Update [AES](https://sp-mod.com/mod/874/aes).
 
 ## `Field not found:... EFT.Profile.Hideout` error message
-Update [Boss Notifier](<https://forge.sp-tarkov.com/mod/2543/bossnotifier>).
+Update [Boss Notifier](https://sp-mod.com/mod/2543/bossnotifier).
 
 ## `The given key '[UNTAR/RUAF/blackdiv]' was not present in the dictionary` error after uninstalling a custom bot mod
 You did not fully uninstall said mod. See the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) Wiki page how and where you should uninstall your mods.
 
 ## No snow even with the Christmas event enabled
-Update [Project Fika](<https://forge.sp-tarkov.com/mod/2326/project-fika>).
+Update [Project Fika](https://sp-mod.com/mod/2326/project-fika).
 
-## Stuck on loading hideout with [SALCO's Arsenal](<https://forge.sp-tarkov.com/mod/2585/salcos-arsenal-reboot#versions>) installed
-Update [SALCO's Arsenal](<https://forge.sp-tarkov.com/mod/2585/salcos-arsenal-reboot#versions>).
+## Stuck on loading hideout with SALCO's Arsenal installed
+Install [SALCO's Armory](https://sp-mod.com/mod/2794/salcos-armory) instead.
 
 ## Ragman has no clothes for sale
-Update [SVM](<https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm>).
+Update [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm).
 
-## Screen flickers black when using [DERP](<https://forge.sp-tarkov.com/mod/2200/dynamic-external-resolution-patch-derp>)
+## Screen flickers black when using [DERP](https://sp-mod.com/mod/2200/dynamic-external-resolution-patch-derp)
 The black flicker only occurs when using DLSS or FSR. You can avoid it by using TAA and the Sampling Downgrade slider instead.
 Note that setting the same Scaling Mode in DERP's F12 settings as in your Graphics settings will effectively disable its functionality.
 
-## Infinite loading after installing [Tarkov DLSS 4.5](<https://forge.sp-tarkov.com/mod/2621/tarkov-dlss-45>)
+## Infinite loading after installing [Tarkov DLSS 4.5](https://sp-mod.com/mod/2621/tarkov-dlss-45)
 Uninstall the mod, set DLSS to any preset after **Preset J**, and reinstall the mod.
 
-## Guns gain extreme firerate with [Artem](<https://forge.sp-tarkov.com/mod/1023/wtt-artem>) and [Borkel's Realistic NVGs](<https://forge.sp-tarkov.com/mod/954/borkels-realistic-night-vision-goggles-nvgs-and-t-7>)
+## Guns gain extreme firerate with [Artem](https://sp-mod.com/mod/1023/wtt-artem) and [Borkel's Realistic NVGs](https://sp-mod.com/mod/954/borkels-realistic-night-vision-goggles-nvgs-and-t-7)
 Known issue when using the Black GPNVGs from Artem. Borkel's includes an option black texture for the vanilla item inside `[game folder]\SPT\user\mods\BRNVG_N-15Adapter\optional black GPNVG-18`.
-This issue also affects bots. You will need to use a mod like [APBS](<https://forge.sp-tarkov.com/mod/1594/apbs-acids-progressive-bot-system>) to blacklist that item from bot loadouts. The ID for the Black GPNVGs is `66326bfd46817c660d015146`.
+This issue also affects bots. You will need to use a mod like [APBS](https://sp-mod.com/mod/1594/apbs-acids-progressive-bot-system) to blacklist that item from bot loadouts. The ID for the Black GPNVGs is `66326bfd46817c660d015146`.
 
-## `Nullable object must have a value` server error with [MassivesoftWeapons](<https://forge.sp-tarkov.com/mod/2588/massivesoftweapons>) installed
-Update [MassivesoftWeapons](<https://forge.sp-tarkov.com/mod/2588/massivesoftweapons>).
+## `Nullable object must have a value` server error with [MassivesoftWeapons](https://sp-mod.com/mod/2588/massivesoftweapons) installed
+Update it.
 
-## `Object reference not set to an instance of an object` when loading into raid/hideout with [Amands's Graphics](<https://forge.sp-tarkov.com/mod/592/amandss-graphics>) and [Borkel's Realistic NVGs](<https://forge.sp-tarkov.com/mod/954/borkels-realistic-night-vision-goggles-nvgs-and-t-7>) installed
+## `Object reference not set to an instance of an object` when loading into raid/hideout with [Amands's Graphics](https://sp-mod.com/mod/592/amandss-graphics) and [Borkel's Realistic NVGs](https://sp-mod.com/mod/954/borkels-realistic-night-vision-goggles-nvgs-and-t-7) installed
 The two mods are incompatible. Uninstall one of them.
 
 ## Equipped mod clothing resets to default after game restart
 Change `removeModItemsFromProfile` and `removeInvalidTradersFromProfile` back to `false` in `[game folder]\SPT\SPT_Data\configs\core.json`.
 
 # See also
-[Frequently Asked Questions](/SPT_40/FAQs_40)
+[Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
 
 
