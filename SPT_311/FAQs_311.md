@@ -1,8 +1,8 @@
 ---
-title: FAQs for SPT 3.11
+title: FAQs for SPT 3.11 [for potential deletion]
 description: Answers to frequently asked questions about SPT 3.11.
 published: false
-date: 2026-08-08T12:27:03.778Z
+date: 2026-08-08T12:54:39.707Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:18.194Z
