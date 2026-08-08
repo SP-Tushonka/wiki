@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0 [EOR]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T12:56:34.179Z
+date: 2026-08-08T12:58:28.091Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -28,7 +28,7 @@ Version `0.16.9.0.40087`, released 2 October 2025.
 Refer to the previous question. If you're curious about something specific, please see the official [live game changelog](<https://escapefromtarkov.fandom.com/wiki/Changelog>).
 
 ## Is Labyrinth in `4.0`?
-Yes. See the [live wiki](<https://escapefromtarkov.fandom.com/wiki/The_Labyrinth>) on how to access it.
+Yes. See the [official wiki](<https://escapefromtarkov.fandom.com/wiki/The_Labyrinth>) on how to access it.
 
 ## Is the Softcore/Hardcore wipe in SPT? 
 No. The hardcore wipe only made changes to the PVP mode. SPT `4.0` is using game version `0.16.9.0.40087` which came before the softcore wipe changes were added to PVE.
@@ -51,7 +51,7 @@ Nobody knows when certain mods are going to update, not even the authors themsel
 
 ## Will a mod marked compatible for `4.0.0` work on future versions of `4.0`?
 Mods made for previous hotfix versions should work on the latest version. Those that don't might have received an update to address that.
-Mods known to be incompatible with be stated in the `Mod compatibility` section of SPT's [Release page](<https://github.com/sp-tarkov/build/releases/latest>) and in [Known Mod Issues](/SPT_40/Known_Mod_Issues_40).
+Mods known to be incompatible with be stated in the `Mod compatibility` section of SPT's [Release page](https://github.com/sp-tarkov/build/releases/tag/4.0.13) and in [Known Mod Issues](/SPT_40/Known_Mod_Issues_40).
 For an explanation of how SPT versions work and how to update your SPT, read through the [Updating SPT](/SPT_4x/Updating_SPT) Wiki page.
 
 ## Bot spawns
