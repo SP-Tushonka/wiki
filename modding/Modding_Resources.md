@@ -2,18 +2,18 @@
 title: Modding Resources
 description: 
 published: true
-date: 2026-08-08T11:44:07.512Z
+date: 2026-08-08T16:19:15.702Z
 tags: modding
 editor: markdown
 dateCreated: 2026-08-08T11:24:48.686Z
 ---
 
-> This page applies to SPT version `4.0`
+> This page applies to SPT version `4.0` and `4.1`
 {.is-info}
 
 Resources to get started making mods. It is recommended to begin with server mods.
 
-### [SPT Discord server](http://discord.sp-tarkov.com/) mod development channels:
+### [SPT Discord server](https://discord.sp-tushonka.com/) mod development channels:
 - [#mods-resources](https://discord.com/channels/875684761291599922/875806757836951575)
 - [#mods-development](https://discord.com/channels/875684761291599922/875803116409323562)
 
