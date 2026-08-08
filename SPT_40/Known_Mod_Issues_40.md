@@ -1,8 +1,8 @@
 ---
-title: Known Mod Issues for SPT 4.0
+title: Known Mod Issues for SPT 4.0 [EOR]
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T12:21:09.713Z
+date: 2026-08-08T12:46:15.953Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -13,12 +13,12 @@ dateCreated: 2026-08-08T11:23:10.175Z
 
 ## Infinite loading after installing mods
 This happens most often due to installing mods not made for your version of SPT.
-- Outdated [**server**](<https://wiki.sp-tarkov.com/en/Mod_Types#server-mods>) mods will either flag red errors in your SPT server terminal and prevent any mods from being loaded, or not load at all.
-- Outdated [**client**](<https://wiki.sp-tarkov.com/en/Mod_Types#client-mods>) mods will **not** throw errors in the SPT server terminal window and **will** allow the game to launch, but then might encounter infinite loading or other issues.
+- Outdated [**server**](https://wiki.sp-tushonka.com/SPT_4x/Mod_Types#server-mods) mods will either flag red errors in your SPT server terminal and prevent any mods from being loaded, or not load at all.
+- Outdated [**client**](https://wiki.sp-tushonka.com/SPT_4x/Mod_Types#client-mods) mods will **not** throw errors in the SPT server terminal window and **will** allow the game to launch, but then might encounter infinite loading or other issues.
 
-When selecting the mods you want to install, make sure that you **only install mods that have been marked compatible with [your SPT version](<https://wiki.sp-tarkov.com/en/Updating_SPT#version-numbers>)**. Mods for incompatible SPT versions will not work, and will break things. If you are unsure what version of SPT you are on, you can see the SPT version in the top left of the server window or in the bottom left while in-game.
+When selecting the mods you want to install, make sure that you **only install mods that have been marked compatible with [your SPT version](https://wiki.sp-tushonka.com/en/SPT_4x/Updating_SPT#version-numbers)**. Mods for incompatible SPT versions will not work, and will break things. If you are unsure what version of SPT you are on, you can see the SPT version in the top left of the server window or in the bottom left while in-game.
 
-Read the [Uninstalling Mods](<https://wiki.sp-tarkov.com/Uninstalling_Mods>) Wiki page to see how to remove your outdated mods.
+Read the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) Wiki page to see how to remove your outdated mods.
 
 If you verified all your mods to be compatible with your version of SPT and you still have infinite loading, then join our [Discord server](http://discord.sp-tarkov.com/) and follow the [`#support-guidelines`](https://discord.com/channels/875684761291599922/1172733248317694022) on opening a new support thread.
 
@@ -36,7 +36,7 @@ If you're using the any custom preset from the Forge, try using one of the defau
 Update [Quest Tweaks](<https://forge.sp-tarkov.com/mod/1537/sgtlaggys-quest-tweaks>), and restore a backup of your profile per the [Backups](<https://wiki.sp-tarkov.com/Profiles#backups>) section.
 
 ## ``Error adding locale `ID` to en, duplicate key``
-[Update your SPT.](/Updating_SPT)
+[Update your SPT.](/SPT_4x/Updating_SPT)
 
 ## `An item with the same key has already been added` when using [Expanded Task Text](<https://forge.sp-tarkov.com/mod/2389/expanded-task-text>) and [Gilded Key Storage](<https://forge.sp-tarkov.com/mod/865/gilded-key-storage>)
 Update [Gilded Key Storage](<https://forge.sp-tarkov.com/mod/865/gilded-key-storage>).
@@ -70,6 +70,7 @@ Harmless warning you can ignore.
 
 ## `No locale files found or loaded from... \Badger\Locales`
 Harmless warning you can ignore.
+
 ## `No C# type for taxonomy node with id... Node name: CustomContainerTemplate`
 Install [WTT - CommonLib](<https://forge.sp-tarkov.com/mod/2310/wtt-commonlib>) and [Use Items Anywhere](<https://forge.sp-tarkov.com/mod/2386/use-items-anywhere>).
 
@@ -77,21 +78,21 @@ Install [WTT - CommonLib](<https://forge.sp-tarkov.com/mod/2310/wtt-commonlib>) 
 Install [Color Converter API](<https://forge.sp-tarkov.com/mod/1090/color-converter-api>).
 
 ## My flea prices are extreme when using [Live Flea Prices](<https://forge.sp-tarkov.com/mod/1131/live-flea-prices>)
-Those are the prices of items on the Live flea right now. You can check the Live flea on websites like <https://tarkov.dev/>.
+Those are the prices of items on the Live flea right now. You can check the Live flea on a website [here](https://tarkov.dev/).
 By default, SPT uses the base handbook price of items +/- some variance when simulating the flea.
 To get "normal" flea prices:
 - Wait for the Live flea prices to stabilise.
 - Set `"pvePrices"` to `true` inside Live Flea Prices' config file to use the PvE Live flea prices instead.
-- [Uninstall](<https://wiki.sp-tarkov.com/Uninstalling_Mods>) Live Flea Prices.
+- [Uninstall](/SPT_4x/Uninstalling_Mods) Live Flea Prices.
 
 ## Handbook gun descriptions are broken with `So descriptive`
-[Uninstall](<https://wiki.sp-tarkov.com/en/Uninstalling_Mods>) [Preview Sizer](<https://forge.sp-tarkov.com/mod/2339/preview-sizer>).
+[Uninstall](/SPT_4x/Uninstalling_Mods) [Preview Sizer](<https://forge.sp-tarkov.com/mod/2339/preview-sizer>).
 
 ## You are "invisible" to bots
-If installed, tweak [Ombarella](<https://forge.sp-tarkov.com/mod/2315/ombarella>). If you can't tweak it to your liking, [uninstall it](<https://wiki.sp-tarkov.com/Uninstalling_Mods>).
+If installed, tweak [Ombarella](<https://forge.sp-tarkov.com/mod/2315/ombarella>). If you can't tweak it to your liking, [uninstall it](/SPT_4x/Uninstalling_Mods).
 
 ## `The given key '67c5412bb032bbdb530201ba Name' was not present in the dictionary`
-[Marlin MXLR](<https://forge.sp-tarkov.com/mod/2484/marlin-mxlr-308-me-lever-action-rifle>) is incompatible with many mods, including [Item Info](<https://forge.sp-tarkov.com/mod/2430/odts-item-info-spt-40>). You will need to either [uninstall it](<https://wiki.sp-tarkov.com/en/Uninstalling_Mods>) or any mod that conflicts with it.
+[Marlin MXLR](<https://forge.sp-tarkov.com/mod/2484/marlin-mxlr-308-me-lever-action-rifle>) is incompatible with many mods, including [Item Info](<https://forge.sp-tarkov.com/mod/2430/odts-item-info-spt-40>). You will need to either [uninstall it](/SPT_4x/Uninstalling_Mods) or any mod that conflicts with it.
 
 ## `Method not found:... ArmorDurability ...` error in server console
 Update [APBS](<https://forge.sp-tarkov.com/mod/1594/apbs-acids-progressive-bot-system>).
@@ -109,7 +110,7 @@ Update [AES](<https://forge.sp-tarkov.com/mod/874/aes>).
 Update [Boss Notifier](<https://forge.sp-tarkov.com/mod/2543/bossnotifier>).
 
 ## `The given key '[UNTAR/RUAF/blackdiv]' was not present in the dictionary` error after uninstalling a custom bot mod
-You did not fully uninstall said mod. See the [Uninstalling Mods](<https://wiki.sp-tarkov.com/Uninstalling_Mods>) Wiki page how and where you should uninstall your mods.
+You did not fully uninstall said mod. See the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) Wiki page how and where you should uninstall your mods.
 
 ## No snow even with the Christmas event enabled
 Update [Project Fika](<https://forge.sp-tarkov.com/mod/2326/project-fika>).
@@ -141,6 +142,6 @@ The two mods are incompatible. Uninstall one of them.
 Change `removeModItemsFromProfile` and `removeInvalidTradersFromProfile` back to `false` in `[game folder]\SPT\SPT_Data\configs\core.json`.
 
 # See also
-[Frequently Asked Questions](/FAQs_40)
+[Frequently Asked Questions](/SPT_40/FAQs_40)
 
 
