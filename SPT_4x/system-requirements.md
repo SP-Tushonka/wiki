@@ -2,13 +2,13 @@
 title: System Requirements
 description: The system requirements to run SPT.
 published: true
-date: 2026-08-08T11:43:39.616Z
+date: 2026-08-08T14:23:50.823Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:10.908Z
 ---
 
-> This page applies to SPT version `4.0`
+> This page applies to SPT version `4.0` and `4.1`
 {.is-info}
 
 # System Requirements
@@ -29,4 +29,4 @@ The following are the minimum requirements we have found necessary to reliably r
 |                  | [ASP.NET 9.0.10](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-9.0.10-windows-x64-installer) |
 
 # See also
-[Performance Tuning](/Performance_Tuning)
+[Performance Tuning](/SPT_4x/Performance_Tuning)
