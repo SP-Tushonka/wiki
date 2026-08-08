@@ -2,7 +2,7 @@
 title: How to Contribute [Discord inv and Github links]
 description: Learn how to contribute to the SPT Wiki.
 published: true
-date: 2026-08-08T14:32:26.189Z
+date: 2026-08-08T15:40:48.172Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:24:03.421Z
@@ -10,12 +10,12 @@ dateCreated: 2026-08-08T11:24:03.421Z
 
 ## Wiki.js
 [Wiki.js](https://js.wiki/) is the framework the SPT Wiki uses. However, this framework currently does not directly support edit requests.
-Trusted community members are given the ability to directly edit the Wiki. You can leave suggestions in the [`#website-wiki`](https://discord.com/channels/875684761291599922/1426941224324960266) channel on our [Discord server](TODO).
-If instead you'd like to submit or edit a page, you'd need to make a pull request on the [Wiki's Github page](TODO).
+Trusted community members are given the ability to directly edit the Wiki. You can leave suggestions in the [`#website-wiki`](https://discord.com/channels/875684761291599922/1426941224324960266) channel on our [Discord server](https://discord.sp-tushonka.com/).
+If instead you'd like to submit or edit a page, you'd need to make a pull request on the [Wiki's Github page](https://github.com/SP-Tushonka/wiki).
 
 ## Pull requests
 To set up a pull request, first you'll need to create a fork of the Wiki. 
-1. On the [Wiki's Github page](https://github.com/sp-tarkov/wiki/), simply click the `Fork` button.
+1. On the [Wiki's Github page](https://github.com/SP-Tushonka/wiki), simply click the `Fork` button.
 2. This will create a fork, or a seperate copy, of the Wiki under your control. You will be able to add or edit pages freely to it.
 3. Once you're happy with the changes you made, you'll be able to create a pull request. That is a request to merge the changes you made in your fork to the actual Wiki.
 4. On your fork's `Pull requests` page, press the `New pull request` button. Github should automatically select the correct repositories. It will let you know if the pull request is `Able to merge`.
