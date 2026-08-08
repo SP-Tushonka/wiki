@@ -2,7 +2,7 @@
 title: Home [Discord inv link]
 description: 
 published: true
-date: 2026-08-08T15:31:15.384Z
+date: 2026-08-08T15:31:59.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:59.160Z
@@ -33,7 +33,7 @@ Dive into the world of SPT modding to tailor your experience:
 - [Understanding Mod Types](/SPT_4x/Mod_Types): Learn the difference between server mods and client mods.
 - [Installing Mods](/SPT_4x/Installing_Mods): General guide on adding mods to your game.
   - [Updating Mods](/SPT_4x/Installing_Mods#updating-mods)
-- [Uninstalling Mods](/Uninstalling_Mods): A guide on uninstalling SPT mods.
+- [Uninstalling Mods](/SPT_4x/Uninstalling_Mods): A guide on uninstalling SPT mods.
 
 ## Troubleshooting
 
