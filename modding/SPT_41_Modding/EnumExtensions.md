@@ -2,7 +2,7 @@
 title: Enum Extensions
 description: Extending Enums in the server and the client.
 published: true
-date: 2026-08-08T11:44:12.416Z
+date: 2026-08-08T13:08:40.475Z
 tags: modding, client, server, enum
 editor: markdown
 dateCreated: 2026-08-08T11:24:56.258Z
@@ -304,4 +304,4 @@ The server and client enum types do not need to have the same fully qualified na
 
 ## Related
 
-- [Server Mod Migration - 4.0 to 4.1](/SPT_41/Server_40_to_41)
+- [Server Mod Migration - 4.0 to 4.1](/modding/SPT_41_Modding/Server_40_to_41)
