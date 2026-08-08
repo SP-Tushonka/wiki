@@ -1,8 +1,8 @@
 ---
-title: Maunal Installation Instructions for SPT 4.0 [TODO or delete]
+title: Maunal Installation Instructions for SPT 4.0 [for potential deletion]
 description: 
 published: false
-date: 2026-08-08T12:52:50.208Z
+date: 2026-08-08T16:18:06.216Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:29.696Z
