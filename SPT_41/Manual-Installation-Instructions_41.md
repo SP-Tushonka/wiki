@@ -2,7 +2,7 @@
 title: Manual Install Instructions for SPT 4.1
 description: 
 published: true
-date: 2026-08-08T11:43:58.572Z
+date: 2026-08-08T13:11:20.427Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:37.271Z
@@ -11,7 +11,7 @@ dateCreated: 2026-08-08T11:24:37.271Z
 > This page applies to SPT version `4.1`
 {.is-info}
 
-It's always preferable to use the [SPT Installer](/Installation_Guide) instead of manually updating. If you run into issues with it join our [Discord Server](http://discord.sp-tarkov.com/) and ask for support in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
+It's always preferable to use the [SPT Installer](/SPT_4x/Installation_Guide) instead of manually updating. If you run into issues with it join our [Discord Server](http://discord.sp-tarkov.com/) and ask for support in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
 
 ## What you need to do before you manually install SPT
 
@@ -40,7 +40,7 @@ This is particularly important if you have just installed the game so all necess
 11. To make it easier to launch SPT in the future, you can right click `SPT.Server` and `SPT.Launcher`, select `Send to > Desktop (create shortcut)`. These are located in the `\SPT_Runtime` folder and should not be moved out.
 12. Click `Start Game` and load into the main menu.
 
-Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://forge.sp-tarkov.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](https://wiki.sp-tarkov.com/Installing_Mods) Wiki page.
+Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://forge.sp-tarkov.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
 
 ## Common Installation and Start-up Issues
 Below you can find some common issues that users encounter when installing or first starting SPT, along with the solution to fixing it. If your issue is not listed then join our [Discord Server](http://discord.sp-tarkov.com/) and ask in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
@@ -70,12 +70,11 @@ You will need to move these back into your `SPT_Runtime` folder and create deskt
 ## Old mods and profiles
 You cannot use any of your old mod files in a newer SPT version. If you want to use the same mods, you need to download updated versions of them once they have been updated to the latest SPT version.
 
-Some old profiles can work. See the [version numbers](https://wiki.sp-tarkov.com/Updating_SPT#version-numbers) section for more details.
+Some old profiles can work. See the [version numbers](/SPT_4x/Updating_SPT#version-numbers) section for more details.
 
 # See also
-[System Requirements](/system-requirements)
-[Updating SPT](/Updating_SPT)
-[Installing Mods](/Installing_Mods)
-[Frequently Asked Questions](/FAQs_40)
+[System Requirements](/SPT_4x/system-requirements)
+[Updating SPT](/SPT_4x/Updating_SPT)
+[Installing Mods](/SPT_4x/Installing_Mods)
 
 
