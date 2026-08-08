@@ -1,8 +1,8 @@
 ---
-title: How to Contribute [Discord inv and Github links]
+title: How to Contribute
 description: Learn how to contribute to the SPT Wiki.
 published: true
-date: 2026-08-08T15:40:48.172Z
+date: 2026-08-08T15:40:55.707Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:24:03.421Z
