@@ -1,8 +1,8 @@
 ---
-title: Installation Guide [Discord inv link]
+title: Installation Guide
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-08T16:02:06.091Z
+date: 2026-08-08T16:08:49.781Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
@@ -76,7 +76,7 @@ If that didn't help, verify that your SPT install path doesn't have any special 
 
 <img src="/failedshortcuts.png" style="border: 2px solid grey;" alt="Watermark Error">
 
-This happens because you have moved the `SPT.Server` and/or the `SPT.Launcher`, out of your `[game folder]\SPT` folder. 
+This happens because you have moved the `SPT.Server.exe` and/or the `SPT.Launcher.exe`, out of your their folder. 
 You will need to move these back into your `\SPT_Runtime` folder for SPT 4.1 or `\SPT` for SPT 4.0 and create desktop shortcuts of these. You can do this by right-clicking the executables and then Send To > Desktop (Shortcut). The shortcuts to the two are made by the installer automatically, which you can find in the root folder of your SPT install.
 </details>
 
