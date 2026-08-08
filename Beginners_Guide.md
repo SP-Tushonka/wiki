@@ -1,8 +1,8 @@
 ---
-title: Beginner's Guide [EOR]
+title: Beginner's Guide
 description: A beginner's overview of the SPT project.
 published: true
-date: 2026-08-08T13:22:44.383Z
+date: 2026-08-08T13:33:51.336Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:43.689Z
@@ -24,12 +24,8 @@ SPT is a modding framework made for people who want to play offline singleplayer
 - Open source: You are free to inspect, fork and build the project from our source code for non-commercial purposes.
 
 ## Official links
-- [Official website](https://www.sp-tarkov.com/)
-- [SPT Forge](https://forge.sp-tarkov.com/) - The home of the community and mods
+- [SPT Forge](https://sp-mod.com/) - The home of the community and mods
 - [Discord Server](http://discord.sp-tarkov.com/) - The other home of the community and best place to ask for support
-- [Documentation](https://docs.sp-tarkov.com/)
-- [Development](https://dev.sp-tarkov.com/)
-- [Github](https://github.com/sp-tarkov/)
 
 ## Getting started
 - [System Requirements](/SPT_4x/system-requirements): The system requirements to run SPT.
@@ -45,6 +41,5 @@ The best way to help is to give some of your time and energy to keep this place 
 - Be an active community member and keep this place lively!
 - Have your friends join our [Discord](http://discord.sp-tarkov.com/) server.
 - Contribute to the project (feel free to ask how to best contribute over at ⁠[`#dev-community`](https://discord.com/channels/875684761291599922/875707258074447904).
-- Help translate the project on [Crowdin](https://crowdin.com/project/spt-translation).
 - Make mods.
 - Write tutorials and documentation for the community.
