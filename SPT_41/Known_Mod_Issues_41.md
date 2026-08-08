@@ -1,8 +1,8 @@
 ---
-title: Known Mod Issues for SPT 4.1 [discord inv link]
+title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-08T15:13:54.539Z
+date: 2026-08-08T15:14:39.073Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
