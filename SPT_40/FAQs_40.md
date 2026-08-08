@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0 [Discord inv link]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T14:51:34.474Z
+date: 2026-08-08T15:05:06.956Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -85,7 +85,7 @@ Yes. You can [install SPT](/SPT_4x/Installation_Guide>) while having `1.0` insta
 ### Is it possible to install SPT with the Steam copy of the retail game?
 Yes. See the [install guide](/SPT_4x/Installation_Guide).
 ### Can I update my retail copy or will that break my existing SPT install?
-That's not how SPT works. The installer makes a **copy** of your game client files to a **separate** location. Update your retail copy as much as you want.
+The installer makes a **copy** of your game client files to a **separate** location. Update your retail copy as much as you want.
 
 
 # Troubleshooting tips
@@ -105,7 +105,7 @@ This is the current space requirements (compounding) to install SPT:
 - Extract/Copy Patcher: 14GB
 - Post-patcher: ~35GB
 
-So while the final install size is ~60GB, the maximum allocated for SPT and associated install files _during the install process_ is ~100GB combined.
+So while the final install size is ~60GB, the maximum allocated for SPT and associated install files *during the install process* is ~100GB combined.
 
 # Known Issues
 - [Known Live Game Issues](/SPT_40/Known_Live_Issues_40)
