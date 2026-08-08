@@ -2,7 +2,7 @@
 title: Updating SPT
 description: Learn how to update your SPT installation.
 published: true
-date: 2026-08-08T16:04:37.070Z
+date: 2026-08-08T16:05:04.389Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:51.525Z
@@ -15,7 +15,7 @@ dateCreated: 2026-08-08T11:23:51.525Z
 {.is-warning}
 
 
-1. Download the appropriate files from the link in [`#spt-announcements`](https://discord.com/channels/875684761291599922/875706629260197908) in our [Discord server](https://discord.sp-tushonka.com/).
+1. Download the appropriate release files from a link in [`#spt-announcements`](https://discord.com/channels/875684761291599922/875706629260197908) in our [Discord server](https://discord.sp-tushonka.com/).
 2. Close your game, launcher, and server.
 3. Open the downloaded SPT files using [7zip](https://www.7-zip.org/).
 4. Copy contents of the 7z file into your **existing** folder, **overwrite all files**.
