@@ -1,8 +1,8 @@
 ---
-title: FAQs for SPT 4.0 [Edit on main release]
+title: FAQs for SPT 4.0 [EOR]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T12:40:25.567Z
+date: 2026-08-08T12:41:29.837Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
