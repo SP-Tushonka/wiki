@@ -1,8 +1,8 @@
 ---
-title: Bot Difficulties [EOR]
+title: Bot Difficulties
 description: Learn how SPT and mods handle bots' difficulty.
 published: true
-date: 2026-08-08T13:16:29.880Z
+date: 2026-08-08T13:57:41.588Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:22:47.356Z
@@ -28,10 +28,10 @@ The selected difficulty in the **Pre-Raid Setting** determines which *difficulty
 
 These *difficulty classes* only make changes to PMCs and Scavs, as Bosses have the same difficulty regardless of their *difficulty class*.
 
-Note that [SVM](https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm) can be used to change which **difficulty** is selected by default in the **Pre-Raid Setting**. Otherwise, it will always default to **As in online**.
+Note that [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm) can be used to change which **difficulty** is selected by default in the **Pre-Raid Setting**. Otherwise, it will always default to **As in online**.
 
 ## SAIN Presets
-Each preset in [SAIN](https://forge.sp-tarkov.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement)'s <kbd>F6</kbd> menu will alter each *difficulty class* individually. This allows you to separately tweak how hard an *Easy* bot is vs. a *Hard* bot, and so on.
+Each preset in [SAIN](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement)'s <kbd>F6</kbd> menu will alter each *difficulty class* individually. This allows you to separately tweak how hard an *Easy* bot is vs. a *Hard* bot, and so on.
 
 Note that this is **not** the same as changing the **difficulty** in the **Pre-Raid Settings**. This will **not** change which *difficulty classes* can spawn in the raid, it will only alter the behaviours of each *difficulty class*.
 &nbsp;
