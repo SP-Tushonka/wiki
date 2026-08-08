@@ -2,7 +2,7 @@
 title: Frequently Asked Questions for SPT 4.1 [Discord inv link]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T15:25:30.610Z
+date: 2026-08-08T15:51:00.602Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -19,7 +19,7 @@ dateCreated: 2026-08-08T15:06:51.667Z
 
 - "I'm still having issues and it wasn't the last mod I installed, what do I do?" 
 Start removing mods one at a time, or if you have a lot of mods, follow the [50/50 Method](/SPT_4x/5050-method>). When you've identified the mod responsible, check the mod page to see if it's actually an issue or an intended feature. Check the comments section to see if anyone else reported the same problem you're experiencing. 
-If none of that helps, then it's time to create a support ticket. Join our [Discord Server](TODO) and read through the [#support-guidelines](https://discord.com/channels/875684761291599922/1172733248317694022) for instructions.
+If none of that helps, then it's time to create a support ticket. Join our [Discord Server](https://discord.sp-tushonka.com/) and read through the [#support-guidelines](https://discord.com/channels/875684761291599922/1172733248317694022) for instructions.
 
 
 ## What client version of the game is SPT running?
@@ -43,7 +43,7 @@ Also in `\SPT_Runtime`.
 
 ## Will a mod marked compatible for `4.1.X` work on future versions of `4.1`?
 Mods made for previous hotfix versions should work on the latest version. Those that don't might have received an update to address that.
-Mods known to be incompatible with be stated in the `Mod compatibility` section of SPT's [Release page](TODO) and in [Known Mod Issues for 4.1](/SPT_41/Known_Mod_Issues_41).
+Mods known to be incompatible with be stated in [Known Mod Issues for 4.1](/SPT_41/Known_Mod_Issues_41).
 For an explanation of how SPT versions work and how to update your SPT, read through the [Updating SPT](/SPT_4x/Updating_SPT>) Wiki page.
 
 ## How much free space is necessary to install SPT?
