@@ -2,7 +2,7 @@
 title: Installing Mods [Discord inv link]
 description: General guide on adding mods to your game.
 published: true
-date: 2026-08-08T14:07:26.485Z
+date: 2026-08-08T14:23:04.924Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:23:02.424Z
@@ -34,7 +34,7 @@ dateCreated: 2026-08-08T11:23:02.424Z
 
 1. Open the mod archive using 7zip.
 2. Drag and drop **all** the contents of the archive to the empty space in your game  folder as seen in the gif below.
-3. If the mod archive **isn't** structured like that, let us know in our [Discord Server](http://discord.sp-tarkov.com/)'s [`#mod-questions-4-0`](https://discord.com/channels/875684761291599922/1315885344532467822) channel. Mods are *required* to be structured correctly as of SPT `4.0`.
+3. If the mod archive **isn't** structured like that, let us know in our [Discord Server](TODO)'s [`#mod-questions-4-0`](https://discord.com/channels/875684761291599922/1315885344532467822) channel. Mods are *required* to be structured correctly as of SPT `4.0`.
 
 &nbsp;
 <img src="https://i.imgur.com/3N6gTe2.gif" alt="mod install" width=600 style="display: block; margin: 0 auto;">
