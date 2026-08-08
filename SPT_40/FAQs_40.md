@@ -1,8 +1,8 @@
 ---
-title: FAQs for SPT 4.0 [Discord inv link]
+title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T15:08:18.853Z
+date: 2026-08-08T15:45:45.340Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -96,7 +96,7 @@ The installer makes a **copy** of your game client files to a **separate** locat
 
 ##### "I'm still having issues and it wasn't the last mod I installed, what do I do?" 
 Start removing mods one at a time, or if you have a lot of mods, follow the [50/50 Method](/SPT_4x/5050-method>).
-If none of that helps, then it's time to create a support ticket. Join our [Discord Server](TODO) and read through the [#support-guidelines](https://discord.com/channels/875684761291599922/1172733248317694022) for instructions.
+If none of that helps, then it's time to create a support ticket. Join our [Discord Server](https://discord.sp-tushonka.com/) and read through the [#support-guidelines](https://discord.com/channels/875684761291599922/1172733248317694022) for instructions.
 
 # How much free space is necessary to install SPT?
 This is the current space requirements (compounding) to install SPT:
