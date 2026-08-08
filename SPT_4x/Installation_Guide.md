@@ -2,7 +2,7 @@
 title: Installation Guide [Discord inv link]
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-08T14:00:58.682Z
+date: 2026-08-08T14:22:42.067Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
@@ -44,7 +44,7 @@ This is particularly important if you have just installed the game so all necess
 Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://sp-mod.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
 
 ## Common Installation and Start-up Issues
-Below you can find some common issues that users encounter when installing or first starting SPT, along with the solution to fixing it. If your issue is not listed then join our [Discord Server](http://discord.sp-tarkov.com/) and ask in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
+Below you can find some common issues that users encounter when installing or first starting SPT, along with the solution to fixing it. If your issue is not listed then join our [Discord Server](TODO) and ask in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
 
 <details>
 <summary>Could not find a downgrade patcher for the version of the game you have installed.</summary>
