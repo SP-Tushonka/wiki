@@ -1,8 +1,8 @@
 ---
-title: Updating SPT
+title: Updating SPT [Gibhub link]
 description: Learn how to update your SPT installation.
 published: true
-date: 2026-08-08T11:43:25.621Z
+date: 2026-08-08T14:31:18.656Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:51.525Z
@@ -11,11 +11,11 @@ dateCreated: 2026-08-08T11:23:51.525Z
 > This page applies to any SPT version
 {.is-info}
 
-> This method can only be used to update to a new hotfix patch. An update from ex. `3.11.4 > 4.0.0` requires a new install of SPT.
+> This method can only be used to update to a new hotfix patch. An update from ex. `4.0.13 > 4.1.0` requires a new install of SPT.
 {.is-warning}
 
 
-1. Download the SPT files from the Direct Download section at the **bottom** of the [Release page](https://github.com/sp-tarkov/build/releases/latest).
+1. Download the SPT files from the Direct Download section at the **bottom** of the [Release page](TODO).
 <div style="margin-top: 20px;"></div>
 <img src="/direct_download.png" alt="Direct Download" width=400 style="display: block; margin: 0 auto;">
 
@@ -24,7 +24,7 @@ dateCreated: 2026-08-08T11:23:51.525Z
 4. Copy contents of the 7z file into your **existing** folder, **overwrite all files**.
 5. **Update all of your mods to their latest release versions**.
  - Mods made for previous hotfix versions should work on the latest version. Those that don't might have received an update to address that.
-  - You can use a tool like [Check Mods](<https://forge.sp-tarkov.com/mod/2471/check-mods>) to see which of your mods require updating.
+  - You can use a tool like [Check Mods](https://sp-mod.com/mod/2471/check-mods) to see which of your mods require updating.
 > This will only overwrite base SPT files. It will __not__ overwrite or remove your profile(s), mods or mod configs.
 {.is-info}
 
@@ -61,7 +61,7 @@ SPT follows the [Semantic Versioning](https://semver.org/) schema for its versio
 - Old profiles **will work**
 - **Can be used to update your SPT if it's on the same Minor version**
 
-You can always check if a hotfix patch will be compatible with your installed mods on the [Release page](<https://github.com/sp-tarkov/build/releases>):
+You can always check if a hotfix patch will be compatible with your installed mods on the [Release page](TODO):
 &nbsp;
 <img src="/patch_compat.png" alt="Direct Download" width=400 style="display: block; margin: 0 auto;">
 <div style="margin-top: 10px;"></div>
