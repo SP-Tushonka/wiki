@@ -1,8 +1,8 @@
 ---
-title: FAQs
+title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T11:42:42.492Z
+date: 2026-08-08T12:19:17.090Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -39,7 +39,7 @@ No. Live game patches made after the release of SPT `4.0` will only be available
 
 ## Is performance better in `4.0` than in `3.11`?
 Short answer: A bit.
-Long answer: BSG optimised culling on several maps, and alongside other changes, did somewhat improve performance between game version `0.16.1.3.35392` and `0.16.9.0.40087`. It's most noticeable if your SPT is GPU limited and will vary. The [Performance Tuning](/Performance_Tuning) guide is still relevant even on `4.0`.
+Long answer: The game received optimised culling on several maps, and alongside other changes, did somewhat improve performance between game version `0.16.1.3.35392` and `0.16.9.0.40087`. It's most noticeable if your SPT is GPU limited and will vary. The [Performance Tuning](/Performance_Tuning) guide is still relevant even on `4.0`.
 
 ## Can I use my profile and mods from `3.11`?
 ***If*** the `3.11` profile was ***un-modded***, yes. Otherwise A new profile will be required. None of your `3.11` mods are compatible.
