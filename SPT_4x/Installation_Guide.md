@@ -2,7 +2,7 @@
 title: Installation Guide
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-08T13:54:28.983Z
+date: 2026-08-08T13:59:47.355Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
@@ -21,7 +21,7 @@ This is particularly important if you have just installed the game so all necess
 
 ## Installing and running SPT
 
-1. Download the [SPT Installer](https://forge.sp-tarkov.com/installer).
+1. Download the [SPT Installer](https://sp-mod.com/installer).
  - The installer will always download & install the latest SPT version, it **does not** update a current SPT install.
 2. Run the SPT Installer.
 3. Read the Installer Info page, then click next.
@@ -41,7 +41,7 @@ This is particularly important if you have just installed the game so all necess
  - Select your desired game version. Each version has a description box summarising what is included. Once you have picked your chosen game version click `Register`. You can pick *any* game version you want from the profile list, you do not need to own the corresponding retail game version. Once chosen, you cannot change the edition a profile is using.
 8. Click `Start Game` and load into the main menu.
 
-Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://forge.sp-tarkov.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
+Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://sp-mod.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
 
 ## Common Installation and Start-up Issues
 Below you can find some common issues that users encounter when installing or first starting SPT, along with the solution to fixing it. If your issue is not listed then join our [Discord Server](http://discord.sp-tarkov.com/) and ask in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
@@ -75,10 +75,9 @@ You will need to move these back into your `[game folder]\SPT` folder and create
 ## Old mods and profiles
 You cannot use any of your old mod files in a newer SPT version. If you want to use the same mods, you need to download updated versions of them once they have been updated to the latest SPT version.
 
-Some old profiles can work. See the [version numbers](https://wiki.sp-tarkov.com/Updating_SPT#version-numbers) section for more details.
+Some old profiles can work. See the [version numbers](/SPT_4x/Updating_SPT#version-numbers) section for more details.
 
 # See also
-[System Requirements](/system-requirements)
-[Updating SPT](/Updating_SPT)
-[Installing Mods](/Installing_Mods)
-[Frequently Asked Questions](/FAQs_40)
+[System Requirements](/SPT_4x/system-requirements)
+[Updating SPT](/SPT_4x/Updating_SPT)
+[Installing Mods](/SPT_4x/Installing_Mods)
