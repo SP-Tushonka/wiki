@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0 [EOR]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T12:41:29.837Z
+date: 2026-08-08T12:56:02.930Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -56,7 +56,7 @@ For an explanation of how SPT versions work and how to update your SPT, read thr
 
 ## Bot spawns
 SPT uses the game's PvE bot spawning system. Bots will continuously spawn up to a map-specific limit. When enough are killed, more will spawn to replace them. Bot spawns aren't checked for the distance to you or other bots which can let bots can spawn next to you. 
-Use a [bot spawning mod](<https://wiki.sp-tushonka.com/SPT_40/Recommended_Mods_40#mods-for-better-bot-spawns>) to change this system.
+Use a bot spawning mod like [ABPS]() to change this system.
 
 ## Need space on your drive? Don't play live?
 After you install SPT, you cannot completely uninstall your retail copy, but you can delete the `_Data` folder from your live game folder if you really need the space.
