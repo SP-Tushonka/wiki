@@ -2,7 +2,7 @@
 title: Server Mod Migration - 4.0 to 4.1
 description: What changed for server mods between SPT 4.0 and 4.1, and how to fix it.
 published: true
-date: 2026-08-08T11:44:01.761Z
+date: 2026-08-08T13:07:39.016Z
 tags: modding, migration
 editor: markdown
 dateCreated: 2026-08-08T11:24:40.844Z
@@ -565,13 +565,13 @@ public sealed class MyModMetadata : IModMetadata, IModBlazorMetadata
 
 `HomePage` and `HomePageDescription` register a card for your mod in the SIC mod links section. Mods implementing this interface also no longer have their `.js` and `.ts` files treated as loadable server content.
 
-There's a lot more to this in 4.1, including a config editor that lets users edit your mod's settings in the browser. See [Mod Web Pages](/en/SPT_41/modding/server/Mod_Web_Pages).
+There's a lot more to this in 4.1, including a config editor that lets users edit your mod's settings in the browser. See [Mod Web Pages](/modding/SPT_41_Modding/server/Mod_Web_Pages).
 
 ## Prepatching
 
 New in 4.1. Prepatchers extend Core's enums before it loads, which runtime patching can't do.
 
-Most mods don't need this. If yours does, see [Prepatching](/en/SPT_41/modding/server/Prepatching).
+Most mods don't need this. If yours does, see [Prepatching](/modding/SPT_41_Modding/server/Prepatching) [WIP].
 
 ## Smaller changes
 
