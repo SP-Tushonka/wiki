@@ -1,8 +1,8 @@
 ---
-title: Manual Install Instructions for SPT 4.1 [Discord inv link]
+title: Manual Install Instructions for SPT 4.1 [for potential deletion]
 description: 
-published: true
-date: 2026-08-08T13:56:55.018Z
+published: false
+date: 2026-08-08T15:55:28.498Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:37.271Z
@@ -11,7 +11,7 @@ dateCreated: 2026-08-08T11:24:37.271Z
 > This page applies to SPT version `4.1`
 {.is-info}
 
-It's always preferable to use the [SPT Installer](/SPT_4x/Installation_Guide) instead of manually updating. If you run into issues with it join our [Discord Server](http://discord.sp-tarkov.com/) and ask for support in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
+It's always preferable to use the [SPT Installer](/SPT_4x/Installation_Guide) instead of manually updating. If you run into issues with it join our [Discord Server](https://discord.sp-tushonka.com/) and ask for support in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
 
 ## What you need to do before you manually install SPT
 
