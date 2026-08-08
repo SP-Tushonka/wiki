@@ -2,7 +2,7 @@
 title: Style Guide
 description: Keep a consistent style across the Wiki.
 published: true
-date: 2026-08-08T14:41:05.552Z
+date: 2026-08-08T14:43:58.272Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:44.032Z
@@ -68,7 +68,7 @@ Conveniently, links to pages on this Wiki can be done by just referencing its lo
 
 There are 6 different header sizes available. `#` will give you the largest title, while `######` will be the smallest.
 Note that using any header will allow for direct linking to that section of a page e.g.: https://wiki.sp-tarkov.com/en/Style_Guide#header-sizes
-As shown in the [File paths](/Style_guide#File_paths)
+As shown in the [File paths](/Style_guide#file-paths) section above, you can link these headers in other Wiki pages.
 You can copy the direct link to a header by hovering over it, right clicking `¶` and copying the link.
 
 ```
@@ -128,6 +128,19 @@ Notice how the top text is right against the image.
 <img src="/mod-install-v1.gif" alt="image title" width=200 style="display: block; margin: 0 left;">
 
 And this image, with the use of `<br>` has space above between it and the text.
+
+```
+Here is an image without the use of `<br>`:
+
+<img src="/mod-install-v1.gif" alt="image title" width=200 style="display: block; margin: 0 left;">
+
+Notice how the top text is right against the image.
+<br>
+<img src="/mod-install-v1.gif" alt="image title" width=200 style="display: block; margin: 0 left;">
+
+And this image, with the use of `<br>` has space above between it and the text.
+
+```
 
 You can also use `<div style="margin-top: 10px;"></div>` for finer control over the size of the gap. Change the `10px` to a value that works best.
 
