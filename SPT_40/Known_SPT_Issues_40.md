@@ -2,7 +2,7 @@
 title: Known SPT 4.0 Issues
 description: Known SPT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T12:21:33.351Z
+date: 2026-08-08T12:52:01.218Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:14.018Z
@@ -32,20 +32,18 @@ Your PC name should also not use any special characters. Only `a-z`, `A-Z`, `0-9
 You can rename your PC by searching for `View your PC name` in the Start menu, and clicking on `Rename this PC`.
 
 ## Server mods don't appear in the SPT Launcher
-[Update your SPT.](/Updating_SPT)
-Note that [Client mods](/Mod_Types) won't show up in the SPT Server nor Launcher.
+[Update your SPT.](/SPT_4x/Updating_SPT)
+Note that [Client mods](/SPT_4x/Mod_Types) won't show up in the SPT Server nor Launcher.
 
 ## There are little to no PMCs in your Scav runs
-[Update your SPT](<https://wiki.sp-tarkov.com/Updating_SPT>), and make sure you don't have an extended raid timer, as the game's spawning system tends to break with them.
+[Update your SPT](/SPT_4x/Updating_SPT), and make sure you don't have an extended raid timer, as the game's spawning system tends to break with them.
 
 ## Empty flea with `404 not found` errors
-[Update your SPT](<https://wiki.sp-tarkov.com/Updating_SPT>).
+[Update your SPT](/SPT_4x/Updating_SPT).
 
 ## Server doesn't launch or closes immediately
-For SPT 4.0.13: From [here](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
-For SPT 4.1.0: From [here](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
-Download the latest version of **both**
+From [here](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) download the latest version of **both**:
 - `ASP.NET Core Runtime`
 - `.NET Desktop Runtime`
 
@@ -57,29 +55,29 @@ If it tells you that you already have them installed, then use the repair option
 If that didn't help, verify that your SPT install path doesn't have any special characters (`;,[]{}` etc.).
 
 ## Kollontay still spawns on high level Ground Zero
-[Update your SPT.](<https://wiki.sp-tarkov.com/Updating_SPT>)
+[Update your SPT.](/SPT_4x/Updating_SPT)
 
 ## Crisis does not unlock new crafts
-[Update your SPT.](<https://wiki.sp-tarkov.com/Updating_SPT>)
+[Update your SPT.](/SPT_4x/Updating_SPT)
 
 ## SPT Launcher doesn't do anything when you click Play
-[Update your SPT.](<https://wiki.sp-tarkov.com/Updating_SPT>)
+[Update your SPT.](/SPT_4x/Updating_SPT)
 
 ## `Not a valid Win32 FileTime` when using the Hijri calendar
-[Update your SPT.](<https://wiki.sp-tarkov.com/Updating_SPT>)
+[Update your SPT.](/SPT_4x/Updating_SPT)
 
 ## Festive Airdrops have no loot
 No known fix.
 
 ## `Enable Bosses` being disabled stops spawning PMC bots
-[Update your SPT.](<https://wiki.sp-tarkov.com/Updating_SPT>)
+[Update your SPT.](/SPT_4x/Updating_SPT)
 
 ## Loading in as a PMC when you selected scav
-[Update your SPT.](<https://wiki.sp-tarkov.com/Updating_SPT>)
+[Update your SPT.](/SPT_4x/Updating_SPT)
 
 ## `Access to the path '\\?\C:\Users\[username]\OneDrive\Desktop\SPT\SPT\user\profiles\backups\[date] is denied.`
-You have moved SPT onto your OneDrive enabled desktop. Move it back to a folder like `C:\Games\SPT`, and delete the profile backup mentioned in the error message.
+You have moved SPT onto your OneDrive enabled desktop. Move it to a folder like `C:\Games\SPT 4.0`, and delete the profile backup mentioned in the error message.
 
 
 # See also
-[Frequently Asked Questions](/FAQs_40)
+[Frequently Asked Questions](/SPT_40/FAQs_40)
