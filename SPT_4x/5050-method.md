@@ -1,8 +1,8 @@
 ---
-title: 50/50 Method [EOR]
+title: 50/50 Method
 description: How to use the 50/50 Method to find the mod causing your issues.
 published: true
-date: 2026-08-08T13:12:31.290Z
+date: 2026-08-08T13:14:45.249Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:22:39.735Z
@@ -22,16 +22,18 @@ If you need to check **100** mods, the 50/50 Method will only take **8** tests, 
 First, verify that the issue you have is due to a mod by running SPT without any installed. See the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) page on how to uninstall mods. Note that there's no need to delete your mods, simply move them to a temporary folder, and create a new test profile [so your main profile isn't affected](/SPT_4x/Uninstalling_Mods#profiles).
 If you have the storage space, you can test if the issue is due to mods by installing a new copy of SPT and seeing if the issue is present without any mods.
 
-1. Copy your `[game folder]/SPT` and `[game folder]/BepInEx` folders to a new folder (e.g.: a new folder called `my mods` on your desktop).
+Note that on SPT `4.0`, the `SPT_Runtime` folder is called `SPT`.
+
+1. Copy your `/SPT_Runtime` and `/BepInEx` folders to a new folder (e.g.: a new folder called `my mods` on your desktop).
   - This will allow you to restore all your mods, profiles, and settings after you find the issue-causing mod.
 2. Make a new test profile.
 3. Create a new folder outside of your game folder called `test mods`.
-	- It will be helpful to recreate `\SPT\user\mods` and `\BepInEx\plugins` folders inside `test mods`, to avoid accidentally reinstalling a mod in the incorrect location later on.
+	- It will be helpful to recreate `\SPT_Runtime\user\mods` and `\BepInEx\plugins` folders inside `test mods`, to avoid accidentally reinstalling a mod in the incorrect location later on.
 4. Move half of your installed mods to `test mods`.
   - Some mods have parts in `\SPT\user\mods` and `BepInEx\plugins`. Make sure you move both parts of a mod out of your game folder at the same time.
-  - Some mods depend on other mods to function. You can move a mod out of your SPT folder without its dependencies, but don't move a dependency without mods that use it.
+  	- Very few mods have files in `\BepInEx\patchers`. If this folder contains only `spt-prepatch.dll`, then you can ignore it. If not, make sure to move the mod files with its other parts.
+  - Some mods depend on other mods to function. You can move a mod out a without its dependencies, but don't move a dependency without mods that use it.
   - **Do not move your `\BepInEx\plugins\spt`**. It contains core SPT files and no mod files.
-  - Very few mods have files in `\BepInEx\patchers`. If this folder contains only `spt-prepatch.dll`, then you can ignore it. If not, make sure to move the mod files with its other parts.
 5. Launch SPT and see if the issue you had is still present.
   - If the issue is still present, the mod at fault is one that's still installed in your SPT.
     - Delete the mod files from `test mods`.
@@ -42,7 +44,7 @@ If you have the storage space, you can test if the issue is due to mods by insta
 7. Move or delete the mod that's causing the issue from your `my mods` folder.
 8. Copy the files from `my mods` folder into your SPT folder. This will reinstall all your mods, except the one causing the issue. Override all files when prompted.
 
-After you identified which mod causes your issue, you should report it to the mod author on their [Forge](https://forge.sp-tarkov.com/) mod page.
+After you identified which mod causes your issue, you should report it to the mod author on their mod page.
 
 ## Alternative Methods
 
