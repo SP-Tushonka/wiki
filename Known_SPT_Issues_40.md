@@ -2,13 +2,13 @@
 title: Known SPT Issues
 description: Known SPT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-05T14:08:14.184Z
+date: 2026-08-08T11:32:53.275Z
 tags: 
 editor: markdown
-dateCreated: 2025-10-10T12:33:53.585Z
+dateCreated: 2026-08-08T11:23:14.018Z
 ---
 
-> This page applies to SPT version `4.0`
+> This page applies to SPT version `4.0` test
 {.is-info}
 
 ## [Github tracked issues](<https://github.com/sp-tarkov/build/wiki/Known-SPT-issues>)
