@@ -1,8 +1,8 @@
 ---
-title: Known Live Game Issues for SPT 4.0
+title: Known Live Game Issues for SPT 4.0 [EOR]
 description: Known Live Game issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T12:39:21.661Z
+date: 2026-08-08T12:42:09.370Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:06.328Z
