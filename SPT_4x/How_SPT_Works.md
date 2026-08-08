@@ -1,8 +1,8 @@
 ---
-title: How SPT Works
+title: How SPT Works [EOR]
 description: The basics of how SPT works.
 published: true
-date: 2026-08-08T11:42:45.231Z
+date: 2026-08-08T13:21:15.617Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:54.936Z
@@ -26,7 +26,7 @@ dateCreated: 2026-08-08T11:22:54.936Z
 	- If you make a copy of your SPT, you will need to tweak the shortcuts inside it, as they will be pointing towards the original SPT folder.
 - The SPT developers need to make a new SPT version to include new content released for the retail game. No deadline is given, but it usually takes several month. A new SPT version is usually announced a week before release.
 
-For a guide on installing SPT, see the [Installation Guide](/Installation_Guide) page.
+For a guide on installing SPT, see the [Installation Guide](/SPT_4x/Installation_Guide) page.
 
 ## Can I get banned?
 - You cannot get banned for using SPT so long as you don't run SPT and the live game at the same time, that includes the launcher.
@@ -39,16 +39,16 @@ We have no verified reports of people being banned from the retail game just for
 ## Updates
 
 - Your SPT can be updated between hotfix versions (e.g.: `4.0.1` → `4.0.4`) by simply applying the new release files to your existing SPT install. There is no need to install a new copy of SPT.
-- You cannot update an older version of SPT (e.g.: `3.11.4` → `4.0.0`). You have to install a new copy of SPT. You don't need to delete your old install.
+- You cannot update an older version of SPT (e.g.: `4.0.13` → `4.1.0`). You have to install a new copy of SPT. You don't need to delete your old install.
 - Your profiles will work on a new hotfix version.
-- All mods made for an older hotfix version will should work on a newer one. So a mod made for `4.0.0` should work on `4.0.4`.
+- All mods made for an older hotfix version should work on a newer one. So a mod made for `4.0.0` should work on `4.0.4`.
 - Mods not made for the version of SPT you have installed will not work. A mod made for `3.11.4` will not work on `4.0.4`.
 
-For a guide on updating SPT, see the [Updating SPT](/Updating_SPT) page.
+For a guide on updating SPT, see the [Updating SPT](/SPT_4x/Updating_SPT) page.
 
 ## In-game
 
-- When creating a profile, you can choose any edition you want. It's not limited to the edition you own.
+- When creating a profile, you can choose any edition you want. It's not limited to the edition you bought.
 - SPT has all the functionality of the retail game's PvE mode:
 	- All quests, items and traders are available (for the game version that SPT is using).
 	- Flea market is emulated with randomly generated offers.
