@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0 [EOR]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T12:56:02.930Z
+date: 2026-08-08T12:56:34.179Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -28,7 +28,7 @@ Version `0.16.9.0.40087`, released 2 October 2025.
 Refer to the previous question. If you're curious about something specific, please see the official [live game changelog](<https://escapefromtarkov.fandom.com/wiki/Changelog>).
 
 ## Is Labyrinth in `4.0`?
-[Yes.](<https://escapefromtarkov.fandom.com/wiki/The_Labyrinth>)
+Yes. See the [live wiki](<https://escapefromtarkov.fandom.com/wiki/The_Labyrinth>) on how to access it.
 
 ## Is the Softcore/Hardcore wipe in SPT? 
 No. The hardcore wipe only made changes to the PVP mode. SPT `4.0` is using game version `0.16.9.0.40087` which came before the softcore wipe changes were added to PVE.
