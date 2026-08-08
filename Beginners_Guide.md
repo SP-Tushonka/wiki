@@ -1,8 +1,8 @@
 ---
-title: Beginner's Guide
+title: Beginner's Guide TODO
 description: A beginner's overview of the SPT project.
 published: true
-date: 2026-08-08T11:42:36.726Z
+date: 2026-08-08T12:29:12.876Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:43.689Z
