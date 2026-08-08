@@ -1,8 +1,8 @@
 ---
-title: Updating SPT [Gibhub link]
+title: Updating SPT
 description: Learn how to update your SPT installation.
 published: true
-date: 2026-08-08T14:31:18.656Z
+date: 2026-08-08T16:04:37.070Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:51.525Z
@@ -15,10 +15,7 @@ dateCreated: 2026-08-08T11:23:51.525Z
 {.is-warning}
 
 
-1. Download the SPT files from the Direct Download section at the **bottom** of the [Release page](TODO).
-<div style="margin-top: 20px;"></div>
-<img src="/direct_download.png" alt="Direct Download" width=400 style="display: block; margin: 0 auto;">
-
+1. Download the appropriate files from the link in [`#spt-announcements`](https://discord.com/channels/875684761291599922/875706629260197908) in our [Discord server](https://discord.sp-tushonka.com/).
 2. Close your game, launcher, and server.
 3. Open the downloaded SPT files using [7zip](https://www.7-zip.org/).
 4. Copy contents of the 7z file into your **existing** folder, **overwrite all files**.
@@ -60,14 +57,6 @@ SPT follows the [Semantic Versioning](https://semver.org/) schema for its versio
 - Generally works with mods made for the previous hotfix version
 - Old profiles **will work**
 - **Can be used to update your SPT if it's on the same Minor version**
-
-You can always check if a hotfix patch will be compatible with your installed mods on the [Release page](TODO):
-&nbsp;
-<img src="/patch_compat.png" alt="Direct Download" width=400 style="display: block; margin: 0 auto;">
-<div style="margin-top: 10px;"></div>
-<div style='text-align: center;'>
-Example of the compatibility section for SPT 3.11.3.
-</div>
 
 
 # See also
