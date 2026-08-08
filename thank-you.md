@@ -1,3 +1,13 @@
+---
+title: thank-you
+description: 
+published: true
+date: 2026-08-08T11:43:42.225Z
+tags: 
+editor: markdown
+dateCreated: 2026-08-08T11:24:14.630Z
+---
+
 ## A thank you from me to everyone
 
 I am so happy I got to work on this project with so many talented people for so many years. I hope working with me wasn't too bad.

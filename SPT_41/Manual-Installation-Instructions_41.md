@@ -2,10 +2,10 @@
 title: Manual Install Instructions for SPT 4.1
 description: 
 published: true
-date: 2026-08-06T19:08:34.358Z
+date: 2026-08-08T11:43:58.572Z
 tags: 
 editor: markdown
-dateCreated: 2025-10-21T23:42:29.093Z
+dateCreated: 2026-08-08T11:24:37.271Z
 ---
 
 > This page applies to SPT version `4.1`

@@ -2,10 +2,10 @@
 title: Skills Reference Sheet
 description: A reference for skill related things
 published: true
-date: 2026-04-13T17:48:13.769Z
-tags: client, reference, server, skills
+date: 2026-08-08T11:44:30.509Z
+tags: client, server, reference, skills
 editor: markdown
-dateCreated: 2025-11-02T03:49:55.394Z
+dateCreated: 2026-08-08T11:25:21.843Z
 ---
 
 # Skill Reference Sheet

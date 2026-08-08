@@ -2,10 +2,10 @@
 title: Enum Extensions
 description: Extending Enums in the server and the client.
 published: true
-date: 2026-07-26T06:49:50.856Z
-tags: modding, server, client, enum
+date: 2026-08-08T11:44:12.416Z
+tags: modding, client, server, enum
 editor: markdown
-dateCreated: 2026-07-21T14:20:18.887Z
+dateCreated: 2026-08-08T11:24:56.258Z
 ---
 
 > This page applies to SPT version `4.1`

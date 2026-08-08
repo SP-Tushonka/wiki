@@ -2,10 +2,10 @@
 title: Location Reference Sheet
 description: Reference sheet for location data, including IDs, names, spawn types.
 published: true
-date: 2025-11-02T03:51:47.618Z
-tags: locations, mods
+date: 2026-08-08T11:44:20.378Z
+tags: mods, locations
 editor: markdown
-dateCreated: 2025-06-06T07:36:05.708Z
+dateCreated: 2026-08-08T11:25:08.552Z
 ---
 
 # Location Reference Sheet

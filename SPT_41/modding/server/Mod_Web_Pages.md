@@ -2,10 +2,10 @@
 title: Mod Web Pages
 description: Adding Blazor pages, static assets and config editor entries to a server mod.
 published: true
-date: 2026-08-05T13:44:30.201Z
+date: 2026-08-08T11:44:53.025Z
 tags: modding, web
 editor: markdown
-dateCreated: 2026-07-21T14:20:14.655Z
+dateCreated: 2026-08-08T11:25:50.606Z
 ---
 
 > This page applies to SPT version `4.1`

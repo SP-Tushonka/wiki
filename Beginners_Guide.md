@@ -2,10 +2,10 @@
 title: Beginner's Guide
 description: A beginner's overview of the SPT project.
 published: true
-date: 2026-08-05T13:47:47.979Z
+date: 2026-08-08T11:42:36.726Z
 tags: 
 editor: markdown
-dateCreated: 2025-07-22T10:13:29.789Z
+dateCreated: 2026-08-08T11:22:43.689Z
 ---
 
 # Welcome to SPT!

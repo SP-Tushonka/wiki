@@ -2,10 +2,10 @@
 title: Console Commands
 description: A list of the few console commands SPT adds that can be used in-game.
 published: true
-date: 2026-08-05T13:45:58.065Z
+date: 2026-08-08T11:44:04.859Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-14T18:37:09.285Z
+dateCreated: 2026-08-08T11:24:44.906Z
 ---
 
 All standard console commands are available in SPT. They can be found [here](<https://escapefromtarkov.fandom.com/wiki/Debug_Console>). 

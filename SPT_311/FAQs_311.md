@@ -2,10 +2,10 @@
 title: FAQs for SPT 3.11
 description: Answers to frequently asked questions about SPT 3.11.
 published: true
-date: 2026-08-05T13:41:54.005Z
+date: 2026-08-08T11:43:45.188Z
 tags: 
 editor: markdown
-dateCreated: 2025-08-09T12:45:37.740Z
+dateCreated: 2026-08-08T11:24:18.194Z
 ---
 
 > This page applies to SPT version `3.11`

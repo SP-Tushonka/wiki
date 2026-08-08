@@ -2,10 +2,10 @@
 title: Client Modding Quick Guide
 description: A basic guide on getting started with Client mods.
 published: true
-date: 2025-12-16T16:27:35.797Z
+date: 2026-08-08T11:44:35.641Z
 tags: modding
 editor: markdown
-dateCreated: 2025-10-14T00:46:02.669Z
+dateCreated: 2026-08-08T11:25:29.404Z
 ---
 
 > This page applies to any SPT version

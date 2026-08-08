@@ -2,10 +2,10 @@
 title: Bot Difficulties
 description: Learn how SPT and mods handle bots' difficulty.
 published: true
-date: 2026-08-05T13:48:39.927Z
+date: 2026-08-08T11:42:39.525Z
 tags: guide
 editor: markdown
-dateCreated: 2025-08-28T18:04:16.547Z
+dateCreated: 2026-08-08T11:22:47.356Z
 ---
 
 ## Pre-Raid Difficulty Settings

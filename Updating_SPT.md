@@ -2,10 +2,10 @@
 title: Updating SPT
 description: Learn how to update your SPT installation.
 published: true
-date: 2026-08-05T14:18:44.869Z
+date: 2026-08-08T11:43:25.621Z
 tags: guide
 editor: markdown
-dateCreated: 2025-08-09T12:01:16.553Z
+dateCreated: 2026-08-08T11:23:51.525Z
 ---
 
 > This page applies to any SPT version

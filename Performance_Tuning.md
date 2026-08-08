@@ -2,10 +2,10 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-08-05T14:11:00.920Z
-tags: performance, guide
+date: 2026-08-08T11:43:04.351Z
+tags: guide, performance
 editor: markdown
-dateCreated: 2025-07-22T03:38:27.428Z
+dateCreated: 2026-08-08T11:23:21.704Z
 ---
 
 > This page applies to any SPT version

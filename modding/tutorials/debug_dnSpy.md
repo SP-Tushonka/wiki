@@ -1,4 +1,14 @@
 ---
+title: debug_dnSpy
+description: 
+published: true
+date: 2026-08-08T11:44:41.108Z
+tags: 
+editor: markdown
+dateCreated: 2026-08-08T11:25:37.551Z
+---
+
+---
 title: Tutorial: How to debug the game client with dnSpy
 description: 
 published: true

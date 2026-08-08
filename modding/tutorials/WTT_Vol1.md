@@ -1,4 +1,14 @@
 ---
+title: WTT_Vol1
+description: 
+published: true
+date: 2026-08-08T11:44:38.300Z
+tags: 
+editor: markdown
+dateCreated: 2026-08-08T11:25:33.297Z
+---
+
+---
 title: WTT - Item Creation Guides Vol. 1: Intro to Static Objects
 description: 
 published: true

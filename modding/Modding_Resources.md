@@ -2,10 +2,10 @@
 title: Modding Resources
 description: 
 published: true
-date: 2026-07-25T12:06:37.463Z
+date: 2026-08-08T11:44:07.512Z
 tags: modding
 editor: markdown
-dateCreated: 2025-07-23T16:46:34.874Z
+dateCreated: 2026-08-08T11:24:48.686Z
 ---
 
 > This page applies to SPT version `4.0`

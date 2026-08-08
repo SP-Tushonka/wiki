@@ -2,10 +2,10 @@
 title: FAQs
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-05T13:55:18.317Z
+date: 2026-08-08T11:42:42.492Z
 tags: 
 editor: markdown
-dateCreated: 2025-10-10T12:23:08.957Z
+dateCreated: 2026-08-08T11:22:51.246Z
 ---
 
 > This page applies to SPT version `4.0`

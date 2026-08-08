@@ -2,10 +2,10 @@
 title: SPT & Commando Bots
 description: How to use SPT & Commando bots in SPT.
 published: true
-date: 2026-07-14T19:58:51.082Z
+date: 2026-08-08T11:43:17.288Z
 tags: guide
 editor: markdown
-dateCreated: 2025-10-05T07:40:42.709Z
+dateCreated: 2026-08-08T11:23:40.294Z
 ---
 
 > This page applies to any SPT version

@@ -2,10 +2,10 @@
 title: Bot Information Reference Sheet
 description: List of all current and previously known bots and their names
 published: true
-date: 2025-11-02T03:36:01.008Z
-tags: bots, mods
+date: 2026-08-08T11:44:17.821Z
+tags: mods, bots
 editor: markdown
-dateCreated: 2025-06-06T04:15:52.004Z
+dateCreated: 2026-08-08T11:25:04.648Z
 ---
 
 # Bot Information Reference Sheet

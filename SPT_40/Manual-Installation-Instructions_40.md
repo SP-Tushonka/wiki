@@ -2,10 +2,10 @@
 title: Maunal Installation Instructions for SPT 4.0
 description: 
 published: true
-date: 2026-08-06T19:32:49.794Z
+date: 2026-08-08T11:43:53.343Z
 tags: 
 editor: markdown
-dateCreated: 2026-07-31T22:35:05.885Z
+dateCreated: 2026-08-08T11:24:29.696Z
 ---
 
 ## What you need to do before you manually install SPT

@@ -2,10 +2,10 @@
 title: Trader Reference Sheet
 description: Reference sheet for Trader Information, including IDs, names, and other information.
 published: true
-date: 2025-06-06T21:18:14.582Z
+date: 2026-08-08T11:44:33.045Z
 tags: mods, traders
 editor: markdown
-dateCreated: 2025-06-06T07:34:59.592Z
+dateCreated: 2026-08-08T11:25:25.606Z
 ---
 
 # Trader Reference Sheet

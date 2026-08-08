@@ -1,11 +1,11 @@
 ---
 title: Reporting Issues
 description: How to effectively ask for help.
-published: false
-date: 2025-12-23T15:02:53.442Z
+published: true
+date: 2026-08-08T11:43:12.008Z
 tags: 
 editor: markdown
-dateCreated: 2025-12-23T15:02:53.442Z
+dateCreated: 2026-08-08T11:23:33.278Z
 ---
 
 # Common Pitfalls

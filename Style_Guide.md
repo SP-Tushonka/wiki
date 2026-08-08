@@ -2,10 +2,10 @@
 title: Style Guide
 description: Keep a consistent style across the Wiki.
 published: true
-date: 2026-02-03T02:42:28.732Z
+date: 2026-08-08T11:43:20.032Z
 tags: 
 editor: markdown
-dateCreated: 2025-08-28T19:25:07.078Z
+dateCreated: 2026-08-08T11:23:44.032Z
 ---
 
 Here's a rudimentary style guide for the Wiki. Nothing here is set in stone or enforced, and it'll see many changes as the Wiki develops.

@@ -2,10 +2,10 @@
 title: Client Class Name Mappings - 4.0 to 4.1
 description: Old 4.0 obfuscated client class names mapped to their real 4.1 names.
 published: true
-date: 2026-07-21T00:00:00.000Z
+date: 2026-08-08T11:44:49.873Z
 tags: modding, migration, client
 editor: markdown
-dateCreated: 2026-07-21T00:00:00.000Z
+dateCreated: 2026-08-08T11:25:41.332Z
 ---
 
 > This page applies to SPT version `4.1`

@@ -2,10 +2,10 @@
 title: Profiles
 description: How profiles work in SPT.
 published: true
-date: 2025-10-20T16:36:09.376Z
+date: 2026-08-08T11:43:06.900Z
 tags: guide
 editor: markdown
-dateCreated: 2025-10-18T07:59:57.279Z
+dateCreated: 2026-08-08T11:23:25.669Z
 ---
 
 > This page applies to any SPT version

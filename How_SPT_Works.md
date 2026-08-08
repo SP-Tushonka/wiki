@@ -2,10 +2,10 @@
 title: How SPT Works
 description: The basics of how SPT works.
 published: true
-date: 2026-08-05T14:01:04.141Z
+date: 2026-08-08T11:42:45.231Z
 tags: 
 editor: markdown
-dateCreated: 2025-11-11T22:39:55.471Z
+dateCreated: 2026-08-08T11:22:54.936Z
 ---
 
 > This page applies to any SPT version
