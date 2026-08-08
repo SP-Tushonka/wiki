@@ -1,8 +1,8 @@
 ---
-title: Installation Guide
+title: Installation Guide [Discord inv link]
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-08T13:59:47.355Z
+date: 2026-08-08T14:00:58.682Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
