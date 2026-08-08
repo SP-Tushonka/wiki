@@ -2,7 +2,7 @@
 title: Frequently Asked Questions for SPT 4.1 [Discord inv link]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T15:06:51.667Z
+date: 2026-08-08T15:07:34.838Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -30,7 +30,7 @@ Version `0.16.9.5.40743`, released 22nd October 2025.
 See the guide on [Updating SPT](/SPT_4x/Updating_SPT) for more details.
 
 ## I miss 4.0, can I re-download it?
-Yes. Simply select `4.0` in the SPT Installer. See the [Installation Guide](SPT_4x/Installation_Guide) for instructions.
+Yes. Simply select `4.0` in the SPT Installer. See the [Installation Guide](/SPT_4x/Installation_Guide) for instructions.
 
 ## When is (insert mod here) going to update to 4.1?
 Nobody knows when certain mods are going to update, not even the authors themselves. Do not pester mod authors about updates to their mods.
