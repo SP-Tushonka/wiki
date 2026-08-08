@@ -1,8 +1,8 @@
 ---
-title: Home [TODO]
+title: Home [Discord inv link]
 description: 
 published: true
-date: 2026-08-08T14:46:20.307Z
+date: 2026-08-08T15:31:15.384Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:59.160Z
@@ -19,63 +19,52 @@ SPT allows you to experience the game in a single-player environment complete wi
 ## Getting Started
 
 - [New to SPT? Start Here!](/Beginners_Guide): A beginner's overview of the SPT project.
-- [System Requirements](/system-requirements): The system requirements to run SPT.
-- [How SPT Works](/How_SPT_Works): The basics of how SPT works.
-- [Installation Guide](/Installation_Guide): A step by step guide on how to install and initially setup SPT.
-- [Updating SPT](/Updating_SPT): Learn how to update your SPT installation.
-- [Profiles](/Profiles): How profiles work in SPT.
+- [System Requirements](/SPT_4x/system-requirements): The system requirements to run SPT.
+- [How SPT Works](/SPT_4x/How_SPT_Works): The basics of how SPT works.
+- [Installation Guide](/SPT_4x)/Installation_Guide): A step by step guide on how to install and initially setup SPT.
+- [Updating SPT](/SPT_4x/Updating_SPT): Learn how to update your SPT installation.
+- [Profiles](/SPT_4x/Profiles): How profiles work in SPT.
+	  - [Mods](/SPT_4x/Profiles#mods): How mods interact with your profiles.
 
 ## Exploring Mods
 
 Dive into the world of SPT modding to tailor your experience:
 
-- [Understanding Mod Types](/Mod_Types): Learn the difference between server mods and client mods.
-- [Installing Mods](/Installing_Mods): General guide on adding mods to your game.
-  - [Profiles](https://wiki.sp-tarkov.com/Installing_Mods#profiles)
-  - [Updating Mods](https://wiki.sp-tarkov.com/en/Installing_Mods#updating-mods)
+- [Understanding Mod Types](/SPT_4x/Mod_Types): Learn the difference between server mods and client mods.
+- [Installing Mods](/SPT_4x/Installing_Mods): General guide on adding mods to your game.
+  - [Updating Mods](/SPT_4x/Installing_Mods#updating-mods)
 - [Uninstalling Mods](/Uninstalling_Mods): A guide on uninstalling SPT mods.
-- [Recommended Mods](/Recommended_Mods_40): A selection of recommended mods to improve your SPT experience.
 
 ## Troubleshooting
 
 Running into issues? Find solutions here:
 
-- [Performance Tuning](/Performance_Tuning): Tips for improving FPS and stability.
-- [Frequently Asked Questions (FAQs)](/FAQs_40): Answers to frequently asked questions:
-	- [SPT 4.0](https://wiki.sp-tarkov.com/en/FAQs_40#spt-40)
-	- [1.0](https://wiki.sp-tarkov.com/en/FAQs_40#eft-10)
-	- [Troubleshooting tips](https://wiki.sp-tarkov.com/en/FAQs_40#troubleshooting-tips)
-	- [Old versions of SPT](https://wiki.sp-tarkov.com/en/FAQs_40#old-versions-of-spt)
-	- [Known retail game Issues](/Known_EFT_Issues_40)
-	- [Known SPT Issues](/Known_SPT_Issues_40)
-	- [Known Mod Issues](/Known_Mod_Issues_40)
-- [50/50 Method](/5050-method): How to use the 50/50 Method to find the mod causing your issues.
-- [Reporting Issues](#)^WIP^: How to effectively ask for help.
+- [Performance Tuning](/SPT_4x/Performance_Tuning): Tips for improving FPS and stability.
+- [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40): Answers to frequently asked questions:
+	- [Known retail game Issues for SPT 4.0](/SPT_40/Known_Live_Issues_40)
+	- [Known SPT Issues for SPT 4.0](/SPT_40/Known_SPT_Issues_40)
+	- [Known Mod Issues for SPT 4.0](/SPT_40/Known_Mod_Issues_40)
+
+- [Frequently Asked Questions for SPT 4.1](/SPT_41/FAQs_41): Answers to frequently asked questions:
+	- [Known retail game Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
+	- [Known SPT Issues for SPT 4.1](/SPT_41/Known_SPT_Issues_41)
+	- [Known Mod Issues for SPT 4.1](/SPT_41/Known_Mod_Issues_41)
+
+- [50/50 Method](/SPT_4x/5050-method): How to use the 50/50 Method to find the mod causing your issues.
 
 ## Guides & Advanced Topics
 
-- [Bot Difficulties](/Bot_Difficulties): Learn how SPT and mods handle bots' difficulty.
-- [SPT & Commando Bots](/SPT_and_Commando_Bots): How to use SPT & Commando bots in SPT.
-- [Console Commands](/guides-and-advanced-topics/console-commands): A list of the few console commands SPT adds that can be used in-game.
+- [Bot Difficulties](/SPT_4x/Bot_Difficulties): Learn how SPT and mods handle bots' difficulty.
+- [SPT & Commando Bots](/SPT_4x/SPT_and_Commando_Bots): How to use SPT & Commando bots in SPT.
+- [Console Commands](/SPT_4x/console-commands): A list of the few console commands SPT adds that can be used in-game.
 
 ## For Mod Developers
 
 Interested in creating your own content for SPT?
 
 - [Modding Resources](/modding/Modding_Resources): Resources to start creating SPT mods.
-- [Modding Introduction](#)^WIP^: Getting started with SPT mod development.
-- [Modding Tools](#)^WIP^: Useful software for creating mods.
-
-
-## SPT 3.11
-
-Pages specific for the Long Term Distribution version of SPT.
-
-- [Manual Install Instructions for 3.11](/SPT_311/Manual-Installation-Instructions_311): How to install SPT 3.11.
-- [Frequently Asked Questions (FAQs) for SPT 3.11](/SPT_311/FAQs_311): Answers to frequently asked questions about SPT 3.11.
-- [Recommended Mods for 3.11](/SPT_311/Recommended_Mods_311): A selection of recommended mods to improve your SPT 3.11 experience.
 
 ## Contribute!
 
-For discussions and suggestions about the Wiki, visit the [`#website-wiki`](https://discord.com/channels/875684761291599922/1426941224324960266) channel on our [Discord server](http://discord.sp-tarkov.com/).
+For discussions and suggestions about the Wiki, visit the [`#website-wiki`](https://discord.com/channels/875684761291599922/1426941224324960266) channel in our [Discord server](TODO).
 You can contribute to the Wiki by reading the [How to Contribute](/how_to_contribute) page. Make sure to follow the [Style Guide](/Style_Guide).
