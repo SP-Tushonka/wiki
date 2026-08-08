@@ -1,8 +1,8 @@
 ---
-title: Known Mod Issues for SPT 4.0 [discord inv link]
+title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T13:55:18.388Z
+date: 2026-08-08T15:49:52.564Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -13,14 +13,14 @@ dateCreated: 2026-08-08T11:23:10.175Z
 
 ## Infinite loading after installing mods
 This happens most often due to installing mods not made for your version of SPT.
-- Outdated [**server**](https://wiki.sp-tushonka.com/SPT_4x/Mod_Types#server-mods) mods will either flag red errors in your SPT server terminal and prevent any mods from being loaded, or not load at all.
-- Outdated [**client**](https://wiki.sp-tushonka.com/SPT_4x/Mod_Types#client-mods) mods will **not** throw errors in the SPT server terminal window and **will** allow the game to launch, but then might encounter infinite loading or other issues.
+- Outdated [**server**](/SPT_4x/Mod_Types#server-mods) mods will either flag red errors in your SPT server terminal and prevent any mods from being loaded, or not load at all.
+- Outdated [**client**](/SPT_4x/Mod_Types#client-mods) mods will **not** throw errors in the SPT server terminal window and **will** allow the game to launch, but then might encounter infinite loading or other issues.
 
-When selecting the mods you want to install, make sure that you **only install mods that have been marked compatible with [your SPT version](https://wiki.sp-tushonka.com/en/SPT_4x/Updating_SPT#version-numbers)**. Mods for incompatible SPT versions will not work, and will break things. If you are unsure what version of SPT you are on, you can see the SPT version in the top left of the server window or in the bottom left while in-game.
+When selecting the mods you want to install, make sure that you **only install mods that have been marked compatible with [your SPT version](/SPT_4x/Updating_SPT#version-numbers)**. Mods for incompatible SPT versions will not work, and will break things. If you are unsure what version of SPT you are on, you can see the SPT version in the top left of the server window or in the bottom left while in-game.
 
 Read the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) Wiki page to see how to remove your outdated mods.
 
-If you verified all your mods to be compatible with your version of SPT and you still have infinite loading, then join our [Discord server](http://discord.sp-tarkov.com/) and follow the [`#support-guidelines`](https://discord.com/channels/875684761291599922/1172733248317694022) on opening a new support thread.
+If you verified all your mods to be compatible with your version of SPT and you still have infinite loading, then join our [Discord server](https://discord.sp-tushonka.com/) and follow the [`#support-guidelines`](https://discord.com/channels/875684761291599922/1172733248317694022) on opening a new support thread.
 
 ## BTR Driver chat instantly closes
 Update [Project Fika](https://sp-mod.com/mod/2326/project-fika).
@@ -43,9 +43,6 @@ Update [Gilded Key Storage](https://sp-mod.com/mod/865/gilded-key-storage).
 
 ## [Task Automation](https://sp-mod.com/mod/2238/task-automation) stops working
 Update it and Expanded Task Text.
-
-## `ReflectionTypeLoadException` error while [UnityToolkit](https://sp-mod.com/mod/1426/unitytoolkit) is installed
-Delete `[game folder]\BepInEx\patchers\FixPluginTypeSerialization` folder.
 
 ## No Hideout crafts when using Skills Extended and [UI Fixes](https://sp-mod.com/mod/1342/ui-fixes) when not using English locale
 Update Skills Extended.
@@ -78,7 +75,7 @@ Install [WTT - CommonLib](https://sp-mod.com/mod/2310/wtt-commonlib).
 Install [Color Converter API](https://sp-mod.com/mod/1090/color-converter-api).
 
 ## My flea prices are extreme when using [Live Flea Prices](https://sp-mod.com/mod/1131/live-flea-prices)
-Those are the prices of items on the Live flea right now. You can check the Live flea on a website [here](https://tarkov.dev/).
+Those are the prices of items on the Live flea right now. You can check the Live flea [here](https://tarkov.dev/).
 By default, SPT uses the base handbook price of items +/- some variance when simulating the flea.
 To get "normal" flea prices:
 - Wait for the Live flea prices to stabilise.
@@ -101,7 +98,7 @@ Update [APBS](https://sp-mod.com/mod/1594/apbs-acids-progressive-bot-system).
 Delete your `[game folder]\BepInEx\plugins\SAIN\Default Bot Config Values` folder. SAIN will regenerate it on game launch.
 
 ## Trying to reach Prestige 6 from [Content Backport - Prestiges](https://sp-mod.com/mod/2540/content-backport-prestiges) shows a blank screen
-Update it..
+Update the mod.
 
 ## `ObjectId must be a 24-character hex string. (Parameter '..._BOOBS...')` when using the Cultist Circle
 Update [AES](https://sp-mod.com/mod/874/aes).
