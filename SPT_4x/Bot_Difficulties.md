@@ -1,12 +1,15 @@
 ---
-title: Bot Difficulties
+title: Bot Difficulties [EOR]
 description: Learn how SPT and mods handle bots' difficulty.
 published: true
-date: 2026-08-08T11:42:39.525Z
+date: 2026-08-08T13:16:29.880Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:22:47.356Z
 ---
+
+> This page applies to any SPT version
+{.is-info}
 
 ## Pre-Raid Difficulty Settings
 Specific bots can have different difficulty settings unique to other bots in the same raid. This page will refer to a bot's specific difficulty as their *difficulty class*.
