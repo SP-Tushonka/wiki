@@ -1,8 +1,8 @@
 ---
-title: Frequently Asked Questions for SPT 4.1 [Discord inv link]
+title: Frequently Asked Questions for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T15:51:00.602Z
+date: 2026-08-08T15:51:07.270Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
