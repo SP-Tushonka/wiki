@@ -1,8 +1,8 @@
 ---
-title: Manual Install Instructions for SPT 4.1
+title: Manual Install Instructions for SPT 4.1 [Discord inv link]
 description: 
 published: true
-date: 2026-08-08T13:11:20.427Z
+date: 2026-08-08T13:56:55.018Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:37.271Z
@@ -40,7 +40,7 @@ This is particularly important if you have just installed the game so all necess
 11. To make it easier to launch SPT in the future, you can right click `SPT.Server` and `SPT.Launcher`, select `Send to > Desktop (create shortcut)`. These are located in the `\SPT_Runtime` folder and should not be moved out.
 12. Click `Start Game` and load into the main menu.
 
-Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://forge.sp-tarkov.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
+Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://sp-mod.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
 
 ## Common Installation and Start-up Issues
 Below you can find some common issues that users encounter when installing or first starting SPT, along with the solution to fixing it. If your issue is not listed then join our [Discord Server](http://discord.sp-tarkov.com/) and ask in the [`#spt-support`](https://discord.com/channels/875684761291599922/1172730102119944222) channel.
