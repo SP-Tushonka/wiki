@@ -2,7 +2,7 @@
 title: How SPT Works [EOR]
 description: The basics of how SPT works.
 published: true
-date: 2026-08-08T13:21:15.617Z
+date: 2026-08-08T13:58:39.288Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:54.936Z
@@ -16,7 +16,7 @@ dateCreated: 2026-08-08T11:22:54.936Z
 <img src="/how_spt_works/spt_installer.png" alt="SPT installer" width=800 style="display: block; margin: 0 auto;">
 <div style="margin-top: 10px;"></div>
 
-- The [SPT installer](https://forge.sp-tarkov.com/installer) makes a copy of your game client files, and if necessary, automatically downgrades them to an older version.
+- The [SPT installer](https://sp-mod.com/installer) makes a copy of your game client files, and if necessary, automatically downgrades them to an older version.
 - The installer always installs the latest version of SPT.
 - Each SPT version is made for a specific version of the game. You can see what version is used on that SPT version's [Release page](<https://github.com/sp-tarkov/build/releases>).
 - This means that, once installed, SPT is completely seperate from your retail game copy files. You can update the retail game as much as you want, and it will not affect your SPT install.
