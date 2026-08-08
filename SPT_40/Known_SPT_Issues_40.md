@@ -2,7 +2,7 @@
 title: Known SPT 4.0 Issues
 description: Known SPT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T12:52:01.218Z
+date: 2026-08-08T13:55:48.964Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:14.018Z
@@ -80,4 +80,4 @@ You have moved SPT onto your OneDrive enabled desktop. Move it to a folder like 
 
 
 # See also
-[Frequently Asked Questions](/SPT_40/FAQs_40)
+[Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
