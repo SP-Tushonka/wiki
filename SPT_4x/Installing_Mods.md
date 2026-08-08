@@ -1,8 +1,8 @@
 ---
-title: Installing Mods
+title: Installing Mods [Discord inv link]
 description: General guide on adding mods to your game.
 published: true
-date: 2026-08-08T14:06:36.058Z
+date: 2026-08-08T14:07:26.485Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:23:02.424Z
