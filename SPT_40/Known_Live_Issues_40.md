@@ -1,8 +1,8 @@
 ---
-title: Known Live Game Issues for SPT 4.0 [EOR]
+title: Known Live Game Issues for SPT 4.0
 description: Known Live Game issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T12:42:09.370Z
+date: 2026-08-08T13:40:15.050Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:06.328Z
@@ -49,16 +49,16 @@ No known fix.
 
 ## Transits to Labs or Labyrinth consume two keycards
 Only have one of the necessary items in your inventory when transiting to those locations.
-Alternatively, install [Gilded Key Storage](<https://forge.sp-tarkov.com/mod/865/gilded-key-storage>).
+Alternatively, install [Gilded Key Storage](https://sp-mod.com/mod/865/gilded-key-storage).
 
 ## Bots phase through doors
-The live game devs' attempt at fixing bots getting stuck on doors. [SAIN](<https://forge.sp-tarkov.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement>) fixes it, however it can make bots get stuck on doors instead.
+The live game devs' attempt at fixing bots getting stuck on doors. [SAIN](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) fixes it, however it can make bots get stuck on doors instead.
 
 ## Can't click `Select Weapon` in the Build menu
 No known fix. To apply builds to a weapon, right click it and press `Edit build`.
 
 ## PMC bots belonging to the same faction won't fight each other
-Install [ABPS](<https://forge.sp-tarkov.com/mod/2097/abps-acids-bot-placement-system>).
+Install [ABPS](https://sp-mod.com/mod/2097/abps-acids-bot-placement-system).
 
 ## SPT Installer not recognising your Steam game install
 1. Open your Official Launcher by launching the game through Steam. 
@@ -66,7 +66,7 @@ Install [ABPS](<https://forge.sp-tarkov.com/mod/2097/abps-acids-bot-placement-sy
 3. In the window that pops up, select the `...\common\Escape From Tarkov\build` folder.
 
 ## Posting on flea randomly causes a stuck game with flashing items
-Install [UI Fixes](<https://forge.sp-tarkov.com/mod/1342/ui-fixes>). Otherwise, restart the game when it occurs.
+Install [UI Fixes](https://sp-mod.com/mod/1342/ui-fixes). Otherwise, restart the game when it occurs.
 
 ## NVGs don't work in the hideout
 They will work in-raid.
