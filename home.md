@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-08T15:38:56.500Z
+date: 2026-08-08T16:20:49.933Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:59.160Z
@@ -27,7 +27,7 @@ SPT allows you to experience the game in a single-player environment complete wi
 - [New to SPT? Start Here!](/Beginners_Guide): A beginner's overview of the SPT project.
 - [System Requirements](/SPT_4x/system-requirements): The system requirements to run SPT.
 - [How SPT Works](/SPT_4x/How_SPT_Works): The basics of how SPT works.
-- [Installation Guide](/SPT_4x)/Installation_Guide): A step by step guide on how to install and initially setup SPT.
+- [Installation Guide](/SPT_4x/Installation_Guide): A step by step guide on how to install and initially setup SPT.
 - [Updating SPT](/SPT_4x/Updating_SPT): Learn how to update your SPT installation.
 - [Profiles](/SPT_4x/Profiles): How profiles work in SPT.
 	- [Mods](/SPT_4x/Profiles#mods): How mods interact with your profiles.
