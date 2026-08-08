@@ -1,8 +1,8 @@
 ---
-title: Known SPT Issues
+title: Known SPT 4.0 Issues
 description: Known SPT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T11:42:58.566Z
+date: 2026-08-08T12:21:33.351Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:14.018Z
