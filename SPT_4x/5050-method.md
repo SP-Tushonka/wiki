@@ -1,14 +1,14 @@
 ---
-title: 50/50 Method
+title: 50/50 Method [EOR]
 description: How to use the 50/50 Method to find the mod causing your issues.
 published: true
-date: 2026-08-08T11:42:33.965Z
+date: 2026-08-08T13:12:31.290Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:22:39.735Z
 ---
 
-> This page applies to SPT version `4.0`
+> This page applies to SPT version `4.0` and `4.1`
 {.is-info}
 
 
@@ -19,7 +19,7 @@ If you need to check **50** mods, the 50/50 Method will only take **7** tests, w
 If you need to check **100** mods, the 50/50 Method will only take **8** tests, while checking each mod individually could take **100** tests.
 
 ## 50/50 Method
-First, verify that the issue you have is due to a mod by running SPT without any installed. See the [Uninstalling Mods](/Uninstalling_Mods) page on how to uninstall mods. Note that there's no need to delete your mods, simply move them to a temporary folder, and create a new test profile [so your main profile isn't affected](https://wiki.sp-tarkov.com/Uninstalling_Mods#profiles).
+First, verify that the issue you have is due to a mod by running SPT without any installed. See the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) page on how to uninstall mods. Note that there's no need to delete your mods, simply move them to a temporary folder, and create a new test profile [so your main profile isn't affected](/SPT_4x/Uninstalling_Mods#profiles).
 If you have the storage space, you can test if the issue is due to mods by installing a new copy of SPT and seeing if the issue is present without any mods.
 
 1. Copy your `[game folder]/SPT` and `[game folder]/BepInEx` folders to a new folder (e.g.: a new folder called `my mods` on your desktop).
@@ -52,5 +52,5 @@ After you identified which mod causes your issue, you should report it to the mo
 - If instead you want to find a mod that's incompatible with another, you can also use this method. Leave the mod installed when following the method until you're left with it and the mod that's incompatible. 
 
 # See also
-[Installing Mods](/Installing_Mods)
-[Uninstalling Mods](/Uninstalling_Mods)
+[Installing Mods](/SPT_4x/Installing_Mods)
+[Uninstalling Mods](/SPT_4x/Uninstalling_Mods)
