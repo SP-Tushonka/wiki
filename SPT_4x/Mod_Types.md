@@ -1,8 +1,8 @@
 ---
-title: Mod Types [Discord inv link]
+title: Mod Types
 description: Learn the difference between server mods and client mods.
 published: true
-date: 2026-08-08T16:06:48.349Z
+date: 2026-08-08T16:06:55.743Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:23:17.930Z
