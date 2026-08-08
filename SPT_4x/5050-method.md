@@ -2,7 +2,7 @@
 title: 50/50 Method
 description: How to use the 50/50 Method to find the mod causing your issues.
 published: true
-date: 2026-08-08T13:14:45.249Z
+date: 2026-08-08T13:14:58.425Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:22:39.735Z
@@ -44,7 +44,7 @@ Note that on SPT `4.0`, the `SPT_Runtime` folder is called `SPT`.
 7. Move or delete the mod that's causing the issue from your `my mods` folder.
 8. Copy the files from `my mods` folder into your SPT folder. This will reinstall all your mods, except the one causing the issue. Override all files when prompted.
 
-After you identified which mod causes your issue, you should report it to the mod author on their mod page.
+After you identified which mod causes your issue, you should report it to the mod author.
 
 ## Alternative Methods
 
