@@ -1,8 +1,8 @@
 ---
-title: FAQs for SPT 4.0 [EOR]
+title: FAQs for SPT 4.0 [Discord inv link]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T12:58:28.091Z
+date: 2026-08-08T13:38:55.329Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -25,10 +25,10 @@ Also in `[game folder]\SPT`.
 Version `0.16.9.0.40087`, released 2 October 2025.
 
 ## Is (insert content here) in SPT now?
-Refer to the previous question. If you're curious about something specific, please see the official [live game changelog](<https://escapefromtarkov.fandom.com/wiki/Changelog>).
+Refer to the previous question. If you're curious about something specific, please see the official [live game changelog](https://escapefromtarkov.fandom.com/wiki/Changelog).
 
 ## Is Labyrinth in `4.0`?
-Yes. See the [official wiki](<https://escapefromtarkov.fandom.com/wiki/The_Labyrinth>) on how to access it.
+Yes. See the [official wiki](https://escapefromtarkov.fandom.com/wiki/The_Labyrinth) on how to access it.
 
 ## Is the Softcore/Hardcore wipe in SPT? 
 No. The hardcore wipe only made changes to the PVP mode. SPT `4.0` is using game version `0.16.9.0.40087` which came before the softcore wipe changes were added to PVE.
@@ -56,7 +56,7 @@ For an explanation of how SPT versions work and how to update your SPT, read thr
 
 ## Bot spawns
 SPT uses the game's PvE bot spawning system. Bots will continuously spawn up to a map-specific limit. When enough are killed, more will spawn to replace them. Bot spawns aren't checked for the distance to you or other bots which can let bots can spawn next to you. 
-Use a bot spawning mod like [ABPS]() to change this system.
+Use a bot spawning mod like [ABPS](https://sp-mod.com/mod/2097/abps-acids-bot-placement-system) to change this system.
 
 ## Need space on your drive? Don't play live?
 After you install SPT, you cannot completely uninstall your retail copy, but you can delete the `_Data` folder from your live game folder if you really need the space.
@@ -70,12 +70,12 @@ The game has over the years become more demanding on system resources. In the pa
 
 Some people are still able to play SPT with 16gb of RAM. That's due to the pagefile, which is a cache located on your storage device. If your RAM is filling up, Windows will start moving files to and from it. It will lead to stuttering and overall lower performance, as even the fastest NVMe SSD is much slower than RAM.
 
-For an even smaller subset of people there’s an underlying issue with their Windows install, where the pagefile does not work as intended. While this should be fixed, it can be [set manually as a temporary fix](<https://wiki.sp-tarkov.com/Performance_Tuning#pagefile>).
+For an even smaller subset of people there’s an underlying issue with their Windows install, where the pagefile does not work as intended. While this should be fixed, it can be [set manually as a temporary fix](/SPT_4x/Performance_Tuning#pagefile>).
 
 ## Why are bots not moving from their spawn location?
 Bots are not programmed to move from their spawn location outside of combat. Only PMC bots are given tasks to loot areas, if they spawned near them. By design, bots will stand where they spawned until they spot the player. This is a design decision made by the game's developers and not SPT.
 
-[SAIN](<https://forge.sp-tarkov.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement>) **doesn't** make bots move around the map, as it *only* affects combat behaviour.
+[SAIN](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) **doesn't** make bots move around the map, as it *only* affects combat behaviour.
 
 # The 1.0 Update
 ### Will we have `1.0` soon in SPT?
