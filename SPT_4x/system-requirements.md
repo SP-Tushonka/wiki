@@ -2,7 +2,7 @@
 title: System Requirements
 description: The system requirements to run SPT.
 published: true
-date: 2026-08-08T14:23:50.823Z
+date: 2026-08-08T14:27:39.239Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:10.908Z
@@ -24,9 +24,8 @@ The following are the minimum requirements we have found necessary to reliably r
 | GPU              | DX11 compatible with 8GB+ of VRAM |
 | Storage          | SSD with 70GB+ of free space |
 | Dependencies     | [Retail Game Site](https://www.escapefromtarkov.com/purchase) |
-|                  | [.Net 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-developer-pack-offline-installer) |
-|                  | [.NET Runtime 9.0.10](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.10-windows-x64-installer) |
-|                  | [ASP.NET 9.0.10](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-9.0.10-windows-x64-installer) |
+| | For SPT 4.0:<br>`ASP.NET Core Runtime` and `.NET Desktop Runtime` from [here](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) |
+| | For SPT 4.1:<br>`ASP.NET Core Runtime` and `.NET Desktop Runtime` from [here](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) |
 
 # See also
 [Performance Tuning](/SPT_4x/Performance_Tuning)
