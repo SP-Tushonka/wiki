@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0 [Discord inv link]
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T15:05:06.956Z
+date: 2026-08-08T15:08:18.853Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -108,6 +108,6 @@ This is the current space requirements (compounding) to install SPT:
 So while the final install size is ~60GB, the maximum allocated for SPT and associated install files *during the install process* is ~100GB combined.
 
 # Known Issues
-- [Known Live Game Issues](/SPT_40/Known_Live_Issues_40)
-- [Known SPT Issues](/SPT_40/Known_SPT_Issues_40)
-- [Known Mod Issues](/SPT_40/Known_Mod_Issues_40)
+- [Known Live Game Issues for SPT 4.0](/SPT_40/Known_Live_Issues_40)
+- [Known SPT Issues for SPT 4.0](/SPT_40/Known_SPT_Issues_40)
+- [Known Mod Issues for SPT 4.0](/SPT_40/Known_Mod_Issues_40)
