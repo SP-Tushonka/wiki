@@ -1,8 +1,8 @@
 ---
 title: Reporting Issues
 description: How to effectively ask for help.
-published: true
-date: 2026-08-08T11:43:12.008Z
+published: false
+date: 2026-08-08T12:24:31.278Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:33.278Z
