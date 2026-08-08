@@ -2,7 +2,7 @@
 title: Known Live Game Issues for SPT 4.0
 description: Known Live Game issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T12:20:39.564Z
+date: 2026-08-08T12:39:21.661Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:06.328Z
@@ -57,7 +57,7 @@ The live game devs' attempt at fixing bots getting stuck on doors. [SAIN](<https
 ## Can't click `Select Weapon` in the Build menu
 No known fix. To apply builds to a weapon, right click it and press `Edit build`.
 
-## PMC bots belonging to the same faction (BEAR, USEC) won't fight each other
+## PMC bots belonging to the same faction won't fight each other
 Install [ABPS](<https://forge.sp-tarkov.com/mod/2097/abps-acids-bot-placement-system>).
 
 ## SPT Installer not recognising your Steam game install
@@ -73,4 +73,4 @@ They will work in-raid.
 
 
 # See also
-[Frequently Asked Questions](/FAQs_40)
+[Frequently Asked Questions](/SPT_40/FAQs_40)
