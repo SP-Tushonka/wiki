@@ -2,7 +2,7 @@
 title: Beginner's Guide [EOR]
 description: A beginner's overview of the SPT project.
 published: true
-date: 2026-08-08T13:22:34.194Z
+date: 2026-08-08T13:22:44.383Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:43.689Z
@@ -30,7 +30,6 @@ SPT is a modding framework made for people who want to play offline singleplayer
 - [Documentation](https://docs.sp-tarkov.com/)
 - [Development](https://dev.sp-tarkov.com/)
 - [Github](https://github.com/sp-tarkov/)
-- [Patreon](https://www.patreon.com/sptarkov)
 
 ## Getting started
 - [System Requirements](/SPT_4x/system-requirements): The system requirements to run SPT.
