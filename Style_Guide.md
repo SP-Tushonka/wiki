@@ -2,7 +2,7 @@
 title: Style Guide
 description: Keep a consistent style across the Wiki.
 published: true
-date: 2026-08-08T11:43:20.032Z
+date: 2026-08-08T14:41:05.552Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:44.032Z
@@ -35,6 +35,8 @@ If the information applies to any SPT version, simply have it state `This page a
 
 To remove any ambiguity, you should include the full filepath. For example, if you want to refer to the `profiles` folder: `[game folder]\SPT\user\profiles`
 
+If the page is only for SPT 4.1 `\SPT_Runtime\user\profiles` will suffice.
+
 Once written in full, additional references to it can be shortened to `\SPT\user\profiles`, or just `\profiles`.
 
 ## Links
@@ -56,15 +58,17 @@ Read the SPT Wiki's [Style Guide](https://wiki.sp-tarkov.com/en/Style_Guide) to 
 
 Conveniently, links to pages on this Wiki can be done by just referencing its location. The above example can also be written like this:
 
-```
-Read the SPT Wiki's [Style Guide](/Style_Guide) to see how you can contribute to the Wiki.
-```
+|-|-|
+| `Read the SPT Wiki's [Style Guide](/Style_Guide) to see how you can contribute to the Wiki.` | Read the SPT Wiki's [Style Guide](/Style_Guide) to see how to write Wiki pages. |
+| `See [Known Mod Issues in SPT 4.0](/SPT_40/Known_Mod_Issues_40) for a solution.` | See [Known Mod Issues in SPT 4.0](/SPT_40/Known_Mod_Issues_40) for a solution. |
+| `Read the [Mods](/SPT_4x/Profiles#mods) section of the [Profiles](/SPT_4x/Profiles) page.` | Read the [Mods](/SPT_4x/Profiles#mods) section of the [Profiles](/SPT_4x/Profiles) page. |
+
 
 ## Header sizes
 
 There are 6 different header sizes available. `#` will give you the largest title, while `######` will be the smallest.
 Note that using any header will allow for direct linking to that section of a page e.g.: https://wiki.sp-tarkov.com/en/Style_Guide#header-sizes
-
+As shown in the [File paths](/Style_guide#File_paths)
 You can copy the direct link to a header by hovering over it, right clicking `¶` and copying the link.
 
 ```
