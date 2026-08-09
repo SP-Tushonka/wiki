@@ -2,7 +2,7 @@
 title: Installing Mods
 description: General guide on adding mods to your game.
 published: true
-date: 2026-08-08T16:07:47.173Z
+date: 2026-08-09T12:37:26.395Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:23:02.424Z
@@ -58,8 +58,6 @@ Most mods can be updated by simply reinstalling their files, overriding any file
 However, some mods move, delete or rename files between versions. While the mod authors should make a note of it, sometimes it's missed.
 
 If you are experiencing issues after updating a mod, or a mod has a large number of individual files, you should delete and reinstall it.
-
-You can use a tool like [Check Mods](https://sp-mod.com/mod/2471/check-mods) to see which of your mods require updating.
 
 ### Replacing files
 
