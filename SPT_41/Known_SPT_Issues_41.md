@@ -2,7 +2,7 @@
 title: Known SPT 4.1 Issues
 description: Known SPT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-08T15:19:39.611Z
+date: 2026-08-09T14:57:00.202Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:19:39.611Z
@@ -31,4 +31,4 @@ If that didn't help, verify that your SPT install path doesn't have any special 
 
 ## The game closes instantly when pressing Start Game
 
-If you have BitDefender installed add SPT to the exceptions list.
+If you have BitDefender installed add SPT to the exceptions list in both the "Antivirus" as well as "Advanced Threat Defense".
