@@ -2,7 +2,7 @@
 title: Known SPT 4.0 Issues
 description: Known SPT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-10T16:41:41.237Z
+date: 2026-08-10T16:42:31.151Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:14.018Z
@@ -12,6 +12,7 @@ dateCreated: 2026-08-08T11:23:14.018Z
 {.is-info}
 
 ## [Github tracked issues](<https://github.com/sp-tarkov/build/wiki/Known-SPT-issues>)
+<br>
 
 ## The server has unexpectedly stopped... : Decoded string is not a valid IDN name.
 Remove any trailing symbols from your PC's name (e.g.: `My-PC-` > `My-PC`).
