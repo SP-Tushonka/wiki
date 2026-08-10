@@ -2,7 +2,7 @@
 title: Frequently Asked Questions for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T15:51:07.270Z
+date: 2026-08-10T14:29:42.477Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -18,7 +18,7 @@ dateCreated: 2026-08-08T15:06:51.667Z
 - Read mod pages. Not only is it just common courtesy to read the mod page __before__ asking for help, chances are the mod page has exactly the information you need. What the mod does, how to install it, how to use it, and known issues or incompatibility with other mods.
 
 - "I'm still having issues and it wasn't the last mod I installed, what do I do?" 
-Start removing mods one at a time, or if you have a lot of mods, follow the [50/50 Method](/SPT_4x/5050-method>). When you've identified the mod responsible, check the mod page to see if it's actually an issue or an intended feature. Check the comments section to see if anyone else reported the same problem you're experiencing. 
+Start removing mods one at a time, or if you have a lot of mods, follow the [50/50 Method](/SPT_4x/5050-method). When you've identified the mod responsible, check the mod page to see if it's actually an issue or an intended feature. Check the comments section to see if anyone else reported the same problem you're experiencing. 
 If none of that helps, then it's time to create a support ticket. Join our [Discord Server](https://discord.sp-tushonka.com/) and read through the [#support-guidelines](https://discord.com/channels/875684761291599922/1172733248317694022) for instructions.
 
 
@@ -74,6 +74,17 @@ After you install SPT, you cannot completely uninstall your retail copy, but you
 
 You **will** have to validate files through the retail game launcher if you need to reinstall SPT again by going into the launcher's `Game Settings` and clicking on `Integrity check`. 
 On Steam right click the game and open `Properties...`, and in `Installed Files` press `Verify integrity of game files`.
+
+## Do I need to keep my server running to get my insurance back?
+**No.**
+
+SPT uses your system clock for things like insurance, crafts, upgrades, etc. When one of these timers start, a completion timestamp will be generated. 
+When you start your server, and load a profile, it will automatically compare your current system clock to the completion timestamp and then update the timer. 
+Once your system clock matches or surpasses the timestamp that timer will mark as complete and you will receive the outcome.
+
+*Once insurance is complete, the claim timer will only start on your next login.*
+
+This is so you do not need to keep your `SPT.Server.exe` open while you are not playing.
 
 # Known Issues
 - [Known Live Game Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
