@@ -2,7 +2,7 @@
 title: How SPT Works
 description: The basics of how SPT works.
 published: true
-date: 2026-08-08T14:18:04.152Z
+date: 2026-08-10T15:35:43.220Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:54.936Z
@@ -20,7 +20,7 @@ dateCreated: 2026-08-08T11:22:54.936Z
 - You can select which version of SPT you want to install in it.
 - Each SPT version is made for a specific version of the game. You can see what version is used on that SPT version Release page.
 - This means that, once installed, SPT is completely seperate from your retail game copy files. You can update the retail game as much as you want, and it will not affect your SPT install.
-	- After you install SPT, you cannot completely uninstall the retail game, but you can delete the `EscapeFromTarkov_Data` folder from your live game folder if you really need the space.
+	- After you install SPT, you cannot completely uninstall the retail game, but you can delete the `_Data` folder from your live game folder if you really need the space.
 	- If you own the game through Steam you will need to disable auto-updates to prevent Steam from re-downloading said folder.
 - Once installed, you can freely copy, move or delete your SPT install.
 	- If you make a copy of your SPT, you will need to tweak the shortcuts inside it, as they will be pointing towards the original SPT folder.
