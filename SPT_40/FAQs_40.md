@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-08T15:45:45.340Z
+date: 2026-08-10T16:24:18.337Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -45,13 +45,12 @@ Long answer: The game received optimised culling on several maps, and alongside 
 ***If*** the `3.11` profile was ***un-modded***, yes. Otherwise A new profile will be required. None of your `3.11` mods are compatible.
 See the guide on [Updating SPT](/SPT_4x/Updating_SPT) for more details.
 
-
 ## When is (insert mod here) going to update to `4.0`?
 Nobody knows when certain mods are going to update, not even the authors themselves. Do not pester mod authors about updates to their mods.
 
 ## Will a mod marked compatible for `4.0.0` work on future versions of `4.0`?
 Mods made for previous hotfix versions should work on the latest version. Those that don't might have received an update to address that.
-Mods known to be incompatible with be stated in the `Mod compatibility` section of SPT's [Release page](https://github.com/sp-tarkov/build/releases/tag/4.0.13) and in [Known Mod Issues](/SPT_40/Known_Mod_Issues_40).
+Mods known to be incompatible with be stated in [Known Mod Issues](/SPT_40/Known_Mod_Issues_40).
 For an explanation of how SPT versions work and how to update your SPT, read through the [Updating SPT](/SPT_4x/Updating_SPT) Wiki page.
 
 ## Bot spawns
@@ -63,14 +62,6 @@ After you install SPT, you cannot completely uninstall your retail copy, but you
 
 You **will** have to validate files through the retail game launcher if you need to reinstall SPT again by going into the launcher's `Game Settings` and clicking on `Integrity check`. 
 On Steam right click the game and open `Properties...`, and in `Installed Files` press `Verify integrity of game files`.
-
-## RAM Usage
-It's [recommended](/SPT_4x/system-requirements) to have at least 32gb of RAM to play SPT without issues.
-The game has over the years become more demanding on system resources. In the past, 16gb was just enough to play without issue. Nowadays it's not.
-
-Some people are still able to play SPT with 16gb of RAM. That's due to the pagefile, which is a cache located on your storage device. If your RAM is filling up, Windows will start moving files to and from it. It will lead to stuttering and overall lower performance, as even the fastest NVMe SSD is much slower than RAM.
-
-For an even smaller subset of people there’s an underlying issue with their Windows install, where the pagefile does not work as intended. While this should be fixed, it can be [set manually as a temporary fix](/SPT_4x/Performance_Tuning#pagefile>).
 
 ## Why are bots not moving from their spawn location?
 Bots are not programmed to move from their spawn location outside of combat. Only PMC bots are given tasks to loot areas, if they spawned near them. By design, bots will stand where they spawned until they spot the player. This is a design decision made by the game's developers and not SPT.
