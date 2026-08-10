@@ -2,7 +2,7 @@
 title: Frequently Asked Questions for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-10T14:29:42.477Z
+date: 2026-08-10T16:17:46.273Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -22,7 +22,7 @@ Start removing mods one at a time, or if you have a lot of mods, follow the [50/
 If none of that helps, then it's time to create a support ticket. Join our [Discord Server](https://discord.sp-tushonka.com/) and read through the [#support-guidelines](https://discord.com/channels/875684761291599922/1172733248317694022) for instructions.
 
 
-## What client version of the game is SPT running?
+## What client version of the game is SPT 4.1 running?
 Version `0.16.9.5.40743`, released 22nd October 2025.
 
 ## Can I use my profile and mods from 4.0?
