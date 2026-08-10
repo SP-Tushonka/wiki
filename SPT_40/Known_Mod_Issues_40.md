@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-08T15:49:52.564Z
+date: 2026-08-10T16:28:05.600Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -33,7 +33,7 @@ Don't use old presets in newer versions of SVM, and make sure you have the lates
 If you're using the any custom preset from the Forge, try using one of the default presets instead.
 
 ## `Error handling request: /client/repeatalbeQuests/activityPeriods`, unable to launch profile
-Update [Quest Tweaks](https://sp-mod.com/mod/1537/sgtlaggys-quest-tweaks), and restore a backup of your profile per the [Backups](/SPT_4x/Profiles#backups>) section.
+Update [Quest Tweaks](https://sp-mod.com/mod/1537/sgtlaggys-quest-tweaks), and restore a backup of your profile per the [Backups](/SPT_4x/Profiles#backups) section.
 
 ## ``Error adding locale `ID` to en, duplicate key``
 [Update your SPT.](/SPT_4x/Updating_SPT)
