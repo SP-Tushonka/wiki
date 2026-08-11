@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-10T16:38:55.427Z
+date: 2026-08-11T18:32:50.434Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -142,7 +142,7 @@ Change `removeModItemsFromProfile` and `removeInvalidTradersFromProfile` back to
 You installed a mod made for 4.1 to your 4.0 install. Uninstall it, and install the correct version. You can download previous versions of mods in the Versions tab on the mod page.
 
 ## `An item with the same key has already been added. Key: bosswedge`
-The new [Black Division 1.2.0](https://sp-mod.com/mod/2511/wtt-black-division-redacted-home) update is not compatible with [Wedge 2.2.1](https://sp-mod.com/mod/2820/wedge). You will need to uninstall one or the other.
+The new [Black Division 1.2.0](https://sp-mod.com/mod/2511/wtt-black-division-redacted-home) update is not compatible with [Wedge 2.2.1](https://sp-mod.com/mod/2820/wedge). You will need to [uninstall](/SPT_4x/Uninstalling_Mods) one or the other.
 
 
 # See also
