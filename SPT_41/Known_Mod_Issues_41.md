@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-09T14:05:43.777Z
+date: 2026-08-11T17:17:03.592Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -19,3 +19,11 @@ You installed a mod made for SPT 4.0 to your SPT 4.1 install. [Uninstall it](/SP
 
 ## Green couldn't find `ServerValueModifier.dll` under `SPT/user/mods/[SVM] Server Value Modifier`
 You didn't install SVM correctly. It's installed like any other mod. See the [Installing Mods](/SPT_4x/Installing_Mods) page on how you should install your mods.
+
+## My flea prices are extreme when using [Live Flea Prices](https://sp-mod.com/mod/1131/live-flea-prices)
+Those are the prices of items on the Live flea right now. You can check the Live flea [here](<https://tarkov.dev/>).
+By default, SPT uses the base handbook price of items +/- some variance when simulating the flea.
+To get "normal" flea prices:
+- Wait for the Live flea prices to stabilise.
+- Set `"pvePrices"` to `true` inside Live Flea Prices' config file to use the PvE Live flea prices instead.
+- [Uninstall](/SPT_4x/Uninstalling_Mods) Live Flea Prices.
