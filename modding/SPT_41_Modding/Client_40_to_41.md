@@ -2,7 +2,7 @@
 title: Client Mod Migration - 4.0 to 4.1
 description: What changed for client mods between SPT 4.0 and 4.1, and how to fix it.
 published: true
-date: 2026-08-11T12:00:41.494Z
+date: 2026-08-11T12:01:21.069Z
 tags: modding, migration, client
 editor: markdown
 dateCreated: 2026-08-08T11:24:33.278Z
@@ -24,6 +24,6 @@ This is the one change that touches nearly every client mod. Anywhere your code 
 
 The full old-to-new list is on its own page:
 
-- [Client Class Name Mappings](/en/SPT_41/modding/client/Class_Name_Mappings)
+- [Client Class Name Mappings](/en/modding/SPT_41_Modding/client/Class_Name_Mappings)
 
 Work through the mappings table for each type your mod references and swap the old name for the new one. Because types now sit in namespaces, you will also need the matching `using` for wherever the type ended up.
