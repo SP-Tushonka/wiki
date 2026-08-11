@@ -2,7 +2,7 @@
 title: Modding Resources
 description: 
 published: true
-date: 2026-08-08T16:19:15.702Z
+date: 2026-08-11T16:25:24.280Z
 tags: modding
 editor: markdown
 dateCreated: 2026-08-08T11:24:48.686Z
@@ -19,7 +19,7 @@ Resources to get started making mods. It is recommended to begin with server mod
 
 ### General modding resources:
 - [Semantic versioning](<https://semver.org/>)
-- [SPT Item database](<https://db.sp-tarkov.com/>)
+- [SPT Item database](<https://db.sp-tushonka.com/>)
 - [Tarkov-Dev](<https://api.tarkov.dev/>)
 - [Tarkynator](<https://tarkynator.com/>)
 - [Rider SPT ID Highlighter Plugin](<https://github.com/madmanbeavisx/spt-id-highlighter>)
