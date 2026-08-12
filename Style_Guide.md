@@ -2,7 +2,7 @@
 title: Style Guide
 description: Keep a consistent style across the Wiki.
 published: true
-date: 2026-08-12T00:39:47.090Z
+date: 2026-08-12T00:40:50.105Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:44.032Z
@@ -191,15 +191,15 @@ Tables in markdown are bit of a hassle to setup. To get a table like this:
 You would insert:
 
 ```
-| | ham | burger |
 | - | - |
+| | ham | burger |
 | ham | hamham | hamburger |
 | burger | burgerham | burgerburger |
 ```
 
-Note that without the second line the table won't work. Spaces around the words and the `-` aren't necessary but help with readability.
+Note that without the first line the table won't work. Spaces around the words and the `-` aren't necessary but help with readability.
 
-For a more highlighted top row, insert the second line as the first instead:
+For a more highlighted top row, swap the places of the first two lines:
 
 | | ham | burger |
 | - | - |
