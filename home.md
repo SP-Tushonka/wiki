@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-10T16:17:09.560Z
+date: 2026-08-12T11:52:07.458Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:59.160Z
@@ -21,6 +21,7 @@ SPT allows you to experience the game in a single-player environment complete wi
 - [SPT Forge](https://sp-mod.com/): The home of the community and mods.
 - [Discord Server](https://discord.com/invite/Xn9msqQZan): The other home of the community and best place to ask for support.
 - [SPT's Github](https://github.com/SP-Tushonka): The codebase of SPT.
+- [Crowdin](<https://crowdin.com/project/spt-translation>): Help translating SPT.
  
 ## Getting Started
 
