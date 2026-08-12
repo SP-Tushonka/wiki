@@ -2,7 +2,7 @@
 title: Updating SPT
 description: Learn how to update your SPT installation.
 published: true
-date: 2026-08-12T22:32:03.478Z
+date: 2026-08-12T22:33:15.599Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:51.525Z
@@ -11,7 +11,7 @@ dateCreated: 2026-08-08T11:23:51.525Z
 > This page applies to any SPT version
 {.is-info}
 
-> This method can only be used to update to a new hotfix patch. An update from ex. `4.0.13 > 4.1.0` requires a new install of SPT.
+> This method can only be used to update to a new patch. An update from ex. `4.0.13 > 4.1.0` requires a new install of SPT.
 {.is-warning}
 
 
@@ -51,7 +51,7 @@ SPT follows the [Semantic Versioning](https://semver.org/) schema for its versio
 - Old mods **won't work**
 - Unmodded old profiles *might* work
 
-`Z` = Patch/Hotfix
+`Z` = Patch
 - Bug fixes for the previous Minor version
 - Generally doesn't require a reinstall
 - Generally works with mods made for the previous hotfix version
