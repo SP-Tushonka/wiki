@@ -2,7 +2,7 @@
 title: Installation Guide
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-12T16:30:45.618Z
+date: 2026-08-12T16:33:54.530Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
@@ -22,7 +22,7 @@ This is particularly important if you have just installed the game so all necess
 ## Installing and running SPT
 
 1. Download the [SPT Installer](https://sp-mod.com/installer).
- - The installer will always download & install the latest SPT version, it **does not** update a current SPT install.
+ - The installer is only for installing SPT, it **does not** update an existing SPT install.
 2. Run the SPT Installer.
 3. Read the Installer Info page, then click next.
  - This page contains information as to what the installer does and does not do. It also answers many common questions that users have which is why it is there.
