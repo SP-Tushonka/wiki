@@ -2,7 +2,7 @@
 title: Installation Guide
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-08T16:08:49.781Z
+date: 2026-08-12T16:30:45.618Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
@@ -14,7 +14,7 @@ dateCreated: 2026-08-08T11:22:58.579Z
 
 ## What you need to do before you install SPT
 Verify that your retail game copy is fully up-to-date, through the official Launcher or Steam.
-SPT requires that your retail game is on the latest version. This is so the downpatcher can copy your client files and patch them down to the same game client version that SPT runs on.
+SPT requires that your retail game is on the latest version.
 
 Verify that your retail game copy works, and that you can load up to at least the main menu or stash.
 This is particularly important if you have just installed the game so all necessary files can be generated.
@@ -26,20 +26,21 @@ This is particularly important if you have just installed the game so all necess
 2. Run the SPT Installer.
 3. Read the Installer Info page, then click next.
  - This page contains information as to what the installer does and does not do. It also answers many common questions that users have which is why it is there.
-4. Select an install path. 
- - **DO NOT** install to a protected location such as Documents or Desktop as you might encounter Windows permission issues. **DO NOT** install into your Live game folder. A good location would be `C:\Games\SPT 4.0` or `C:\Games\SPT 4.1`.
-5. Click 'Start Install' and wait for it to complete.
+4. Select a new empty folder. We recommend `C:\Games\SPT`. 
+	- Do not install to a protected location such as Downloads, Desktop or Program Files.
+5. Select which version of SPT you want to install.
+6. Click 'Start Install' and wait for it to complete.
  - Once complete you will be asked if you want to open the Install Folder or Add a Desktop Shortcuts. Tick or untick to your preference.
   - If you decide against the shortcuts, you can run the `SPT.Server` and `SPT.Launcher` from inside your SPT folder. They are shortcuts which you can copy to any location on your computer.
-6. Run `SPT.Server`.
+7. Run `SPT.Server`.
  - Wait for the green text that says `Server has started, happy playing`.
  - Your server needs to be running while you play. It can just be closed when you are done playing.
-7. Run `SPT.Launcher` and follow the onscreen instructions.
+8. Run `SPT.Launcher` and follow the onscreen instructions.
  - If you want to copy over your in-game settings, click `OK`. 
  - You can use any username you want. It is recommend that you **do not** use your retail game account username. Especially if you plan on recording or streaming SPT.
  - `Login Automatically` will always log into the last profile you loaded. You can disable this by clicking `Logout` in the bottom right, then unchecking the option.
  - Select your desired game version. Each version has a description box summarising what is included. Once you have picked your chosen game version click `Register`. You can pick *any* game version you want from the profile list, you do not need to own the corresponding retail game version. Once chosen, you cannot change the edition a profile is using.
-8. Click `Start Game` and load into the main menu.
+9. Click `Start Game` and load into the main menu.
 
 Once you have completed the above, you can now play SPT and install mods found on [The Forge](https://sp-mod.com/). You can find a guide on how to correctly install SPT mods on the [Installing Mods](/SPT_4x/Installing_Mods) Wiki page.
 
@@ -86,6 +87,7 @@ You cannot use any of your old mod files in a newer SPT version. If you want to 
 Some old profiles can work. See the [version numbers](/SPT_4x/Updating_SPT#version-numbers) section for more details.
 
 # See also
+[How SPT Works](/SPT_4x/How_SPT_Works)
 [System Requirements](/SPT_4x/system-requirements)
 [Updating SPT](/SPT_4x/Updating_SPT)
 [Installing Mods](/SPT_4x/Installing_Mods)
