@@ -2,7 +2,7 @@
 title: Beginner's Guide
 description: A beginner's overview of the SPT project.
 published: true
-date: 2026-08-08T15:39:20.953Z
+date: 2026-08-12T11:53:51.986Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:43.689Z
@@ -37,5 +37,6 @@ The best way to help is to give some of your time and energy to keep this place 
 - Be an active community member and keep this place lively!
 - Have your friends join our [Discord](https://discord.com/invite/Xn9msqQZan) server.
 - Contribute to the project (feel free to ask how to best contribute over at ⁠[`#dev-community`](https://discord.com/channels/875684761291599922/875707258074447904).
-- Make mods.
+- Help translate the project on [Crowdin](https://crowdin.com/project/spt-translation).
+- [Make mods](/modding/Modding_Resources).
 - Write tutorials and documentation for the community.
