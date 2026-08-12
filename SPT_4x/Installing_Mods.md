@@ -2,7 +2,7 @@
 title: Installing Mods
 description: General guide on adding mods to your game.
 published: true
-date: 2026-08-09T12:37:26.395Z
+date: 2026-08-12T20:48:55.292Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:23:02.424Z
@@ -25,7 +25,8 @@ dateCreated: 2026-08-08T11:23:02.424Z
 - Make sure that **you have loaded your SPT install up to the main menu at least once** before installing mods.
 
 - **Only install mods that are marked compatible with your version of SPT.** Mods for older SPT versions will not work, and will break things. If you are unsure what version of SPT you are on, you can see the SPT version in the top left of the server window or in the bottom left while in-game.
-
+	- You can download previous versions of mods in the Versions tab on their mod pages.
+  
 - **Close everything SPT related** when installing or removing mods. Your server needs to be closed when configuring [server mods](/SPT_4x/Mod_Types#server-mods).
 
 - Install mods in **small batches** and verify they work before installing more. If you encounter an issue, you will know it's one of the few mods you just installed.
