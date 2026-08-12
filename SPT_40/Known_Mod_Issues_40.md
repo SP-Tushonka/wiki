@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-11T18:32:50.434Z
+date: 2026-08-12T22:41:57.954Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -144,6 +144,8 @@ You installed a mod made for 4.1 to your 4.0 install. Uninstall it, and install 
 ## `An item with the same key has already been added. Key: bosswedge`
 The new [Black Division 1.2.0](https://sp-mod.com/mod/2511/wtt-black-division-redacted-home) update is not compatible with [Wedge 2.2.1](https://sp-mod.com/mod/2820/wedge). You will need to [uninstall](/SPT_4x/Uninstalling_Mods) one or the other.
 
+## M4 handguard models are red errors
+Incompatibility between [SOCOM Armory](https://sp-mod.com/mod/1835/socom-armory-new-quests-story-line) and [Epic's All in One](https://sp-mod.com/mod/1263/epics-all-in-one). [Uninstall](SPT_4x/Uninstalling_Mods) one of them.
 
 # See also
 [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
