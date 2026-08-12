@@ -2,7 +2,7 @@
 title: Updating SPT
 description: Learn how to update your SPT installation.
 published: true
-date: 2026-08-08T16:05:04.389Z
+date: 2026-08-12T22:32:03.478Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:51.525Z
@@ -61,4 +61,4 @@ SPT follows the [Semantic Versioning](https://semver.org/) schema for its versio
 
 # See also
 [New to SPT? Start here!](/Beginners_Guide)
-[Installing SPT](/Installation_Guide)
+[Installing SPT](/SPT_4x/Installation_Guide)
