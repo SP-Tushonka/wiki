@@ -2,7 +2,7 @@
 title: Style Guide
 description: Keep a consistent style across the Wiki.
 published: true
-date: 2026-08-12T00:32:35.400Z
+date: 2026-08-12T00:39:47.090Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:44.032Z
@@ -58,11 +58,14 @@ Read the SPT Wiki's [Style Guide](https://wiki.sp-tarkov.com/en/Style_Guide) to 
 
 Conveniently, links to pages on this Wiki can be done by just referencing its location. The above example can also be written like this:
 
-|-|-|
-| `Read the SPT Wiki's [Style Guide](/Style_Guide) to see how you can contribute to the Wiki.` | Read the SPT Wiki's [Style Guide](/Style_Guide) to see how to write Wiki pages. |
-| `See [Known Mod Issues in SPT 4.0](/SPT_40/Known_Mod_Issues_40) for a solution.` | See [Known Mod Issues in SPT 4.0](/SPT_40/Known_Mod_Issues_40) for a solution. |
-| `Read the [Mods](/SPT_4x/Profiles#mods) section of the [Profiles](/SPT_4x/Profiles) page.` | Read the [Mods](/SPT_4x/Profiles#mods) section of the [Profiles](/SPT_4x/Profiles) page. |
+Read the SPT Wiki's [Style Guide](/Style_Guide) to see how to write Wiki pages.:
+`Read the SPT Wiki's [Style Guide](/Style_Guide) to see how you can contribute to the Wiki.`
 
+See [Known Mod Issues in SPT 4.0](/SPT_40/Known_Mod_Issues_40) for a solution.:
+`See [Known Mod Issues in SPT 4.0](/SPT_40/Known_Mod_Issues_40) for a solution.` 
+
+Read the [Mods](/SPT_4x/Profiles#mods) section of the [Profiles](/SPT_4x/Profiles) page.:
+`Read the [Mods](/SPT_4x/Profiles#mods) section of the [Profiles](/SPT_4x/Profiles) page.`
 
 ## Header sizes
 
@@ -155,7 +158,6 @@ The above will results in this:
 Example text.
 </div>
 
-Remember to add a `<br>` or a margin between the image and the caption.
 
 ## Text formatting
 The most subjective section. Use of bold and italicised text should still be standardised across the wiki.
