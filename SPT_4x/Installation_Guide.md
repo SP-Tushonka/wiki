@@ -2,7 +2,7 @@
 title: Installation Guide
 description: A step by step guide on how to install and initially setup Single Player Tarkov.
 published: true
-date: 2026-08-12T16:33:54.530Z
+date: 2026-08-12T16:37:35.865Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z
@@ -25,20 +25,18 @@ This is particularly important if you have just installed the game so all necess
  - The installer is only for installing SPT, it **does not** update an existing SPT install.
 2. Run the SPT Installer.
 3. Read the Installer Info page, then click next.
- - This page contains information as to what the installer does and does not do. It also answers many common questions that users have which is why it is there.
+ - This page contains information as to what the installer does and does not do. It also answers many common questions that users have.
 4. Select a new empty folder. We recommend `C:\Games\SPT`. 
 	- Do not install to a protected location such as Downloads, Desktop or Program Files.
 5. Select which version of SPT you want to install.
 6. Click 'Start Install' and wait for it to complete.
- - Once complete you will be asked if you want to open the Install Folder or Add a Desktop Shortcuts. Tick or untick to your preference.
-  - If you decide against the shortcuts, you can run the `SPT.Server` and `SPT.Launcher` from inside your SPT folder. They are shortcuts which you can copy to any location on your computer.
+	- Once complete you will be asked if you want to open the Install Folder or Add a Desktop Shortcuts. Tick or untick to your preference.
+	- If you decide against the shortcuts, you can run the `SPT.Server` and `SPT.Launcher` from inside your SPT folder. They are shortcuts which you can copy to any location on your computer.
 7. Run `SPT.Server`.
  - Wait for the green text that says `Server has started, happy playing`.
  - Your server needs to be running while you play. It can just be closed when you are done playing.
 8. Run `SPT.Launcher` and follow the onscreen instructions.
- - If you want to copy over your in-game settings, click `OK`. 
  - You can use any username you want. It is recommend that you **do not** use your retail game account username. Especially if you plan on recording or streaming SPT.
- - `Login Automatically` will always log into the last profile you loaded. You can disable this by clicking `Logout` in the bottom right, then unchecking the option.
  - Select your desired game version. Each version has a description box summarising what is included. Once you have picked your chosen game version click `Register`. You can pick *any* game version you want from the profile list, you do not need to own the corresponding retail game version. Once chosen, you cannot change the edition a profile is using.
 9. Click `Start Game` and load into the main menu.
 
