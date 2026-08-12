@@ -2,7 +2,7 @@
 title: Style Guide
 description: Keep a consistent style across the Wiki.
 published: true
-date: 2026-08-08T14:43:58.272Z
+date: 2026-08-12T00:32:35.400Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:44.032Z
@@ -115,7 +115,7 @@ Embedded images can be hosted on external websites:
 ```
 
 This will imbed the image in the middle of the screen, with a width of 400 px. Use 600 for images with smaller text.
-However, this will put the image directly next to the text with no space in-between. Use the HTML code of `<br>` to seperate images from non-header text above it. Header text doesn't need it as it already spaces itself from images.
+However, this will put the image directly next to the text with no space in-between. Use the HTML code of `<br>` to separate images from non-header text above it. Header text doesn't need it as it already spaces itself from images.
 
 The examples below have `width=200` and `margin: 0 left` for demonstration purposes.
 
@@ -176,6 +176,54 @@ The most subjective section. Use of bold and italicised text should still be sta
   - "Disable `Nvidia Reflex` in the graphics settings."
 - <kbd>Keyboard keys</kbd> should be used when referring to a keyboard key:
   - "...configure the client-side settings in the <kbd>F12</kbd> menu."
+
+## Tables
+
+Tables in markdown are bit of a hassle to setup. To get a table like this:
+
+| - | - |
+| | ham | burger |
+| ham | hamham | hamburger |
+| burger | burgerham | burgerburger |
+
+You would insert:
+
+```
+| | ham | burger |
+| - | - |
+| ham | hamham | hamburger |
+| burger | burgerham | burgerburger |
+```
+
+Note that without the second line the table won't work. Spaces around the words and the `-` aren't necessary but help with readability.
+
+For a more highlighted top row, insert the second line as the first instead:
+
+| | ham | burger |
+| - | - |
+| ham | hamham | hamburger |
+| burger | burgerham | burgerburger |
+
+```
+| | ham | burger |
+| - | - |
+| ham | hamham | hamburger |
+| burger | burgerham | burgerburger |
+```
+
+If you would like to have a multiline entry in one of the cells you need to use the HTML tag `<br>`.
+So for a table like this:
+
+| - | - |
+| hamburger | Ingredients:<br>Ham<br>Burger |
+
+You would insert:
+```
+| - | - |
+| hamburger | Ingredients:<br>Ham<br>Burger |
+```
+
+Again, the first line is necessary for the table to work. It's also important to not put extra spaces when `<br>` is used as they will get rendered in the final text.
 
 # See also
 [How to Contribute](/how_to_contribute)
