@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-13T18:10:29.601Z
+date: 2026-08-13T18:10:36.341Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -87,7 +87,7 @@ Once your system clock matches or surpasses the timestamp that timer will mark a
 This is so you do not need to keep your `SPT.Server.exe` open while you are not playing.
 
 # Known Issues
-- [Known Live Game Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
+- [Known Live Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
 - [Known SPT Issues for SPT 4.1](/SPT_41/Known_SPT_Issues_41)
 - [Known Mod Issues for SPT 4.1](/SPT_41/Known_Mod_Issues_41)
 
