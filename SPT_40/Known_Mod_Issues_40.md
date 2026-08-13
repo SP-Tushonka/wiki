@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-13T00:36:56.647Z
+date: 2026-08-13T01:04:50.063Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -149,6 +149,9 @@ Incompatibility between [SOCOM Armory](https://sp-mod.com/mod/1835/socom-armory-
 
 ## ACOGs from [Epic's AIO](https://sp-mod.com/mod/1263/epics-all-in-one) are black/broken
 Incompatibility between it and [WTT - Content Backport](https://sp-mod.com/mod/2512/wtt-content-backport). [Uninstall](/SPT_4x/Uninstalling_Mod) one of them.
+
+## `.NET number values such as positive and negative infinity cannot be written as valid JSON` after a Prestige
+Set the skill requirements for Prestige to at least 1 in [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm).
 
 # See also
 [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
