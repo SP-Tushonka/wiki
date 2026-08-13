@@ -1,8 +1,8 @@
 ---
-title: Frequently Asked Questions for SPT 4.1
+title: FAQs for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-10T16:17:46.273Z
+date: 2026-08-13T18:10:29.601Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
