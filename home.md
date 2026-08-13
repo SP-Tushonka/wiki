@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-12T11:52:07.458Z
+date: 2026-08-13T18:20:17.164Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:59.160Z
@@ -49,12 +49,12 @@ Running into issues? Find solutions here:
 - [Performance Tuning](/SPT_4x/Performance_Tuning): Tips for improving FPS and stability.
 <br>
 - [Frequently Asked Questions for SPT 4.1](/SPT_41/FAQs_41): Answers to frequently asked questions:
-	- [Known retail game Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
+	- [Known Live Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
 	- [Known SPT Issues for SPT 4.1](/SPT_41/Known_SPT_Issues_41)
 	- [Known Mod Issues for SPT 4.1](/SPT_41/Known_Mod_Issues_41)
 <br>
 - [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40): Answers to frequently asked questions:
-	- [Known retail game Issues for SPT 4.0](/SPT_40/Known_Live_Issues_40)
+	- [Known Live Issues for SPT 4.0](/SPT_40/Known_Live_Issues_40)
 	- [Known SPT Issues for SPT 4.0](/SPT_40/Known_SPT_Issues_40)
 	- [Known Mod Issues for SPT 4.0](/SPT_40/Known_Mod_Issues_40)
 <br>
