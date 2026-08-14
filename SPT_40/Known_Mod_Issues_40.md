@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-13T01:10:28.944Z
+date: 2026-08-14T22:53:56.371Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -155,6 +155,9 @@ Set the skill requirements for Prestige to at least 1 in [SVM](https://sp-mod.co
 
 ## `.NET number values such as positive and negative infinity cannot be written as valid JSON` while using [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm)
 Make sure any minimum and maximum values are at least 1 apart (E.g.: Min: 99, Max: 100).
+
+## `System.InvalidOperationException: Slot 'mod_tactical' not found on 'handguard_mcx_sig_spear_m_lok'`
+You updated CommonLib without updating mods that depend on it. Update all your mods to their latest 4.0 compatible versions.
 
 # See also
 [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
