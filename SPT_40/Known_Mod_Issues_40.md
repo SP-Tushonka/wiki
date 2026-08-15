@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-14T22:53:56.371Z
+date: 2026-08-15T15:36:13.651Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -158,6 +158,9 @@ Make sure any minimum and maximum values are at least 1 apart (E.g.: Min: 99, Ma
 
 ## `System.InvalidOperationException: Slot 'mod_tactical' not found on 'handguard_mcx_sig_spear_m_lok'`
 You updated CommonLib without updating mods that depend on it. Update all your mods to their latest 4.0 compatible versions.
+
+## `ObjectId must be a 24-character hex string.` error on Server launch
+Update [ODT's Item Info](https://sp-mod.com/mod/2430/odts-item-info-spt-40).
 
 # See also
 [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
