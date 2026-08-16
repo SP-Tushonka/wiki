@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-16T16:47:20.992Z
+date: 2026-08-16T16:47:44.625Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:59.160Z
@@ -74,5 +74,5 @@ Interested in creating your own content for SPT?
 
 ## Contribute!
 
-For discussions and suggestions about the Wiki, visit the [`#website-wiki`](https://discord.com/channels/875684761291599922/1426941224324960266) channel in our [Discord server](https://discord.com/invite/Xn9msqQZan).
+For discussions and suggestions about the Wiki, visit the [`#website-wiki`](https://discord.com/channels/875684761291599922/1426941224324960266) channel in our [Discord server](https://discord.sp-tushonka.com/).
 You can contribute to the Wiki by reading the [How to Contribute](/how_to_contribute) page. Make sure to follow the [Style Guide](/Style_Guide).
