@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-08-08T16:05:43.681Z
+date: 2026-08-16T03:12:12.971Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -108,7 +108,7 @@ As stated in the introduction, the main performance impact on your game is bots.
 [Fika](https://sp-mod.com/mod/2326/project-fika) allows you to host a raid on a different computer as the one you're playing on. This lets you recreate the conditions of a live raid while still using SPT. To set up a headless client, [follow this guide](https://project-fika.gitbook.io/wiki/advanced-features/headless-client).
 
 
-It's also possible to use it to the raid on the same computer as the one you're playing on, letting one part of your CPU render the game, while another processes the bots. You could further use a program like Process Lasso to manually delegate your CPU cores if you are an advanced user, but it's not necessary. Please note that **support from Project Fika is limited if you choose to run the headless client on the same PC where you are playing SPT**. This is not the officially supported configuration and may lead to:
+It's also possible to use it to the raid on the same computer as the one you're playing on, letting one part of your CPU render the game, while another processes the bots. It's not necessary to use a program like Process Lasso for this. Please note that **support from Project Fika is limited if you choose to run the headless client on the same PC where you are playing SPT**. This is not the officially supported configuration and may lead to:
 - Performance degradation.
 - Increased incidence of crashes.
 - Significant increase in page file usage.
