@@ -1,8 +1,8 @@
 ---
-title: Bleeding Edge Install Instructions [for potential deletion]
+title: Bleeding Edge Install Instructions for SPT 4.1
 description: SPT Bleeding Edge installation instructions for project testing.
-published: false
-date: 2026-08-08T14:52:07.952Z
+published: true
+date: 2026-08-16T16:43:07.078Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:55.251Z
@@ -13,50 +13,45 @@ dateCreated: 2026-08-08T11:23:55.251Z
 
 ## Testing Only
 
-Bleeding Edge installations are for testing only! If you are attempting to install a Bleeding Edge version to play casually, you are going to have a very bad time. Please do yourself a favour and instead use a [stable released version](/en/Installation_Guide). The stable version is happy fun time!
+Bleeding Edge installations are for testing only! If you are attempting to install a Bleeding Edge version to play casually, you are going to have a very bad time. Please do yourself a favour and instead use a [stable released version](/SPT_4x/Installation_Guide).
 
 ## No Support
 
-This document is the **only support** that you will find for installing the Bleeding Edge version. If you attempt to contact the Single Player Tarkov support team, staff members, moderators, or the general Discord community about installing the Bleeding Edge version, you may end up blocked from downloading Bleeding Edge versions in the future with no warning. And we will laugh at you. We use this version for fast iteration of core development and we do not have the resources to support users on these versions.
+This document is the **only support** that you will find for installing the Bleeding Edge version. If you attempt to contact the SPT support team, staff members, moderators, or the general Discord community about installing the Bleeding Edge version, you may end up blocked from downloading Bleeding Edge versions in the future with no warning. We use this version for fast iteration of core development and we do not have the resources to support users on these versions.
 
 ## Prerequisites
 
-- A system above the [minimum system requirements](/system-requirements). The live Escape From Tarkov install must remain (80GB) as well as a complete copy (+80GB).
-- You must have the latest version of Escape from Tarkov installed using either the Battlestate Games Launcher or Steam.
-- You must have started Escape From Tarkov and loaded the main menu.
+- A system above the [minimum system requirements](/SPT_4x/system-requirements). The live Escape From Tarkov install must remain (80GB) as well as a complete copy (+80GB).
+- You must have the latest version of the Live game installed using either the Launcher or Steam.
+- You must have started the Live game and loaded the main menu.
 - You must be willing to submit bugs to the [GitHub issues board](https://github.com/sp-tarkov/server-csharp/issues/new/choose) or to the [#BE-Testing](https://discord.com/channels/875684761291599922/980558564693274694) channel on Discord.
 
 ## Software Requirements
-- [.NET Runtime 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.9-windows-x64-installer)
-- [ASP.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-10.0.9-windows-x64-installer)
 - [7-Zip](https://www.7-zip.org/)
+- `.NET Desktop Runtime` and `ASP.NET Core Runtime` from [here](https://dotnet.microsoft.com/en-us/download/dotnet/10.0).
 
-## Installation Instructions
+<div style="margin-top: 20px;"></div>
+<img src="/runtimes.png" alt=".NET runtimes" width=400 style="display: block; margin: 0 auto;">
 
-These instructions are specific and tedious. **Do no more or no less than what is written.** If for any reason something doesn't work, delete what you have and start over. *Slower.*
+
+## Installation Instructions for 4.1 BE
+
+> These instructions are specific and tedious. **Do no more or no less than what is written.** If for any reason something doesn't work, delete what you have and start over. *Slower.*
 {.is-warning}
 
-1. Ensure your Escape from Tarkov is updated to the latest version.
-1. Create a new directory for the BE SPT install. A good location would be anywhere that does not require administrative privileges. For example: `C:\Games\SPT-4.1-BE`.
-1. Copy the contents of your Escape From Tarkov installation directory into this new `SPT-4.1-BE` directory. Note that the `EscapeFromTarkov.exe` file must be within the root of your `SPT-4.1-BE` directory. Example: `SPT-4.1-BE\EscapeFromTarkov.exe`.
-1. Download the [patcher for SPT 4.0](https://mirror.spt.dev/patchers/). This file you need is based on the current version of Escape from Tarkov, but will look like this `Patcher_1.0.X.X.XXXXX_to_16.9.0.40087.7z`; the newest file that ends in `40087.7z`.
-1. Extract the contents of the folder within this 7z archive into the root of your `SPT-4.1-BE` directory. Note that the `patcher.exe` and the `SPT_Patches` directory must be in the root of the `SPT-4.1-BE` directory: `SPT-4.1-BE\patcher.exe`.
-    ![Install Patcher](https://spt.dev/bleeding-edge-install-instructions.gif =600x)
-1. Run the `patcher.exe`, and let it finish patching your Escape from Tarkov to version 40087.
-1. Download the [patcher for SPT 4.1](https://spt-patches.modd.in/Patcher_16.9.0.40087_to_16.9.5.40743.7z).
-1. Extract the contents of this 7z archive into the root of your `SPT-4.1-BE` directory, overwriting any files when prompted.
-1. Run the `patcher.exe`, and let it finish patching your Escape from Tarkov to version 40743.
-1. Download the Bleeding Edge SPT version from the [#BE-Testing](https://discord.com/channels/875684761291599922/980558564693274694) channel on Discord.
-1. Extract the contents of this 7z archive into the root of your `SPT-4.1-BE` directory.
+1. Install SPT 4.1 per the [Installation Guide](/SPT_4x/Installation_Guide) in a new folder (E.g.: `C:\Games\SPT-4.1-BE`).
+2. Download the Bleeding Edge SPT version from the [`#be-testing`](https://discord.com/channels/875684761291599922/980558564693274694) channel from our [Discord Server](https://discord.com/invite/Xn9msqQZan).
+	- You can gain access to that channel by getting the `BE Tester Role` in the [`#info-other`](https://discord.com/channels/875684761291599922/875758493351694396) channel.
+3. Extract the contents of this 7z archive into the root of your `SPT-4.1-BE` directory.
 
-At this point, you should have a fully installed Bleeding Edge version of Single Player Tarkov 4.1 installed on your system.
+At this point, you should have a fully installed Bleeding Edge version of SPT 4.1 installed on your system.
 
 ## Common Questions
 
 Remember, this document is your only avenue of support for Bleeding Edge builds.
 <details>
 <summary>I was playing the game normally, no mods, fresh profile, and I encountered an error</summary>
-We are extremely interested in these types of clean issues. Please submit these types of bugs to the <a href="https://github.com/sp-tarkov/server-csharp/issues/new/choose">GitHub issues board</a> or to the <a href="https://discord.com/channels/875684761291599922/980558564693274694">#BE-Testing</a> channel on Discord. Thank you for helping us build SPT.
+We are extremely interested in these types of clean issues. Please submit these types of bugs to the <a href="https://github.com/sp-tarkov/server-csharp/issues/new/choose">GitHub issues board</a> or to the <a href="https://discord.com/channels/875684761291599922/980558564693274694">#be-testing</a> channel on Discord. Thank you for helping us build SPT.
 </details>
 
 <details>
