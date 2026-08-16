@@ -2,7 +2,7 @@
 title: Bleeding Edge Install Instructions for SPT 4.1
 description: SPT Bleeding Edge installation instructions for project testing.
 published: true
-date: 2026-08-16T16:43:07.078Z
+date: 2026-08-16T16:50:11.670Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:55.251Z
@@ -40,7 +40,7 @@ This document is the **only support** that you will find for installing the Blee
 {.is-warning}
 
 1. Install SPT 4.1 per the [Installation Guide](/SPT_4x/Installation_Guide) in a new folder (E.g.: `C:\Games\SPT-4.1-BE`).
-2. Download the Bleeding Edge SPT version from the [`#be-testing`](https://discord.com/channels/875684761291599922/980558564693274694) channel from our [Discord Server](https://discord.com/invite/Xn9msqQZan).
+2. Download the Bleeding Edge SPT version from the [`#be-testing`](https://discord.com/channels/875684761291599922/980558564693274694) channel from our [Discord Server](https://discord.sp-tushonka.com/).
 	- You can gain access to that channel by getting the `BE Tester Role` in the [`#info-other`](https://discord.com/channels/875684761291599922/875758493351694396) channel.
 3. Extract the contents of this 7z archive into the root of your `SPT-4.1-BE` directory.
 
