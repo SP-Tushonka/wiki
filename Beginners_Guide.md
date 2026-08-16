@@ -2,7 +2,7 @@
 title: Beginner's Guide
 description: A beginner's overview of the SPT project.
 published: true
-date: 2026-08-12T11:53:51.986Z
+date: 2026-08-16T16:49:09.658Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:43.689Z
@@ -35,7 +35,7 @@ SPT is a modding framework made for people who want to play offline singleplayer
 ## Helping out
 The best way to help is to give some of your time and energy to keep this place running!
 - Be an active community member and keep this place lively!
-- Have your friends join our [Discord](https://discord.com/invite/Xn9msqQZan) server.
+- Have your friends join our [Discord](https://discord.sp-tushonka.com/) server.
 - Contribute to the project (feel free to ask how to best contribute over at ⁠[`#dev-community`](https://discord.com/channels/875684761291599922/875707258074447904).
 - Help translate the project on [Crowdin](https://crowdin.com/project/spt-translation).
 - [Make mods](/modding/Modding_Resources).
