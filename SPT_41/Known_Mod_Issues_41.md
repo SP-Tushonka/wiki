@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-11T17:17:03.592Z
+date: 2026-08-17T01:36:38.411Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -17,7 +17,7 @@ The current version of the mod is broken. Wait for an update from the mod author
 ## All item stacks are set to 1
 You installed a mod made for SPT 4.0 to your SPT 4.1 install. [Uninstall it](/SPT_4x/Uninstalling_Mods). Only install versions of mods marked compatible for your version of SPT.
 
-## Green couldn't find `ServerValueModifier.dll` under `SPT/user/mods/[SVM] Server Value Modifier`
+## Greed couldn't find `ServerValueModifier.dll` under `SPT/user/mods/[SVM] Server Value Modifier`
 You didn't install SVM correctly. It's installed like any other mod. See the [Installing Mods](/SPT_4x/Installing_Mods) page on how you should install your mods.
 
 ## My flea prices are extreme when using [Live Flea Prices](https://sp-mod.com/mod/1131/live-flea-prices)
