@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-08-18T18:15:52.322Z
+date: 2026-08-18T18:18:00.165Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -65,7 +65,7 @@ Your pagefile should be set to `Automatically manage paging file size for all dr
 3. Under `Virtual memory` press `Change`.
 4. Ensure you have `Automatically manage paging file size for all drives` enabled.
 
-If you experience crashes related to memory, make sure your drives have more than 30GB of free space available.
+**If you experience crashes related to memory, make sure your drives have more than 30GB of free space available.**
 
 `RAM Cleaner Fix` at best won't help you with any issues you might have, and at worst will cause your pagefile to be overused, which will instead cause issues. You shouldn't use it.
 
