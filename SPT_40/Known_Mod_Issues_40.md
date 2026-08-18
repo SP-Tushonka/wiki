@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-18T18:19:46.897Z
+date: 2026-08-18T18:46:17.916Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -164,6 +164,9 @@ Update [ODT's Item Info](https://sp-mod.com/mod/2430/odts-item-info-spt-40).
 
 ## `A match making error has occurred` with [Animated Traders](<https://sp-mod.com/mod/2518/animated-traders>) installed
 A possible incompatibility between it and another mod. Either use the [50/50 Method](<https://wiki.sp-tushonka.com/en/SPT_4x/5050-method>) or uninstall that mod.
+
+## All quest objectives are complete but the quest can't be turned in
+Update [CommonLib](<https://sp-mod.com/mod/2310/wtt-commonlib>).
 
 # See also
 [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
