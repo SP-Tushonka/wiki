@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-17T01:19:03.076Z
+date: 2026-08-18T18:19:46.897Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -145,10 +145,10 @@ You installed a mod made for 4.1 to your 4.0 install. Uninstall it, and install 
 The new [Black Division 1.2.0](https://sp-mod.com/mod/2511/wtt-black-division-redacted-home) update is not compatible with [Wedge 2.2.1](https://sp-mod.com/mod/2820/wedge). You will need to [uninstall](/SPT_4x/Uninstalling_Mods) one or the other.
 
 ## M4 handguard models are red errors
-Incompatibility between [SOCOM Armory](https://sp-mod.com/mod/1835/socom-armory-new-quests-story-line) and [Epic's All in One](https://sp-mod.com/mod/1263/epics-all-in-one). [Uninstall](SPT_4x/Uninstalling_Mods) one of them.
+Incompatibility between [SOCOM Armory](https://sp-mod.com/mod/1835/socom-armory-new-quests-story-line) and [Epic's All in One](https://sp-mod.com/mod/1263/epics-all-in-one). [Uninstall](/SPT_4x/Uninstalling_Mods) one of them.
 
 ## ACOGs from [Epic's AIO](https://sp-mod.com/mod/1263/epics-all-in-one) are black/broken
-Incompatibility between it and [WTT - Content Backport](https://sp-mod.com/mod/2512/wtt-content-backport). [Uninstall](/SPT_4x/Uninstalling_Mod) one of them.
+Incompatibility between it and [WTT - Content Backport](https://sp-mod.com/mod/2512/wtt-content-backport). [Uninstall](/SPT_4x/Uninstalling_Mods) one of them.
 
 ## `.NET number values such as positive and negative infinity cannot be written as valid JSON` after a Prestige
 Set the skill requirements for Prestige to at least 1 in [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm).
