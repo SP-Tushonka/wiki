@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-17T01:36:38.411Z
+date: 2026-08-18T01:56:50.540Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -27,3 +27,6 @@ To get "normal" flea prices:
 - Wait for the Live flea prices to stabilise.
 - Set `"pvePrices"` to `true` inside Live Flea Prices' config file to use the PvE Live flea prices instead.
 - [Uninstall](/SPT_4x/Uninstalling_Mods) Live Flea Prices.
+
+## When looting bodies only duplicated empty tactical rig slot appears
+Update [Foldables](<https://sp-mod.com/mod/2422/foldables>).
