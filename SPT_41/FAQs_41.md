@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-19T08:44:00.775Z
+date: 2026-08-19T17:11:50.353Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -93,6 +93,19 @@ For the common user the most useful sections are:
 - Config editor: Modify the base SPT configs. Some mods also register their configs to be editable through it in the "Mods" tab.
 - Profile control: Modify your profiles. This includes experience, skills, hideout, quests, traders and prestige. Items can be added through [Commando](/SPT_4x/SPT_and_Commando_Bots).
 - Mod pages: Some mods register their config pages in the SIC for easy access.
+
+## Using 7-Zip
+7-Zip is the recommended tool for opening archives. Unlike WinRAR or Windows, it will not randomly corrupt the extracted files.
+You can download and install 7-Zip from [here](https://www.7-zip.org/).
+### To set 7-Zip as the default program for opening archives:
+1. Right click on a mod archive (`.7z`, `.zip`, `.rar`) and click `Open with`.
+  - On Windows 11, you might need to click on `Show more options`.
+2. Click `Choose another app`.
+3. Select `7-Zip File Manager` and `Always`.
+  - If 7-Zip is not on the list, click `Choose an app on your PC`, navigate to `C:\Program Files\7-Zip` and select `7zFM.exe`.
+
+For a modern take on 7-Zip, try [NanaZip](https://github.com/rescenic/nanazip).
+
 
 # Known Issues
 - [Known Live Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
