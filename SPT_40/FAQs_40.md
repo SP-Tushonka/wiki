@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-13T18:09:54.353Z
+date: 2026-08-19T07:00:21.757Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -49,7 +49,7 @@ See the guide on [Updating SPT](/SPT_4x/Updating_SPT) for more details.
 Nobody knows when certain mods are going to update, not even the authors themselves. Do not pester mod authors about updates to their mods.
 
 ## Will a mod marked compatible for `4.0.0` work on future versions of `4.0`?
-Mods made for previous hotfix versions should work on the latest version. Those that don't might have received an update to address that.
+Mods made for previous patch versions should work on the latest version. Those that don't might have received an update to address that.
 Mods known to be incompatible with be stated in [Known Mod Issues](/SPT_40/Known_Mod_Issues_40).
 For an explanation of how SPT versions work and how to update your SPT, read through the [Updating SPT](/SPT_4x/Updating_SPT) Wiki page.
 
