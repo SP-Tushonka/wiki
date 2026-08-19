@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-13T18:10:36.341Z
+date: 2026-08-19T08:44:00.775Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -85,6 +85,14 @@ Once your system clock matches or surpasses the timestamp that timer will mark a
 *Once insurance is complete, the claim timer will only start on your next login.*
 
 This is so you do not need to keep your `SPT.Server.exe` open while you are not playing.
+
+## Server Information Center (SIC)
+SPT 4.1 added the Server Information Center which is a tool for modifying your SPT server. It's accessible from the SIC button in the SPT Launcher or from https://127.0.0.1:6969/. Your SPT Server needs to be running to access it.
+For the common user the most useful sections are:
+- Database browser: See all items from the vanilla game and mods. This includes their ID.
+- Config editor: Modify the base SPT configs. Some mods also register their configs to be editable through it in the "Mods" tab.
+- Profile control: Modify your profiles. This includes experience, skills, hideout, quests, traders and prestige. Items can be added through [Commando](/SPT_4x/SPT_and_Commando_Bots).
+- Mod pages: Some mods register their config pages in the SIC for easy access.
 
 # Known Issues
 - [Known Live Issues for SPT 4.1](/SPT_41/Known_Live_Issues_41)
