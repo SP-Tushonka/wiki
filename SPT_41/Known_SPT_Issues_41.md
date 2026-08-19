@@ -2,7 +2,7 @@
 title: Known SPT 4.1 Issues
 description: Known SPT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-17T18:41:29.118Z
+date: 2026-08-19T21:43:32.841Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:19:39.611Z
@@ -37,3 +37,8 @@ Reportedly Malwarebytes also has this issue.
 
 ## SPT Launcher doesn't start, `Exception Info: System.Text.Json.JsonException: 'X' is an invalid start of a value.` Error in Event Viewer
 Delete your `SPT_Runtime\user\launcher\launchersettings.json`.
+
+## Game freezes, LogOutput contains `[Error  :ModulePatch] BattlEyePatch: HarmonyLib.HarmonyException: IL Compile Error (unknown location)`
+If enabled, turn off `Set Game Path` in the SPT Launcher.
+
+
