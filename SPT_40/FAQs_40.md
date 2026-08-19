@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-19T07:00:21.757Z
+date: 2026-08-19T17:12:46.458Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -97,6 +97,18 @@ This is the current space requirements (compounding) to install SPT:
 - Post-patcher: ~35GB
 
 So while the final install size is ~60GB, the maximum allocated for SPT and associated install files *during the install process* is ~100GB combined.
+
+# Using 7-Zip
+7-Zip is the recommended tool for opening archives. Unlike WinRAR or Windows, it will not randomly corrupt the extracted files.
+You can download and install 7-Zip from [here](https://www.7-zip.org/).
+### To set 7-Zip as the default program for opening archives:
+1. Right click on a mod archive (`.7z`, `.zip`, `.rar`) and click `Open with`.
+  - On Windows 11, you might need to click on `Show more options`.
+2. Click `Choose another app`.
+3. Select `7-Zip File Manager` and `Always`.
+  - If 7-Zip is not on the list, click `Choose an app on your PC`, navigate to `C:\Program Files\7-Zip` and select `7zFM.exe`.
+
+For a modern take on 7-Zip, try [NanaZip](https://github.com/rescenic/nanazip).
 
 # Known Issues
 - [Known Live Issues for SPT 4.0](/SPT_40/Known_Live_Issues_40)
