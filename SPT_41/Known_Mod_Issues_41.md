@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-18T01:56:50.540Z
+date: 2026-08-20T20:28:07.479Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -30,3 +30,6 @@ To get "normal" flea prices:
 
 ## When looting bodies only duplicated empty tactical rig slot appears
 Update [Foldables](<https://sp-mod.com/mod/2422/foldables>).
+
+## `[UNHANDLED][/sain/_______` errors in the Server
+[Update SPT](/SPT_4x/Updating_SPT).
