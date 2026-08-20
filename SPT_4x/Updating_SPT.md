@@ -2,7 +2,7 @@
 title: Updating SPT
 description: Learn how to update your SPT installation.
 published: true
-date: 2026-08-20T15:38:18.617Z
+date: 2026-08-20T17:09:26.758Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:51.525Z
@@ -16,7 +16,7 @@ dateCreated: 2026-08-08T11:23:51.525Z
 
 
 1. Download the appropriate release files:
- - For updating SPT 4.1: [here](https://patcher.sp-tushonka.com/releases/SPT-4.1.2-40743-cf04a11.7z)
+ - For updating SPT 4.1: From the Direct Download link on [this](https://github.com/sp-tushonka/build/releases/latest) page.
  - For updating SPT 4.0: [here](https://github.com/sp-tarkov/build/releases/download/4.0.13/SPT-4.0.13-40087-2891fd4.7z)
 2. Close your game, launcher, and server.
 3. Open the downloaded SPT files using [7zip](https://www.7-zip.org/).
