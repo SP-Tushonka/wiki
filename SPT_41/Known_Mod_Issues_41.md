@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-20T20:28:07.479Z
+date: 2026-08-21T18:27:34.683Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -33,3 +33,9 @@ Update [Foldables](<https://sp-mod.com/mod/2422/foldables>).
 
 ## `[UNHANDLED][/sain/_______` errors in the Server
 [Update SPT](/SPT_4x/Updating_SPT).
+
+## Server instantly closes
+It can have a number of causes:
+- Update [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm)
+- Update [ISB Aishi](https://sp-mod.com/mod/2478/isb-aishi)
+- See [here](/SPT_41/Known_SPT_Issues_41#server-doesnt-launch-or-closes-immediately)
