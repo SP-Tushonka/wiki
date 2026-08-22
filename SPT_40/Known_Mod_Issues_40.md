@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-20T17:13:09.191Z
+date: 2026-08-22T04:07:34.905Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -133,7 +133,7 @@ This issue also affects bots. You will need to use a mod like [APBS](https://sp-
 Update it.
 
 ## `Object reference not set to an instance of an object` when loading into raid/hideout with [Amands's Graphics](https://sp-mod.com/mod/592/amandss-graphics) and [Borkel's Realistic NVGs](https://sp-mod.com/mod/954/borkels-realistic-night-vision-goggles-nvgs-and-t-7) installed
-The two mods are incompatible. Uninstall one of them.
+Uninstall one of them.
 
 ## Equipped mod clothing resets to default after game restart
 Change `removeModItemsFromProfile` and `removeInvalidTradersFromProfile` back to `false` in `[game folder]\SPT\SPT_Data\configs\core.json`.
