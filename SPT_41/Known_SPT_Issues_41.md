@@ -2,7 +2,7 @@
 title: Known SPT 4.1 Issues
 description: Known SPT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-20T21:07:43.749Z
+date: 2026-08-25T00:54:30.200Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:19:39.611Z
@@ -32,7 +32,7 @@ If that didn't help, verify that your SPT install path doesn't have any special 
 ## The game closes instantly when pressing Start Game
 
 If you have BitDefender installed add SPT to the exceptions list in both the "Antivirus" as well as "Advanced Threat Defense".
-Reportedly Malwarebytes also has this issue. 
+Reportedly Malwarebytes and Kaspersky also has this issue.
 
 
 ## SPT Launcher doesn't start, `Exception Info: System.Text.Json.JsonException: 'X' is an invalid start of a value.` Error in Event Viewer
