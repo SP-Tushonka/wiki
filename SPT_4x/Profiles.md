@@ -2,7 +2,7 @@
 title: Profiles
 description: How profiles work in SPT.
 published: true
-date: 2026-08-08T11:43:06.900Z
+date: 2026-08-25T09:01:05.354Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:25.669Z
@@ -21,9 +21,15 @@ dateCreated: 2026-08-08T11:23:25.669Z
 
 - The SPT Launcher will keep track of all profiles you have. If you want to make or access another profile, simply press `Logout` to go back to the profile selection screen. From there, you can select any profile or make a new one.
 
+- The profile file can be copied, moved or deleted like any other file.
+
 ## Where are my profiles?
 
-Your profiles are stored in your `[game folder]\SPT\user\profiles` folder. They are in the `.json` format, which is a way of formatting text files. They are named `[profile's ID].json`. You can see which profile is which by opening it in a text editor like Notepad and seeing what `username` it is.
+Your profiles are stored in your `\SPT_Runtime\user\profiles` folder. They are in the `.json` format, which is a way of formatting text files. They are named `[profile's ID].json`. You can see which profile is which by opening it in a text editor like Notepad and seeing what `username` it is.
+
+> Note that on SPT `4.0` the `SPT_Runtime` folder is called `SPT`.
+{.is-info}
+
 
 <div style="margin-top: 10px;"></div>
 <img src="/profiles/profile top.png" alt="profile" width=400 style="display: block; margin: 0 auto;">
@@ -39,12 +45,12 @@ Your profile file can be copied and moved freely. If you worry about a mod break
 
 ## Backups
 
-SPT automatically makes copies of your profiles. They are located in `[game folder]\SPT\user\profiles\backups`. They are in folders named after the date and time they were created on. They also include a `activeMods.json` file, which will display which mods were running when that backup was made.
+SPT automatically makes copies of your profiles. They are located in `\SPT_Runtime\user\profiles\backups`. They are in folders named after the date and time they were created on. They also include a `activeMods.json` file, which will display which mods were running when that backup was made.
 
 To restore a backup of a profile:
 1. Close your game, launcher and server.
 2. Copy your profile from the backup folder you want.
-3. Paste it into `[game folder]\SPT\user\profiles`. Override the file when prompted.
+3. Paste it into `\SPT_Runtime\user\profiles`. Override the file when prompted.
 
 ## Mods
 
@@ -52,7 +58,7 @@ Nearly all mods can be added to an existing profile. However, **removing some mo
 
 If you removed a mod that broke your profile, SPT can try fixing it. **This is not guaranteed to work**. SPT will do the best it can to remove any item that's in your profile from the removed mod, but some mods make irreversible changes to your profile.
 
-1. Open `[game folder]\SPT\SPT_Data\Server\configs\core.json` in a text editor like Notepad.
+1. Open `\SPT_Runtime\SPT_Data\Server\configs\core.json` in a text editor like Notepad.
 2. Set `removeModItemsFromProfile` from `false` to `true`.
 3. Set `removeInvalidTradersFromProfile` from `false` to `true`.
 4. Save your changes.
