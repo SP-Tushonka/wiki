@@ -2,7 +2,7 @@
 title: Maunal Installation Instructions for SPT
 description: 
 published: true
-date: 2026-08-20T17:10:57.714Z
+date: 2026-08-25T23:02:41.463Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:29.696Z
@@ -36,7 +36,7 @@ Example of matching game version and patcher.
 5. Run the `patcher.exe` and wait for it to finish.
 6. Download the SPT release archive:
 	- For SPT 4.1: From the Direct Download link on [this](<https://github.com/sp-tushonka/build/releases/latest>) page.
-	- For SPT 4.0: From [here](https://github.com/sp-tarkov/build/releases/download/4.1.2/SPT-4.1.2-40743-cf04a11.7z).
+	- For SPT 4.0: From [here](https://github.com/sp-tarkov/build/releases/download/4.0.13/SPT-4.0.13-40087-2891fd4.7z).
 7. Extract the contents of the SPT release archive into your `SPT` folder.
 8. Open your `\SPT 4.1\SPT_Runtime` or `\SPT 4.0\SPT` folder.
 9. Run `SPT.Server`.
