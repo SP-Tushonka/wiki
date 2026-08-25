@@ -2,13 +2,16 @@
 title: Profiles
 description: How profiles work in SPT.
 published: true
-date: 2026-08-25T09:01:05.354Z
+date: 2026-08-25T09:01:29.561Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:23:25.669Z
 ---
 
 > This page applies to any SPT version
+{.is-info}
+
+> Note that on SPT `4.0` the `SPT_Runtime` folder is called `SPT`.
 {.is-info}
 
 ## What are profiles?
@@ -26,10 +29,6 @@ dateCreated: 2026-08-08T11:23:25.669Z
 ## Where are my profiles?
 
 Your profiles are stored in your `\SPT_Runtime\user\profiles` folder. They are in the `.json` format, which is a way of formatting text files. They are named `[profile's ID].json`. You can see which profile is which by opening it in a text editor like Notepad and seeing what `username` it is.
-
-> Note that on SPT `4.0` the `SPT_Runtime` folder is called `SPT`.
-{.is-info}
-
 
 <div style="margin-top: 10px;"></div>
 <img src="/profiles/profile top.png" alt="profile" width=400 style="display: block; margin: 0 auto;">
