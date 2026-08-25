@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-24T22:56:30.462Z
+date: 2026-08-25T00:51:43.038Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -38,6 +38,7 @@ Update [Foldables](<https://sp-mod.com/mod/2422/foldables>).
 It can have a number of causes:
 - Update [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm)
 - Update [ISB Aishi](https://sp-mod.com/mod/2478/isb-aishi)
+- Uninstall [23x75mm Volna-R Cartridge](https://sp-mod.com/mod/2902/23x75mm-volnar-cartridge)
 - See [here](/SPT_41/Known_SPT_Issues_41#server-doesnt-launch-or-closes-immediately)
 
 ## Can only list FIR items on the Flea with [The Blacklist](https://sp-mod.com/mod/755/the-blacklist-flea-market-enhancements) installed
