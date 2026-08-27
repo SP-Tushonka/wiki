@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-27T13:52:26.441Z
+date: 2026-08-27T14:00:04.469Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -147,8 +147,8 @@ Update [Black Division](https://sp-mod.com/mod/2511/wtt-black-division-redacted-
 ## Modded M4 handguard models are red errors
 Delete and reinstall [Epic's All in One](<https://sp-mod.com/mod/1263/epics-all-in-one>).
 
-## ACOGs from [Epic's AIO](https://sp-mod.com/mod/1263/epics-all-in-one) are black/broken
-Incompatibility between it and [WTT - Content Backport](https://sp-mod.com/mod/2512/wtt-content-backport). [Uninstall](/SPT_4x/Uninstalling_Mods) one of them.
+## TA01NSN from [Epic's AIO](<https://sp-mod.com/mod/1263/epics-all-in-one>) is opaque black
+Incompatibility between it and [WTT - Content Backport](<https://sp-mod.com/mod/2512/wtt-content-backport>). [Uninstall](<https://wiki.sp-tushonka.com/en/SPT_4x/Uninstalling_Mods>) one of them if you want to use them.
 
 ## `.NET number values such as positive and negative infinity cannot be written as valid JSON` error in the SPT Server
 Update [SVM](<https://sp-mod.com/mod/236/server-value-modifier-svm>).
