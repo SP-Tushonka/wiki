@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-27T14:00:46.738Z
+date: 2026-08-27T14:01:57.559Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -113,7 +113,7 @@ You did not fully uninstall said mod. See the [Uninstalling Mods](/SPT_4x/Uninst
 Update [Project Fika](https://sp-mod.com/mod/2326/project-fika).
 
 ## Stuck on loading hideout with SALCO's Arsenal installed
-Install [SALCO's Armory](https://sp-mod.com/mod/2794/salcos-armory) instead.
+[Uninstall](<https://wiki.sp-tushonka.com/SPT_4x/Uninstalling_Mods>) the mod.
 
 ## Ragman has no clothes for sale
 Update [SVM](https://sp-mod.com/mod/236/server-value-modifier-svm).
