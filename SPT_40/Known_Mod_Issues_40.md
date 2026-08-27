@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-08-24T23:06:46.666Z
+date: 2026-08-27T13:52:26.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -144,8 +144,8 @@ You installed a mod made for 4.1 to your 4.0 install. Uninstall it, and install 
 ## `An item with the same key has already been added. Key: bosswedge`
 Update [Black Division](https://sp-mod.com/mod/2511/wtt-black-division-redacted-home).
 
-## M4 handguard models are red errors
-Incompatibility between [SOCOM Armory](https://sp-mod.com/mod/1835/socom-armory-new-quests-story-line) and [Epic's All in One](https://sp-mod.com/mod/1263/epics-all-in-one). [Uninstall](/SPT_4x/Uninstalling_Mods) one of them.
+## Modded M4 handguard models are red errors
+Delete and reinstall [Epic's All in One](<https://sp-mod.com/mod/1263/epics-all-in-one>).
 
 ## ACOGs from [Epic's AIO](https://sp-mod.com/mod/1263/epics-all-in-one) are black/broken
 Incompatibility between it and [WTT - Content Backport](https://sp-mod.com/mod/2512/wtt-content-backport). [Uninstall](/SPT_4x/Uninstalling_Mods) one of them.
