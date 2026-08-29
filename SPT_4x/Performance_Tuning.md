@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-08-18T18:18:00.165Z
+date: 2026-08-29T10:24:12.252Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -56,37 +56,29 @@ That's what it should look like to avoid any issues.
 
 ## Pagefile
 
-The pagefile in Windows is used as "storage" for your RAM. If your RAM is filling up, Windows will start moving files to and from it. Even an SSD will be much slower than RAM, hence why it's used sparingly. Windows should automatically increase it as required.
+The pagefile in Windows is used as "storage" for your RAM. If your RAM is filling up, Windows will start moving files to and from it. Even an SSD will be much slower than RAM, hence why it's used sparingly. Windows should automatically increase it as required. It's recommended to have at least 50GB free on your drives for the pagefile and any other caching your system might need.
 
-Your pagefile should be set to `Automatically manage paging file size for all drives`. To check if it is:
+Your pagefile should be set to be automatically managed by Windows. To check if it is:
 
 1. Press <kbd>Win</kbd> and search for "View advanced system settings" and open the link. 
 2. Under `Performance`, go into `Settings`, then the `Advanced` tab.
 3. Under `Virtual memory` press `Change`.
 4. Ensure you have `Automatically manage paging file size for all drives` enabled.
 
-**If you experience crashes related to memory, make sure your drives have more than 30GB of free space available.**
+<br>
+
+However if you have mixed storage devices (M.2 SSD, SATA SSD and a HDD) you can set the pagefile to use the fastest drive you have available:
+
+1. Follow steps 1-3 from the above list.
+2. Untick `Automatically manage paging file size for all drives`.
+3. Select your fastest drive and set it to `System managed size`.
+4. Select your slower drives and set them to `No paging file`.
+
+<br>
 
 `RAM Cleaner Fix` at best won't help you with any issues you might have, and at worst will cause your pagefile to be overused, which will instead cause issues. You shouldn't use it.
 
-However, if you still have crashes due to running out of memory even when the pagefile is automatically managed, then there's an underlying issue with your Windows install. You should try to fix it by verifying your Windows files. However, you can manually set your pagefile as a temporary fix:
-
-> Manually setting your pagefile can lead to system crashes if it gets overfilled.
-{.is-warning}
-
-1. Follow the above steps to get to the pagefile settings.
-2. Disable `Automatically manage paging file size for all drives`.
-3. Select your fastest drive and select `Custom size`.
-4. Set the `Initial size` and `Maximum size` according to the amount of RAM you have:
-
-| Amount of RAM | Initial size | Maximum size |
-| - | - | - |
-| 16 GB | 16000 | 40000 |
-| 32 GB | 32000 | 80000 |
-
-> If you encounter system crashes or BSODs after setting your pagefile manually, you should revert those changes by enabling automatic management as described in the beginning of this section.
-{.is-info}
-
+**Manually setting a fixed pagefile size is not recommended.** Ensure the drives have sufficient free space available instead. We recommend a minimum of 50GB, but more is better.
 
 ## Further tweaks
 - You will see minor improvements by changing your graphic settings. Follow any graphics guide for the game.
