@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-08-29T10:24:12.252Z
+date: 2026-08-30T14:29:53.127Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -56,7 +56,8 @@ That's what it should look like to avoid any issues.
 
 ## Pagefile
 
-The pagefile in Windows is used as "storage" for your RAM. If your RAM is filling up, Windows will start moving files to and from it. Even an SSD will be much slower than RAM, hence why it's used sparingly. Windows should automatically increase it as required. It's recommended to have at least 50GB free on your drives for the pagefile and any other caching your system might need.
+The pagefile in Windows is used as "storage" for your RAM. If your RAM is filling up, Windows will start moving files to and from it. Even an SSD will be much slower than RAM, hence why it's used sparingly. Windows should automatically increase it as required. 
+**It's recommended to have at least 50GB free on your drives for the pagefile and any other caching your system might need.**
 
 Your pagefile should be set to be automatically managed by Windows. To check if it is:
 
