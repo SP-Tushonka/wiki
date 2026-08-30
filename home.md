@@ -65,6 +65,7 @@ Running into issues? Find solutions here:
 - [Bot Difficulties](/SPT_4x/Bot_Difficulties): Learn how SPT and mods handle bots' difficulty.
 - [SPT & Commando Bots](/SPT_4x/SPT_and_Commando_Bots): How to use SPT & Commando bots in SPT.
 - [Console Commands](/SPT_4x/console-commands): A list of the few console commands SPT adds that can be used in-game.
+- [OptiScaler and DLSS 5](/SPT_4x/OptiScaler_and_DLSS5): Unofficial guide to OptiScaler and optional DLSS 5 neural rendering.
 
 ## For Mod Developers
 
