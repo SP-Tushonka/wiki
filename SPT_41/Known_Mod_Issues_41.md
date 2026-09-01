@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-25T00:51:43.038Z
+date: 2026-09-01T20:46:56.624Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -44,7 +44,8 @@ It can have a number of causes:
 ## Can only list FIR items on the Flea with [The Blacklist](https://sp-mod.com/mod/755/the-blacklist-flea-market-enhancements) installed
 Set `"enableFIRFleaSelling"` to `false` in its config.
 
-
+## `Could not load file or assembly 'X'. An Application Control policy has blocked the file.`
+In `Windows Security` > `App & browser control` > `Smart App Control settings` select `Off`.
 
 
 
