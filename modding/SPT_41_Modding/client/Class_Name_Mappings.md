@@ -2,7 +2,7 @@
 title: Client Class Name Mappings - 4.0 to 4.1
 description: Old 4.0 obfuscated client class names mapped to their real 4.1 names.
 published: true
-date: 2026-08-08T11:44:49.873Z
+date: 2026-08-08T13:03:15.311Z
 tags: modding, migration, client
 editor: markdown
 dateCreated: 2026-08-08T11:25:41.332Z

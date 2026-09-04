@@ -2,7 +2,7 @@
 title: Bleeding Edge Install Instructions for SPT 4.1
 description: SPT Bleeding Edge installation instructions for project testing.
 published: true
-date: 2026-08-16T16:50:11.670Z
+date: 2026-08-16T16:50:14.390Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:55.251Z

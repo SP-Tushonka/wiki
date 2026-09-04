@@ -2,10 +2,10 @@
 title: Server Mod Changes - 4.1.3 onwards
 description: What might break for server mods after SPT 4.1.3, and how to fix it.
 published: true
-date: 2026-08-14T00:00:00.000Z
+date: 2026-08-16T16:26:52.081Z
 tags: modding, migration
 editor: markdown
-dateCreated: 2026-08-14T00:00:00.000Z
+dateCreated: 2026-08-16T16:26:49.500Z
 ---
 
 > This page applies to SPT version `4.1`

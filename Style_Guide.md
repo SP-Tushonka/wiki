@@ -2,7 +2,7 @@
 title: Style Guide
 description: Keep a consistent style across the Wiki.
 published: true
-date: 2026-08-12T00:40:50.105Z
+date: 2026-08-12T00:40:52.766Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:44.032Z

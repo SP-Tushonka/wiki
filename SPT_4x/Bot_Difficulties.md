@@ -2,7 +2,7 @@
 title: Bot Difficulties
 description: Learn how SPT and mods handle bots' difficulty.
 published: true
-date: 2026-08-08T13:57:41.588Z
+date: 2026-08-08T13:57:44.297Z
 tags: guide
 editor: markdown
 dateCreated: 2026-08-08T11:22:47.356Z

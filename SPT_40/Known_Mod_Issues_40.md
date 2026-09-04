@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-09-01T20:47:15.790Z
+date: 2026-09-03T14:03:20.927Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -148,7 +148,8 @@ Update [Black Division](https://sp-mod.com/mod/2511/wtt-black-division-redacted-
 Delete and reinstall [Epic's All in One](<https://sp-mod.com/mod/1263/epics-all-in-one>).
 
 ## TA01NSN from [Epic's AIO](<https://sp-mod.com/mod/1263/epics-all-in-one>) is opaque black
-Incompatibility between it and [WTT - Content Backport](<https://sp-mod.com/mod/2512/wtt-content-backport>). [Uninstall](<https://wiki.sp-tushonka.com/en/SPT_4x/Uninstalling_Mods>) one of them if you want to use them.
+Incompatibility between it and [WTT - Content Backport](https://sp-mod.com/mod/2512/wtt-content-backport). [Uninstall](/SPT_4x/Uninstalling_Mods>) one of them if you want to use them.
+It presents itself in the server as an error: `Unable to add bundle: assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32.bundle`.
 
 ## `.NET number values such as positive and negative infinity cannot be written as valid JSON` error in the SPT Server
 Update [SVM](<https://sp-mod.com/mod/236/server-value-modifier-svm>).

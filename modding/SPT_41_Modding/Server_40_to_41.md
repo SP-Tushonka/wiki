@@ -2,7 +2,7 @@
 title: Server Mod Migration - 4.0 to 4.1
 description: What changed for server mods between SPT 4.0 and 4.1, and how to fix it.
 published: true
-date: 2026-08-08T13:07:39.016Z
+date: 2026-08-08T13:07:42.393Z
 tags: modding, migration
 editor: markdown
 dateCreated: 2026-08-08T11:24:40.844Z

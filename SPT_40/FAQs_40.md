@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-19T17:12:46.458Z
+date: 2026-08-19T17:12:49.139Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z

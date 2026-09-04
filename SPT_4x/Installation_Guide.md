@@ -2,7 +2,7 @@
 title: Installation Guide
 description: A step by step guide on how to install and initially setup SPT.
 published: true
-date: 2026-08-29T10:49:30.114Z
+date: 2026-08-29T10:49:32.840Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:58.579Z

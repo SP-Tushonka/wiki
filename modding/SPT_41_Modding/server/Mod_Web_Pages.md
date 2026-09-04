@@ -2,7 +2,7 @@
 title: Mod Web Pages
 description: Adding Blazor pages, static assets and config editor entries to a server mod.
 published: true
-date: 2026-08-08T11:44:53.025Z
+date: 2026-08-08T13:04:05.096Z
 tags: modding, web
 editor: markdown
 dateCreated: 2026-08-08T11:25:50.606Z

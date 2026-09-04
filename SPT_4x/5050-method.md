@@ -2,7 +2,7 @@
 title: 50/50 Method
 description: How to use the 50/50 Method to find the mod causing your issues.
 published: true
-date: 2026-08-08T13:14:58.425Z
+date: 2026-08-08T13:15:00.999Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:22:39.735Z

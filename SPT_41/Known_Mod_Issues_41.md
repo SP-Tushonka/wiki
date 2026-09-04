@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-09-01T20:46:56.624Z
+date: 2026-09-01T20:46:59.101Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z

@@ -2,7 +2,7 @@
 title: System Requirements
 description: The system requirements to run SPT.
 published: true
-date: 2026-08-08T14:28:08.943Z
+date: 2026-08-08T14:28:11.554Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:10.908Z

@@ -2,7 +2,7 @@
 title: Client Mod Migration - 4.0 to 4.1
 description: What changed for client mods between SPT 4.0 and 4.1, and how to fix it.
 published: true
-date: 2026-08-11T12:01:21.069Z
+date: 2026-08-11T12:01:23.946Z
 tags: modding, migration, client
 editor: markdown
 dateCreated: 2026-08-08T11:24:33.278Z

@@ -2,7 +2,7 @@
 title: Maunal Installation Instructions for SPT
 description: 
 published: true
-date: 2026-08-25T23:02:41.463Z
+date: 2026-08-25T23:02:44.294Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:29.696Z

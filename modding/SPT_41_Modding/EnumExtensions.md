@@ -2,7 +2,7 @@
 title: Enum Extensions
 description: Extending Enums in the server and the client.
 published: true
-date: 2026-08-08T13:08:40.475Z
+date: 2026-08-08T13:08:43.174Z
 tags: modding, client, server, enum
 editor: markdown
 dateCreated: 2026-08-08T11:24:56.258Z

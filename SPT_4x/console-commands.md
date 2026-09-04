@@ -2,7 +2,7 @@
 title: Console Commands
 description: A list of the few console commands SPT adds that can be used in-game.
 published: true
-date: 2026-08-08T13:16:57.505Z
+date: 2026-08-08T13:17:00.102Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:24:44.906Z

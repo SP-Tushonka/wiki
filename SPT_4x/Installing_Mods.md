@@ -2,7 +2,7 @@
 title: Installing Mods
 description: General guide on adding mods to your game.
 published: true
-date: 2026-08-12T20:48:55.292Z
+date: 2026-08-12T20:48:57.913Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:23:02.424Z
