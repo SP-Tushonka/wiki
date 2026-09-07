@@ -2,7 +2,7 @@
 title: 50/50 Method
 description: How to use the 50/50 Method to find the mod causing your issues.
 published: true
-date: 2026-08-08T13:15:00.999Z
+date: 2026-09-07T20:25:03.215Z
 tags: guide, mods
 editor: markdown
 dateCreated: 2026-08-08T11:22:39.735Z
@@ -17,6 +17,11 @@ The 50/50 Method, or a [binary search](https://en.wikipedia.org/wiki/Binary_sear
 
 If you need to check **50** mods, the 50/50 Method will only take **7** tests, while checking each mod individually could take **50** tests.
 If you need to check **100** mods, the 50/50 Method will only take **8** tests, while checking each mod individually could take **100** tests.
+
+- While it might be tempting to instead install a new copy of SPT and then install your mods half at a time to it, this new install will not have the same game and mod settings as your main SPT install. If you make every setting match, or manually go through each mod to copy its settings files, you will just end up with a copy of your main SPT install, possibly with small differences you might have missed.
+- Instead, if you have the storage space, you can also copy your entire SPT folder elsewhere and perform the 50/50 Method on it instead.
+- This method should highlight why it's important to install your mods one at a time or in small batches, as that would let you catch the issue as being one of the mods you recently installed. However, if you didn't install mods gradually, or the issue didn't present itself immediately after installing mods, then the 50/50 Method is your best option.
+- If instead you want to find a mod that's incompatible with another, you can also use this method. Leave the mod installed when following the method until you're left with it and the mod that's incompatible. 
 
 ## 50/50 Method
 First, verify that the issue you have is due to a mod by running SPT without any installed. See the [Uninstalling Mods](/SPT_4x/Uninstalling_Mods) page on how to uninstall mods. Note that there's no need to delete your mods, simply move them to a temporary folder, and create a new test profile [so your main profile isn't affected](/SPT_4x/Uninstalling_Mods#profiles).
@@ -45,13 +50,6 @@ Note that on SPT `4.0`, the `SPT_Runtime` folder is called `SPT`.
 8. Copy the files from `my mods` folder into your SPT folder. This will reinstall all your mods, except the one causing the issue. Override all files when prompted.
 
 After you identified which mod causes your issue, you should report it to the mod author.
-
-## Alternative Methods
-
-- While it might be tempting to instead install a new copy of SPT and then install your mods half at a time to it, this new install will not have the same game and mod settings as your main SPT install. If you make every setting match, or manually go through each mod to copy its settings files, you will just end up with a copy of your main SPT install, possibly with small differences you might have missed.
-- Instead, if you have the storage space, you can also copy your entire SPT folder elsewhere and perform the 50/50 Method on it instead.
-- This method should highlight why it's important to install your mods one at a time or in small batches, as that would let you catch the issue as being one of the mods you recently installed. However, if you didn't install mods gradually, or the issue didn't present itself immediately after installing mods, then the 50/50 Method is your best option.
-- If instead you want to find a mod that's incompatible with another, you can also use this method. Leave the mod installed when following the method until you're left with it and the mod that's incompatible. 
 
 # See also
 [Installing Mods](/SPT_4x/Installing_Mods)
