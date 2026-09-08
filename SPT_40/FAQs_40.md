@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-19T17:12:49.139Z
+date: 2026-09-08T19:07:53.990Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -68,16 +68,20 @@ Bots are not programmed to move from their spawn location outside of combat. Onl
 
 [SAIN](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) **doesn't** make bots move around the map, as it *only* affects combat behaviour.
 
-# The 1.0 Update
-### Will we have `1.0` soon in SPT?
-There is no active development effort targeting the retail game's `1.0` update.
-### Is it possible to install SPT with `1.0`?
-Yes. You can [install SPT](/SPT_4x/Installation_Guide>) while having `1.0` installed.
-### Is it possible to install SPT with the Steam copy of the retail game?
-Yes. See the [install guide](/SPT_4x/Installation_Guide).
-### Can I update my retail copy or will that break my existing SPT install?
-The installer makes a **copy** of your game client files to a **separate** location. Update your retail copy as much as you want.
+## SPT `5.0` for Live `1.1`
+SPT wasn't going be updated to `1.0` and beyond. However, recent developments have changed that. SPT `5.0` is in development for version `1.1` of the game.
+### Will all content from the `1.0` release be included?
+Yes.
+### Will mods made for `4.0` or `4.1` work on `5.0`?
+No.
+### Will there be as many mods for `5.0` as there are for `4.1`?
+Definitively not. With `1.0` the game switched over to IL2CPP, which will make client mods extremely difficult to make.
+### What is IL2CPP?
+It's a newer, modern way of coding Unity games. The Live game switched over to it predominantly for performance improvements, **not** to hamper the development of SPT.
+### Should I pester mod authors to update their mods for `5.0`?
+**Absolutely not**. Most mod authors will not be porting or making mods for `5.0`. **Anyone pestering mod authors about mod updates will receive warnings, removals, or bans based on their behaviour.**
 
+<br>
 
 # Troubleshooting tips
 - Do not install mods until you've launched SPT at least once. Verify your SPT install works, then install mods.
