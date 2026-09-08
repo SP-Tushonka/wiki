@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-08-19T17:11:53.175Z
+date: 2026-09-08T19:07:35.239Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -59,15 +59,21 @@ So while the final install size is ~60GB, the maximum allocated for SPT and asso
 SPT uses the game's PvE bot spawning system. Bots will continuously spawn up to a map-specific limit. When enough are killed, more will spawn to replace them. Bot spawns aren't checked for the distance to you or other bots which can let bots can spawn next to you. 
 Use a bot spawning mod like [ABPS](https://sp-mod.com/mod/2097/abps-acids-bot-placement-system) to change this system.
 
-## The 1.0 Update
-### Will we have `1.0` soon in SPT?
-There is no active development effort targeting the retail game's `1.0` update.
-### Is it possible to install SPT with `1.0`?
-Yes. You can [install SPT](/SPT_4x/Installation_Guide>) while having `1.0` installed.
-### Is it possible to install SPT with the Steam copy of the retail game?
-Yes. See the [install guide](/SPT_4x/Installation_Guide).
-### Can I update my retail copy or will that break my existing SPT install?
-The installer makes a **copy** of your game client files to a **separate** location. Update your retail copy as much as you want.
+## SPT `5.0` for Live `1.1`
+SPT wasn't going be updated to `1.0` and beyond. However, recent developments have changed that. SPT `5.0` is in development for version `1.1` of the game.
+### Will all content from the `1.0` release be included?
+Yes.
+### Will mods made for `4.0` or `4.1` work on `5.0`?
+No.
+### Will there be as many mods for `5.0` as there are for `4.1`?
+Definitively not. With `1.0` the game switched over to IL2CPP, which will make client mods extremely difficult to make.
+### What is IL2CPP?
+It's a newer, modern way of coding Unity games. The Live game switched over to it predominantly for performance improvements, **not** to hamper the development of SPT.
+### Should I pester mod authors to update their mods for `5.0`?
+**Absolutely not**. Most mod authors will not be porting or making mods for `5.0`. **Anyone pestering mod authors about mod updates will receive warnings, removals, or bans based on their behaviour.**
+
+<br>
+
 
 ## Need space on your drive? Don't play live?
 After you install SPT, you cannot completely uninstall your retail copy, but you can delete the `_Data` folder from your live game folder if you really need the space.
