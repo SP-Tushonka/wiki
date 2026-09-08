@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-08-30T14:29:55.842Z
+date: 2026-09-08T21:57:19.221Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -80,6 +80,7 @@ However if you have mixed storage devices (M.2 SSD, SATA SSD and a HDD) you can 
 `RAM Cleaner Fix` at best won't help you with any issues you might have, and at worst will cause your pagefile to be overused, which will instead cause issues. You shouldn't use it.
 
 **Manually setting a fixed pagefile size is not recommended.** Ensure the drives have sufficient free space available instead. We recommend a minimum of 50GB, but more is better.
+To make space on your drive, we recommend [WizTree](https://www.diskanalyzer.com/) to find files you can delete, and [CompactGUI](https://compactgui.org/) for reducing the size of files you can't delete.
 
 ## Further tweaks
 - You will see minor improvements by changing your graphic settings. Follow any graphics guide for the game.
