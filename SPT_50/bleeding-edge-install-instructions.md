@@ -24,7 +24,7 @@ This document is the **only support** that you will find for installing the Blee
 - A system above the [minimum system requirements](/SPT_4x/system-requirements). The live Escape From Tarkov install must remain (80GB) as well as a complete copy (+80GB).
 - You must have the latest version of the Live game installed using either the Launcher or Steam.
 - You must have started the Live game and loaded the main menu.
-- You must be willing to submit bugs to the [GitHub issues board](https://github.com/sp-tarkov/server-csharp/issues/new/choose) or to the [#BE-Testing](https://discord.com/channels/875684761291599922/980558564693274694) channel on Discord.
+- You must be willing to submit bugs to the [GitHub issues board](https://github.com/sp-tushonka/server-csharp/issues) or to the [#BE-Testing](https://discord.com/channels/875684761291599922/980558564693274694) channel on Discord.
 
 ## Software Requirements
 - [7-Zip](https://www.7-zip.org/)
@@ -59,7 +59,7 @@ At this point, you should have a fully installed Bleeding Edge version of SPT 5.
 Remember, this document is your only avenue of support for Bleeding Edge builds.
 <details>
 <summary>I was playing the game normally, no mods, fresh profile, and I encountered an error</summary>
-We are extremely interested in these types of clean issues. Please submit these types of bugs to the <a href="https://github.com/sp-tarkov/server-csharp/issues/new/choose">GitHub issues board</a> or to the <a href="https://discord.com/channels/875684761291599922/980558564693274694">#be-testing</a> channel on Discord. Thank you for helping us build SPT.
+We are extremely interested in these types of clean issues. Please submit these types of bugs to the <a href="https://github.com/sp-tushonka/server-csharp/issues">GitHub issues board</a> or to the <a href="https://discord.com/channels/875684761291599922/980558564693274694">#be-testing</a> channel on Discord. Thank you for helping us build SPT.
 </details>
 
 <details>
