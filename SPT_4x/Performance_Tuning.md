@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-09-08T21:57:19.221Z
+date: 2026-09-09T21:52:35.692Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -37,22 +37,31 @@ CPUs with powerful single-threaded performance will improve your in-game FPS the
 - Tweak your bot spawning mod to spawn less bots.
   - Less bots mean less demand on your system, but it will make raid feel "less alive" if lowered too much.
 
-## Boot.config
-Your `boot.config` file is located in `[game folder]\EscapeFromTarkov_Data`. 
-Editing it brings **no performance improvements**.
-By default, it contains this:
+## Headless client
 
-```
-gfx-enable-gfx-jobs=1
-gfx-enable-native-gfx-jobs=1
-wait-for-native-debugger=0
-hdr-display-enabled=0
-gc-max-time-slice=3
-single-instance=
-build-guid=[some ID]
-```
+> While we provide support with [Project Fika](https://sp-mod.com/mod/2326/project-fika) installed, we do not offer support for the mod itself. If your issue is due to Fika, we ask that you seek support from the Project Fika team.
+[Project Fika's Wiki](https://wiki.project-fika.com/) contains solutions to frequently encountered issues. If you require further support, you can receive it from Project Fika's [Discord server](http://project-fika.com/discord). Their knowledgeable team will be happy to help you.. 
+{.is-info}
 
-That's what it should look like to avoid any issues.
+As stated in the introduction, the main performance impact on your game is bots. The game does not efficiently utilise your system resources, using the same CPU thread to process bots and render your game. When you play an online raid in the official game, all bot processing happens on official game servers, letting your CPU "concentrate" on rendering the game. If your game is not processing the bots, SPT's performance becomes much closer to the retail game. You should then become GPU bottlenecked, so your graphics will become the primary source of your performance.
+
+[Fika](https://sp-mod.com/mod/2326/project-fika) allows you to host a raid on a different computer as the one you're playing on. This lets you recreate the conditions of a live raid while still using SPT. To set up a headless client, [follow this guide](https://project-fika.gitbook.io/wiki/advanced-features/headless-client).
+
+
+It's also possible to use it to the raid on the same computer as the one you're playing on, letting one part of your CPU render the game, while another processes the bots. It's not necessary to use a program like Process Lasso for this. Please note that **support from Project Fika is limited if you choose to run the headless client on the same PC where you are playing SPT**. This is not the officially supported configuration and may lead to:
+- Performance degradation.
+- Increased incidence of crashes.
+- Significant increase in page file usage.
+- General instability that may adversely affect the entire PC or operating system.
+
+
+## Further tweaks
+- You will see minor improvements by changing your graphic settings. Follow any graphics guide for the game.
+- In the case you're severely GPU limited, [CWX's MegaMod](https://sp-mod.com/mod/1454/cwx-megamod)'s `GrassCutter` and `EnvironmentEnjoyer` features might help your performance.
+- Enabling Nvidia's `Smooth motion` (for 40 and 50 series GPUs), or AMD's `Fluid Motion Frames` for the game will let your GPU interpolate extra frames, using the unused part of your GPU.
+  - If neither are available to you, use [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling)'s Frame Generation.
+  - Any form of frame generation will result in some increase in latency.
+- For further tweaks and discussion, visit the [Optimization Megathread](https://discord.com/channels/875684761291599922/1163777314862149683) in our [Discord server](https://discord.sp-tushonka.com/).
 
 ## Pagefile
 
@@ -82,33 +91,22 @@ However if you have mixed storage devices (M.2 SSD, SATA SSD and a HDD) you can 
 **Manually setting a fixed pagefile size is not recommended.** Ensure the drives have sufficient free space available instead. We recommend a minimum of 50GB, but more is better.
 To make space on your drive, we recommend [WizTree](https://www.diskanalyzer.com/) to find files you can delete, and [CompactGUI](https://compactgui.org/) for reducing the size of files you can't delete.
 
-## Further tweaks
-- You will see minor improvements by changing your graphic settings. Follow any graphics guide for the game.
-- In the case you're severely GPU limited, [CWX's MegaMod](https://sp-mod.com/mod/1454/cwx-megamod)'s `GrassCutter` and `EnvironmentEnjoyer` features might help your performance.
-- Enabling Nvidia's `Smooth motion` (for 40 and 50 series GPUs), or AMD's `Fluid Motion Frames` for the game will let your GPU interpolate extra frames, using the unused part of your GPU.
-  - If neither are available to you, use [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling)'s Frame Generation.
-  - Any form of frame generation will result in some increase in latency.
-- For further tweaks and discussion, visit the [Optimization Megathread](https://discord.com/channels/875684761291599922/1163777314862149683) in our [Discord server](https://discord.sp-tushonka.com/).
+## Boot.config
+Your `boot.config` file is located in `[game folder]\EscapeFromTarkov_Data`. 
+Editing it brings **no performance improvements**.
+By default, it contains this:
 
-## Headless client
+```
+gfx-enable-gfx-jobs=1
+gfx-enable-native-gfx-jobs=1
+wait-for-native-debugger=0
+hdr-display-enabled=0
+gc-max-time-slice=3
+single-instance=
+build-guid=[some ID]
+```
 
-> This is an advanced setup requiring technical knowledge and an understanding of how SPT works.
-{.is-warning}
-
-> While we provide support with [Project Fika](https://sp-mod.com/mod/2326/project-fika) installed, we do not offer support for the mod itself. If your issue is due to Fika, we ask that you seek support from the Project Fika team.
-[Project Fika's Wiki](https://wiki.project-fika.com/) contains solutions to frequently encountered issues. If you require further support, you can receive it from Project Fika's [Discord server](http://project-fika.com/discord). Their knowledgeable team will be happy to help you.. 
-{.is-info}
-
-As stated in the introduction, the main performance impact on your game is bots. The game does not efficiently utilise your system resources, using the same CPU thread to process bots and render your game. When you play an online raid in the official game, all bot processing happens on official game servers, letting your CPU "concentrate" on rendering the game. If your game is not processing the bots, SPT's performance becomes much closer to the retail game. You should then become GPU bottlenecked, so your graphics will become the primary source of your performance.
-
-[Fika](https://sp-mod.com/mod/2326/project-fika) allows you to host a raid on a different computer as the one you're playing on. This lets you recreate the conditions of a live raid while still using SPT. To set up a headless client, [follow this guide](https://project-fika.gitbook.io/wiki/advanced-features/headless-client).
-
-
-It's also possible to use it to the raid on the same computer as the one you're playing on, letting one part of your CPU render the game, while another processes the bots. It's not necessary to use a program like Process Lasso for this. Please note that **support from Project Fika is limited if you choose to run the headless client on the same PC where you are playing SPT**. This is not the officially supported configuration and may lead to:
-- Performance degradation.
-- Increased incidence of crashes.
-- Significant increase in page file usage.
-- General instability that may adversely affect the entire PC or operating system.
+That's what it should look like to avoid any issues.
 
 # See also
 [System Requirements](/SPT_4x/system-requirements)
