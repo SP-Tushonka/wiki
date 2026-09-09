@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-09-09T01:24:34.997Z
+date: 2026-09-09T03:23:38.242Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -52,5 +52,11 @@ Issue present with [BensBurnedWaffles' custom ammo mods](https://sp-mod.com/user
 
 ## [APBS](https://sp-mod.com/mod/1594/apbs-acids-progressive-bot-system)'s log grow uncontrollably in file size
 Update the mod.
+
+## `Requested value '[bot type]' was not found.` error on loading a raid
+[Uninstall](/SPT_4x/Uninstalling_Mods) any outdated mods. Make sure to uninstall them from the `BepInEx\patchers` folder as well.
+
+
+
 
 
