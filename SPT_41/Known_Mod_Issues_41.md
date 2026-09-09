@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-09-01T20:46:59.101Z
+date: 2026-09-09T00:00:41.977Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -46,6 +46,10 @@ Set `"enableFIRFleaSelling"` to `false` in its config.
 
 ## `Could not load file or assembly 'X'. An Application Control policy has blocked the file.`
 In `Windows Security` > `App & browser control` > `Smart App Control settings` select `Off`.
+
+## `Unable to add item: [id], items must be added before profiles load. Lower the mods TypePriority where items are added to OnLoadOrder.Preload`
+Issue present with [BensBurnedWaffles' custom ammo mods](https://sp-mod.com/user/120002/bensburnedwaffles#mods). [Uninstall](/SPT_4x/Uninstalling_Mods) them.
+
 
 
 
