@@ -2,10 +2,10 @@
 title: Bleeding Edge Install Instructions for SPT 5.0
 description: SPT Bleeding Edge installation instructions for project testing.
 published: true
-date: 2026-09-09T13:30:00.000Z
+date: 2026-09-09T16:49:10.794Z
 tags: 
 editor: markdown
-dateCreated: 2026-09-09T13:30:00.000Z
+dateCreated: 2026-09-09T13:41:16.788Z
 ---
 
 > This page applies to `BLEEDING EDGE` SPT versions. 
@@ -21,7 +21,7 @@ This document is the **only support** that you will find for installing the Blee
 
 ## Prerequisites
 
-- A system above the [minimum system requirements](/SPT_4x/system-requirements). The live Escape From Tarkov install must remain (80GB) as well as a complete copy (+80GB).
+- A system above the [minimum system requirements](/SPT_4x/system-requirements). The Live install must remain (80GB) as well as a complete copy (+80GB).
 - You must have the latest version of the Live game installed using either the Launcher or Steam.
 - You must have started the Live game and loaded the main menu.
 - You must be willing to submit bugs to the [GitHub issues board](https://github.com/sp-tushonka/server-csharp/issues) or to the [#BE-Testing](https://discord.com/channels/875684761291599922/980558564693274694) channel on Discord.
@@ -42,7 +42,7 @@ This document is the **only support** that you will find for installing the Blee
 SPT 5.0 has no installer and no downgrade patcher. It runs on the current Live client, so the install is a copy of your Live game with the Bleeding Edge archive extracted over it.
 
 1. Create a new empty folder outside of any protected location (E.g.: `C:\Games\SPT-5.0-BE`). Do not use Downloads, Desktop or Program Files.
-2. Copy the **entire contents** of your Live Escape From Tarkov folder into that new folder.
+2. Copy the **entire contents** of your Live folder into that new folder.
 	- Copy, do not move. Your Live install stays where it is and stays untouched.
 	- The copy must be complete. Wait for it to finish before continuing.
 3. Download the Bleeding Edge SPT version from the [`#be-testing`](https://discord.com/channels/875684761291599922/980558564693274694) channel from our [Discord Server](https://discord.sp-tushonka.com/).
@@ -92,5 +92,5 @@ It's not supposed to.
 It's not supposed to.
 </details>
 
-Thank you for your help testing and making Single Player Tarkov better for everyone.
+Thank you for your help testing and making SPT better for everyone.
 - Developers & Staff
