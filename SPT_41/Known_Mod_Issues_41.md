@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-09-09T00:00:41.977Z
+date: 2026-09-09T01:24:03.783Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -50,6 +50,7 @@ In `Windows Security` > `App & browser control` > `Smart App Control settings` s
 ## `Unable to add item: [id], items must be added before profiles load. Lower the mods TypePriority where items are added to OnLoadOrder.Preload`
 Issue present with [BensBurnedWaffles' custom ammo mods](https://sp-mod.com/user/120002/bensburnedwaffles#mods). [Uninstall](/SPT_4x/Uninstalling_Mods) them.
 
-
+## [APBS](https://sp-mod.com/mod/1594/apbs-acids-progressive-bot-system)'s log uncontrollably grow in file size
+Update the mod.
 
 
