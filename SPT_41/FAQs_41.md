@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.1
 description: Answers to frequently asked questions.
 published: true
-date: 2026-09-08T19:07:35.239Z
+date: 2026-09-10T04:57:42.180Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:06:51.667Z
@@ -65,10 +65,12 @@ SPT wasn't going be updated to `1.0` and beyond. However, recent developments ha
 Yes.
 ### Will mods made for `4.0` or `4.1` work on `5.0`?
 No.
+### Will `4.1` stop being supported?
+No. `4.1` is the best version of SPT released for modding. It will remain indefinitely available and supported even after the release of `5.0`.
 ### Will there be as many mods for `5.0` as there are for `4.1`?
 Definitively not. With `1.0` the game switched over to IL2CPP, which will make client mods extremely difficult to make.
 ### What is IL2CPP?
-It's a newer, modern way of coding Unity games. The Live game switched over to it predominantly for performance improvements, **not** to hamper the development of SPT.
+It's a different way of compiling Unity games. The Live game switched over to it for performance improvements and anti-cheat benefits. As a result, it makes development of SPT for it harder.
 ### Should I pester mod authors to update their mods for `5.0`?
 **Absolutely not**. Most mod authors will not be porting or making mods for `5.0`. **Anyone pestering mod authors about mod updates will receive warnings, removals, or bans based on their behaviour.**
 
