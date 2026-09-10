@@ -2,7 +2,7 @@
 title: FAQs for SPT 4.0
 description: Answers to frequently asked questions.
 published: true
-date: 2026-09-08T19:07:53.990Z
+date: 2026-09-10T04:58:01.678Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:51.246Z
@@ -68,16 +68,22 @@ Bots are not programmed to move from their spawn location outside of combat. Onl
 
 [SAIN](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) **doesn't** make bots move around the map, as it *only* affects combat behaviour.
 
+## Bot spawns
+SPT uses the game's PvE bot spawning system. Bots will continuously spawn up to a map-specific limit. When enough are killed, more will spawn to replace them. Bot spawns aren't checked for the distance to you or other bots which can let bots can spawn next to you. 
+Use a bot spawning mod like [ABPS](https://sp-mod.com/mod/2097/abps-acids-bot-placement-system) to change this system.
+
 ## SPT `5.0` for Live `1.1`
 SPT wasn't going be updated to `1.0` and beyond. However, recent developments have changed that. SPT `5.0` is in development for version `1.1` of the game.
 ### Will all content from the `1.0` release be included?
 Yes.
 ### Will mods made for `4.0` or `4.1` work on `5.0`?
 No.
+### Will `4.1` stop being supported?
+No. `4.1` is the best version of SPT released for modding. It will remain indefinitely available and supported even after the release of `5.0`.
 ### Will there be as many mods for `5.0` as there are for `4.1`?
 Definitively not. With `1.0` the game switched over to IL2CPP, which will make client mods extremely difficult to make.
 ### What is IL2CPP?
-It's a newer, modern way of coding Unity games. The Live game switched over to it predominantly for performance improvements, **not** to hamper the development of SPT.
+It's a different way of compiling Unity games. The Live game switched over to it for performance improvements and anti-cheat benefits. As a result, it makes development of SPT for it harder.
 ### Should I pester mod authors to update their mods for `5.0`?
 **Absolutely not**. Most mod authors will not be porting or making mods for `5.0`. **Anyone pestering mod authors about mod updates will receive warnings, removals, or bans based on their behaviour.**
 
