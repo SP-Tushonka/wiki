@@ -2,7 +2,7 @@
 title: How SPT Works
 description: The basics of how SPT works.
 published: true
-date: 2026-08-10T15:35:45.832Z
+date: 2026-09-11T21:37:53.431Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:22:54.936Z
@@ -33,8 +33,9 @@ For a guide on installing SPT, see the [Installation Guide](/SPT_4x/Installation
 	- Don't install SPT to the same folder as your retail game copy.
 	- Don't brag to the retail game devs or flaunt it in their Discord while screaming your Live username.
 - You can play the official retail game whenever you want so long as you're not also running SPT.
+- We recommend you do not stream SPT. The Live devs have struck down channels, and might go out of their way to issue a game ban if your account names match your Live. 
 
-We have no verified reports of people being banned from the retail game just for playing SPT. Many developers for SPT would be banned on Live by now if this were true.
+We have no verified reports of people being banned from the retail game just for playing SPT. Many SPT developers would be banned on Live by now if this were true.
 
 ## Updates
 
