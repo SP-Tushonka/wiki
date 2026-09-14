@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-09-09T03:23:38.242Z
+date: 2026-09-14T09:57:08.763Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -56,7 +56,8 @@ Update the mod.
 ## `Requested value '[bot type]' was not found.` error on loading a raid
 [Uninstall](/SPT_4x/Uninstalling_Mods) any outdated mods. Make sure to uninstall them from the `BepInEx\patchers` folder as well.
 
-
+## Bots are frozen in place while using [ORBIT](https://sp-mod.com/mod/2706/orbit-20)
+ORBIT is incompatible with any mod that limits or culls bots. [AI Limit](https://sp-mod.com/mod/1945/ai-limit) is entirely incompatible, while [ABPS](https://sp-mod.com/mod/2097/abps-acids-bot-placement-system)'s bot despawning needs to be turned off.
 
 
 
