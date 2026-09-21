@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-09-14T09:57:08.763Z
+date: 2026-09-21T12:40:37.407Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -59,5 +59,6 @@ Update the mod.
 ## Bots are frozen in place while using [ORBIT](https://sp-mod.com/mod/2706/orbit-20)
 ORBIT is incompatible with any mod that limits or culls bots. [AI Limit](https://sp-mod.com/mod/1945/ai-limit) is entirely incompatible, while [ABPS](https://sp-mod.com/mod/2097/abps-acids-bot-placement-system)'s bot despawning needs to be turned off.
 
-
+## `The given key '[id]' was not present in the dictionary.` server error when using [Item Info](https://sp-mod.com/mod/2430/odts-item-info-spt-40)
+Add the `id` that's in the error message to `\SPT_Runtime\user\mods\ODT-ItemInfo-4.0\config\bsgblacklist.json`. Each entry should be in quotations `""`, and all entries except the last one should end with a comma `,`.
 
