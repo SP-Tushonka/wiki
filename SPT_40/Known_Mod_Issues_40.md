@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.0
 description: Known EFT issues and possible fixes for SPT 4.0.
 published: true
-date: 2026-09-03T14:03:20.927Z
+date: 2026-09-27T21:08:56.667Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T11:23:10.175Z
@@ -166,8 +166,7 @@ A possible incompatibility between it and another mod. Either use the [50/50 Met
 ## All quest objectives are complete but the quest can't be turned in
 Update [CommonLib](<https://sp-mod.com/mod/2310/wtt-commonlib>).
 
-## `Could not load file or assembly 'X'. An Application Control policy has blocked the file.`
-In `Windows Security` > `App & browser control` > `Smart App Control settings` select `Off`.
+
 
 # See also
 [Frequently Asked Questions for SPT 4.0](/SPT_40/FAQs_40)
