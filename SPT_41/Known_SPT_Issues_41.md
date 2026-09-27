@@ -2,7 +2,7 @@
 title: Known SPT 4.1 Issues
 description: Known SPT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-08-25T00:54:32.879Z
+date: 2026-09-27T21:10:02.795Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:19:39.611Z
@@ -41,4 +41,8 @@ Reportedly Malwarebytes and Kaspersky also has this issue.
 ## Game freezes, LogOutput contains `[Error  :ModulePatch] BattlEyePatch: HarmonyLib.HarmonyException: IL Compile Error (unknown location)`
 If enabled, turn off `Set Game Path` in the SPT Launcher.
 
+## `Could not load file or assembly 'X'. An Application Control policy has blocked the file.`
+In `Windows Security` > `App & browser control` > `Smart App Control settings` select `Off`.
 
+# See also
+[Frequently Asked Questions for SPT 4.1](/SPT_41/FAQs_41)
