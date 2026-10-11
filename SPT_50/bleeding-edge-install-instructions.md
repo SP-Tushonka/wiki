@@ -2,7 +2,7 @@
 title: Bleeding Edge Install Instructions for SPT 5.0
 description: SPT Bleeding Edge installation instructions for project testing.
 published: true
-date: 2026-10-11T16:38:08.241Z
+date: 2026-10-11T16:41:28.141Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-09T13:41:16.788Z
