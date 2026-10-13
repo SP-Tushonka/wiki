@@ -2,7 +2,7 @@
 title: Known Mod Issues for SPT 4.1
 description: Known EFT issues and possible fixes for SPT 4.1.
 published: true
-date: 2026-09-27T21:09:51.397Z
+date: 2026-10-13T02:26:28.400Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-08T15:13:45.705Z
@@ -60,5 +60,12 @@ ORBIT is incompatible with any mod that limits or culls bots. [AI Limit](https:/
 ## `The given key '[id]' was not present in the dictionary.` server error when using [Item Info](https://sp-mod.com/mod/2430/odts-item-info-spt-40)
 Add the `id` that's in the error message to `\SPT_Runtime\user\mods\ODT-ItemInfo-4.0\config\bsgblacklist.json`. Each entry should be in quotations `""`, and all entries except the last one should end with a comma `,`.
 
+## Looting a bot only displays a bugged tactical rig
+Update [WTT - Content Backport](<https://sp-mod.com/mod/2512/wtt-content-backport>).
+
+
+
+
 # See also
 [Frequently Asked Questions for SPT 4.1](/SPT_41/FAQs_41)
+
