@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-09-09T21:52:35.692Z
+date: 2026-10-27T14:18:34.866Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -21,8 +21,8 @@ CPUs with powerful single-threaded performance will improve your in-game FPS the
 - Use [Waypoints](https://sp-mod.com/mod/827/waypoints-expanded-navmesh) to optimise AI pathfinding.
 - Use [VRAM Cleaner](https://sp-mod.com/mod/2173/vram-cleaner) to free up VRAM usage of your GPU.
 - If using [Dynamic Maps](https://sp-mod.com/mod/1431/dynamic-maps) disable the minimap.
-- Use [PIP Disabler](https://sp-mod.com/mod/2667/picture-in-picture-disabler)^4.0^.
-	- [DERP](https://sp-mod.com/mod/2200/dynamic-external-resolution-patch-derp)^4.0^ is another mod that help the same issue, but [see here](/SPT_40/Known_Mod_Issues_40#screen-flickers-black-when-using-derp) before using it.
+- Use [PIP Disabler](https://sp-mod.com/mod/2667/picture-in-picture-disabler).
+	- [DERP](https://sp-mod.com/mod/2200/dynamic-external-resolution-patch-derp) is another mod that help the same issue, but [see here](/SPT_40/Known_Mod_Issues_40#screen-flickers-black-when-using-derp) before using it.
 - Set vaulting from `Auto` to `Press` in the in-game settings.
 - Disable `Nvidia Reflex` and `V-Sync` in the graphics settings.
 - Set your texture quality to `Low` or `Medium`.
@@ -30,10 +30,10 @@ CPUs with powerful single-threaded performance will improve your in-game FPS the
 - If you're using Vulkan on Linux or DXVK on Windows, do not use the `Unheard` menu background.
 - Remove mods that add new functions to AI.
   - As bots are the main cause of performance issues, mods that add new functions to them will impact performance.
-- Use [AI Limit](https://sp-mod.com/mod/1945/ai-limit)^4.0^.
+- Use [AI Limit](https://sp-mod.com/mod/1945/ai-limit).
   - AI Limit works by disabling distant AIs. This will have an impact on gameplay, but will improve performance.
   - Some mods are incompatible with AI Limit.
-  - [Questing Bots](https://sp-mod.com/mod/1109/questing-bots)^4.0^ already includes an AI limiter. Use it instead if you have it installed.
+  - [Questing Bots](https://sp-mod.com/mod/1109/questing-bots) already includes an AI limiter. Use it instead if you have it installed.
 - Tweak your bot spawning mod to spawn less bots.
   - Less bots mean less demand on your system, but it will make raid feel "less alive" if lowered too much.
 
