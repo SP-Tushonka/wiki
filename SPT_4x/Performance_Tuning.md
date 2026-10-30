@@ -2,7 +2,7 @@
 title: Performance Tuning
 description: Tips for improving FPS and stability.
 published: true
-date: 2026-10-27T14:18:34.866Z
+date: 2026-10-30T18:24:32.524Z
 tags: guide, performance
 editor: markdown
 dateCreated: 2026-08-08T11:23:21.704Z
@@ -27,6 +27,7 @@ CPUs with powerful single-threaded performance will improve your in-game FPS the
 - Disable `Nvidia Reflex` and `V-Sync` in the graphics settings.
 - Set your texture quality to `Low` or `Medium`.
 - Use `Low texture mode for Streets` to further minimise GPU memory usage.
+- Install [Lawnmower](<https://sp-mod.com/mod/3231/lawnmower>) to reduce the amount of in-game foliage.
 - If you're using Vulkan on Linux or DXVK on Windows, do not use the `Unheard` menu background.
 - Remove mods that add new functions to AI.
   - As bots are the main cause of performance issues, mods that add new functions to them will impact performance.
@@ -57,7 +58,6 @@ It's also possible to use it to the raid on the same computer as the one you're 
 
 ## Further tweaks
 - You will see minor improvements by changing your graphic settings. Follow any graphics guide for the game.
-- In the case you're severely GPU limited, [CWX's MegaMod](https://sp-mod.com/mod/1454/cwx-megamod)'s `GrassCutter` and `EnvironmentEnjoyer` features might help your performance.
 - Enabling Nvidia's `Smooth motion` (for 40 and 50 series GPUs), or AMD's `Fluid Motion Frames` for the game will let your GPU interpolate extra frames, using the unused part of your GPU.
   - If neither are available to you, use [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling)'s Frame Generation.
   - Any form of frame generation will result in some increase in latency.
